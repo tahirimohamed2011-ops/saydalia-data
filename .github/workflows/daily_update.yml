@@ -1,0 +1,42 @@
+name: Mise à jour Quotidienne des Pharmacies de Garde
+
+on:
+  schedule:
+    # 08:30 UTC = 09:30 Heure du Maroc (relève matinale)
+    - cron: '30 8 * * *'
+    # 19:30 UTC = 20:30 Heure du Maroc (relève nocturne)
+    - cron: '30 19 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Récupérer le dépôt saydalia-data
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Exécuter la mise à jour quotidienne
+        run: |
+          python update_daily_pharmacies.py
+
+      - name: Valider l'intégrité du fichier pharmacies.json
+        run: |
+          python -c "import json; data=json.load(open('pharmacies.json', encoding='utf-8')); assert len(data['pharmacies']) > 100; print('VALIDATION REUSSIE : ' + str(len(data['pharmacies'])) + ' pharmacies')"
+
+      - name: Enregistrer et publier la nouvelle liste
+        run: |
+          git config --global user.name 'Saydalia Automated Bot'
+          git config --global user.email 'bot@saydalia.ma'
+          git add pharmacies.json
+          git commit -m "chore(guard): auto-update pharmacies de garde [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]" || exit 0
+          git push origin main
