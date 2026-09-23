@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T13:46:08.350966",
-  "total_count": 538,
+  "last_updated": "2026-09-23T22:26:02.436990",
+  "total_count": 479,
   "cities_covered": 33,
   "pharmacies": [
     {
@@ -21,7 +21,7 @@
       "is_open": true,
       "latitude": 33.5335927,
       "longitude": -7.6992505,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_2",
@@ -41,7 +41,7 @@
       "is_open": true,
       "latitude": 33.54769006595745,
       "longitude": -7.590357139229673,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_3",
@@ -61,7 +61,7 @@
       "is_open": true,
       "latitude": 33.5759093,
       "longitude": -7.5439151,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_4",
@@ -81,7 +81,7 @@
       "is_open": true,
       "latitude": 33.604505,
       "longitude": -7.5208164,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_5",
@@ -101,7 +101,7 @@
       "is_open": true,
       "latitude": 33.539904,
       "longitude": -7.6034278,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_6",
@@ -121,7 +121,7 @@
       "is_open": true,
       "latitude": 33.6071461,
       "longitude": -7.5331361,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_7",
@@ -141,7 +141,7 @@
       "is_open": true,
       "latitude": 33.58334602755531,
       "longitude": -7.57353385824748,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_8",
@@ -161,7 +161,7 @@
       "is_open": true,
       "latitude": 33.5514,
       "longitude": -7.58038,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_9",
@@ -181,7 +181,7 @@
       "is_open": true,
       "latitude": 33.5857753,
       "longitude": -7.5308382,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_10",
@@ -201,7 +201,7 @@
       "is_open": true,
       "latitude": 33.56077702489595,
       "longitude": -7.594756990523901,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_11",
@@ -221,7 +221,7 @@
       "is_open": true,
       "latitude": 33.55087644117479,
       "longitude": -7.705843959511833,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_12",
@@ -241,7 +241,7 @@
       "is_open": true,
       "latitude": 33.53875268929645,
       "longitude": -7.675845606264872,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_13",
@@ -261,7 +261,7 @@
       "is_open": true,
       "latitude": 33.57015946469514,
       "longitude": -7.664797370196259,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_14",
@@ -281,7 +281,7 @@
       "is_open": true,
       "latitude": 33.59650378188572,
       "longitude": -7.594819390351859,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_15",
@@ -301,7 +301,7 @@
       "is_open": true,
       "latitude": 33.57295600366353,
       "longitude": -7.641435831273628,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_16",
@@ -321,7 +321,7 @@
       "is_open": true,
       "latitude": 33.54348846485061,
       "longitude": -7.561292324667705,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_17",
@@ -341,7 +341,7 @@
       "is_open": true,
       "latitude": 33.5660941,
       "longitude": -7.6234637,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_18",
@@ -361,7 +361,7 @@
       "is_open": true,
       "latitude": 33.5823471,
       "longitude": -7.530336,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_19",
@@ -381,7 +381,7 @@
       "is_open": true,
       "latitude": 33.5553578,
       "longitude": -7.6899021,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_20",
@@ -401,7 +401,7 @@
       "is_open": true,
       "latitude": 33.61635191295379,
       "longitude": -7.529369582841916,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_21",
@@ -421,7 +421,7 @@
       "is_open": true,
       "latitude": 33.615338,
       "longitude": -7.5032413,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_22",
@@ -441,7 +441,7 @@
       "is_open": true,
       "latitude": 33.5103443,
       "longitude": -7.6905007,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_23",
@@ -461,7 +461,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_24",
@@ -481,7 +481,7 @@
       "is_open": true,
       "latitude": 33.512136,
       "longitude": -7.6496879,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_25",
@@ -501,7 +501,7 @@
       "is_open": true,
       "latitude": 33.5476,
       "longitude": -7.59103,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_26",
@@ -521,7 +521,7 @@
       "is_open": true,
       "latitude": 33.59711188282738,
       "longitude": -7.585037207218956,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_27",
@@ -541,7 +541,7 @@
       "is_open": true,
       "latitude": 33.55333717691117,
       "longitude": -7.669235275677062,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_28",
@@ -561,7 +561,7 @@
       "is_open": true,
       "latitude": 33.55549457056148,
       "longitude": -7.5737404144029,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_29",
@@ -581,7 +581,7 @@
       "is_open": true,
       "latitude": 33.58235132615155,
       "longitude": -7.601959096585712,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_30",
@@ -601,7 +601,7 @@
       "is_open": true,
       "latitude": 33.61721052048959,
       "longitude": -7.487274499210909,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_31",
@@ -621,7 +621,7 @@
       "is_open": true,
       "latitude": 33.60270899033964,
       "longitude": -7.636478321211224,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_32",
@@ -641,7 +641,7 @@
       "is_open": true,
       "latitude": 33.56566417896445,
       "longitude": -7.675485844981506,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_33",
@@ -661,7 +661,7 @@
       "is_open": true,
       "latitude": 33.58776343905708,
       "longitude": -7.617526443069798,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_34",
@@ -681,7 +681,7 @@
       "is_open": true,
       "latitude": 33.5244574,
       "longitude": -7.6777386,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_35",
@@ -701,7 +701,7 @@
       "is_open": true,
       "latitude": 33.61383780890058,
       "longitude": -7.534908879539206,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_36",
@@ -721,7 +721,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_37",
@@ -741,7 +741,7 @@
       "is_open": true,
       "latitude": 33.578179,
       "longitude": -7.6480256,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_38",
@@ -761,7 +761,7 @@
       "is_open": true,
       "latitude": 33.5780416,
       "longitude": -7.5188166,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_39",
@@ -781,7 +781,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_40",
@@ -801,7 +801,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_41",
@@ -821,7 +821,7 @@
       "is_open": true,
       "latitude": 33.59958178285246,
       "longitude": -7.520419995018718,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_42",
@@ -841,7 +841,7 @@
       "is_open": true,
       "latitude": 33.58505352354701,
       "longitude": -7.555487226472222,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_43",
@@ -861,7 +861,7 @@
       "is_open": true,
       "latitude": 33.537864484888,
       "longitude": -7.612383768989974,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_44",
@@ -881,7 +881,7 @@
       "is_open": true,
       "latitude": 33.58233860300567,
       "longitude": -7.551962642020584,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_45",
@@ -901,7 +901,7 @@
       "is_open": true,
       "latitude": 33.58773282814116,
       "longitude": -7.574070022722639,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_46",
@@ -921,7 +921,7 @@
       "is_open": true,
       "latitude": 33.58846724742921,
       "longitude": -7.682359046903136,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_47",
@@ -941,7 +941,7 @@
       "is_open": true,
       "latitude": 33.58154812971835,
       "longitude": -7.563235954196547,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_48",
@@ -961,7 +961,7 @@
       "is_open": true,
       "latitude": 33.59958178285246,
       "longitude": -7.520419995018718,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_49",
@@ -981,7 +981,7 @@
       "is_open": true,
       "latitude": 33.5281998,
       "longitude": -7.6087211,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_50",
@@ -1001,7 +1001,7 @@
       "is_open": true,
       "latitude": 33.52768841600548,
       "longitude": -7.613311369182247,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_51",
@@ -1021,7 +1021,7 @@
       "is_open": true,
       "latitude": 33.54931743758089,
       "longitude": -7.599667662603478,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_52",
@@ -1041,7 +1041,7 @@
       "is_open": true,
       "latitude": 33.55276064129984,
       "longitude": -7.594411409326299,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_53",
@@ -1061,7 +1061,7 @@
       "is_open": true,
       "latitude": 33.6177938,
       "longitude": -7.5463805,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_54",
@@ -1081,7 +1081,7 @@
       "is_open": true,
       "latitude": 33.5981895,
       "longitude": -7.6476276,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_55",
@@ -1101,7 +1101,7 @@
       "is_open": true,
       "latitude": 33.6021541,
       "longitude": -7.5240977,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_56",
@@ -1121,7 +1121,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_57",
@@ -1141,7 +1141,7 @@
       "is_open": true,
       "latitude": 33.5570602,
       "longitude": -7.5587171,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_58",
@@ -1161,7 +1161,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_59",
@@ -1181,7 +1181,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_60",
@@ -1201,7 +1201,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_61",
@@ -1221,7 +1221,7 @@
       "is_open": true,
       "latitude": 33.5399505,
       "longitude": -7.5591624,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_62",
@@ -1241,7 +1241,7 @@
       "is_open": true,
       "latitude": 33.56083383452683,
       "longitude": -7.645832000471682,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_63",
@@ -1261,7 +1261,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_64",
@@ -1281,7 +1281,7 @@
       "is_open": true,
       "latitude": 33.5976204,
       "longitude": -7.4951622,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_65",
@@ -1301,7 +1301,7 @@
       "is_open": true,
       "latitude": 33.59941273124579,
       "longitude": -7.491662859610551,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_66",
@@ -1321,7 +1321,7 @@
       "is_open": true,
       "latitude": 33.5758612,
       "longitude": -7.5691629,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_67",
@@ -1341,7 +1341,7 @@
       "is_open": true,
       "latitude": 33.57311164402709,
       "longitude": -7.603263913723524,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_68",
@@ -1361,7 +1361,7 @@
       "is_open": true,
       "latitude": 33.56588616299146,
       "longitude": -7.607106980588783,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_69",
@@ -1381,7 +1381,7 @@
       "is_open": true,
       "latitude": 33.5505142,
       "longitude": -7.6272408,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_70",
@@ -1401,7 +1401,7 @@
       "is_open": true,
       "latitude": 33.5807924,
       "longitude": -7.5567538,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_71",
@@ -1421,7 +1421,7 @@
       "is_open": true,
       "latitude": 33.5998884,
       "longitude": -7.5369404,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_72",
@@ -1441,7 +1441,7 @@
       "is_open": true,
       "latitude": 33.5465098,
       "longitude": -7.5721609,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_73",
@@ -1461,7 +1461,7 @@
       "is_open": true,
       "latitude": 33.5702555,
       "longitude": -7.6096919,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_74",
@@ -1481,7 +1481,7 @@
       "is_open": true,
       "latitude": 33.6008744,
       "longitude": -7.6405887,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_75",
@@ -1501,7 +1501,7 @@
       "is_open": true,
       "latitude": 33.5839727,
       "longitude": -7.5701899,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_76",
@@ -1521,7 +1521,7 @@
       "is_open": true,
       "latitude": 33.574677,
       "longitude": -7.5887142,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_77",
@@ -1541,7 +1541,7 @@
       "is_open": true,
       "latitude": 33.6087129,
       "longitude": -7.5393764,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_78",
@@ -1561,7 +1561,7 @@
       "is_open": true,
       "latitude": 33.5938,
       "longitude": -7.58429,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_79",
@@ -1581,7 +1581,7 @@
       "is_open": true,
       "latitude": 33.5891904,
       "longitude": -7.5677842,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_80",
@@ -1601,7 +1601,7 @@
       "is_open": true,
       "latitude": 33.56968171373055,
       "longitude": -7.621939195379097,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_81",
@@ -1621,7 +1621,7 @@
       "is_open": true,
       "latitude": 33.518881,
       "longitude": -7.695199,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_82",
@@ -1641,7 +1641,7 @@
       "is_open": true,
       "latitude": 33.5817566,
       "longitude": -7.6242612,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_83",
@@ -1661,7 +1661,7 @@
       "is_open": true,
       "latitude": 33.5904677,
       "longitude": -7.58002,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_84",
@@ -1681,7 +1681,7 @@
       "is_open": true,
       "latitude": 33.5763731,
       "longitude": -7.5627322,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_85",
@@ -1701,7 +1701,7 @@
       "is_open": true,
       "latitude": 33.5874524,
       "longitude": -7.5554623,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_86",
@@ -1721,7 +1721,7 @@
       "is_open": true,
       "latitude": 33.5539439,
       "longitude": -7.6037065,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_87",
@@ -1741,7 +1741,7 @@
       "is_open": true,
       "latitude": 33.5965996,
       "longitude": -7.61549,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_88",
@@ -1761,7 +1761,7 @@
       "is_open": true,
       "latitude": 33.5976204,
       "longitude": -7.4951622,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_89",
@@ -1781,7 +1781,7 @@
       "is_open": true,
       "latitude": 33.59466566024035,
       "longitude": -7.569204544203857,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_90",
@@ -1801,7 +1801,7 @@
       "is_open": true,
       "latitude": 33.5869,
       "longitude": -7.50148,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_91",
@@ -1821,7 +1821,7 @@
       "is_open": true,
       "latitude": 33.5889035,
       "longitude": -7.5213271,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_92",
@@ -1841,7 +1841,7 @@
       "is_open": true,
       "latitude": 33.5483824,
       "longitude": -7.6846389,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_93",
@@ -1861,7 +1861,7 @@
       "is_open": true,
       "latitude": 33.5723744,
       "longitude": -7.6850262,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_94",
@@ -1881,7 +1881,7 @@
       "is_open": true,
       "latitude": 33.6110599,
       "longitude": -7.4950116,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_95",
@@ -1901,7 +1901,7 @@
       "is_open": true,
       "latitude": 33.573381,
       "longitude": -7.577978,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_96",
@@ -1921,7 +1921,7 @@
       "is_open": true,
       "latitude": 33.588016,
       "longitude": -7.650102,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_97",
@@ -1941,7 +1941,7 @@
       "is_open": true,
       "latitude": 33.5914738,
       "longitude": -7.6410793,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_98",
@@ -1961,7 +1961,7 @@
       "is_open": true,
       "latitude": 33.5931879,
       "longitude": -7.6431813,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_99",
@@ -1981,7 +1981,7 @@
       "is_open": true,
       "latitude": 33.5346107,
       "longitude": -7.64023,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_100",
@@ -2001,7 +2001,7 @@
       "is_open": true,
       "latitude": 33.55238514057125,
       "longitude": -7.60748878301162,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_101",
@@ -2021,7 +2021,7 @@
       "is_open": true,
       "latitude": 33.5746943,
       "longitude": -7.708619,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_102",
@@ -2041,7 +2041,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_103",
@@ -2061,7 +2061,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_104",
@@ -2081,7 +2081,7 @@
       "is_open": true,
       "latitude": 33.5573697,
       "longitude": -7.6903461,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_105",
@@ -2101,7 +2101,7 @@
       "is_open": true,
       "latitude": 33.5027515,
       "longitude": -7.6591122,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_106",
@@ -2121,7 +2121,7 @@
       "is_open": true,
       "latitude": 33.5730567,
       "longitude": -7.6031589,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_107",
@@ -2141,7 +2141,7 @@
       "is_open": true,
       "latitude": 33.61317448644721,
       "longitude": -7.504278950865386,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_108",
@@ -2161,7 +2161,7 @@
       "is_open": true,
       "latitude": 33.5779117,
       "longitude": -7.5691788,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "casablanca_109",
@@ -2181,7 +2181,7 @@
       "is_open": true,
       "latitude": 33.5914738,
       "longitude": -7.6410793,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_1",
@@ -2201,7 +2201,7 @@
       "is_open": true,
       "latitude": 33.9694714867776,
       "longitude": -6.86416171265583,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_2",
@@ -2221,10 +2221,30 @@
       "is_open": true,
       "latitude": 33.96051710762593,
       "longitude": -6.855924908212223,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_3",
+      "name": "Pharmacie & Para Les Terrasses Dar Essalam",
+      "name_ar": "Pharmacie & Para Les Terrasses Dar Essalam",
+      "address": "Takadoum & Souissi, Rabat",
+      "address_ar": "Orangeraie Souissi, Rue Bni Meskine, Les Terrasses Dar Essalam, Rabat",
+      "phone": "+212530319856",
+      "city": "Rabat",
+      "city_ar": "",
+      "duty_type": "24h",
+      "duty_category": "permanent_24h",
+      "duty_label_fr": "Garde 24h (Tour de garde)",
+      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
+      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
+      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
+      "is_open": true,
+      "latitude": 33.95117160692838,
+      "longitude": -6.836063060760493,
+      "verified_at": "2026-09-23 22:25"
+    },
+    {
+      "id": "rabat_4",
       "name": "Pharmacie Abdelkrim El Khatabi",
       "name_ar": "Pharmacie Abdelkrim El Khatabi",
       "address": "Pharmacie Abdelkrim El Khatabi",
@@ -2241,10 +2261,10 @@
       "is_open": true,
       "latitude": 34.0218454,
       "longitude": -6.8408929,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "rabat_4",
+      "id": "rabat_5",
       "name": "Pharmacie AMWAJ",
       "name_ar": "Pharmacie AMWAJ",
       "address": "Yacoub El Mansour, Rabat",
@@ -2261,10 +2281,10 @@
       "is_open": true,
       "latitude": 33.9800045,
       "longitude": -6.8914727,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "rabat_5",
+      "id": "rabat_6",
       "name": "Pharmacie Attaissir",
       "name_ar": "Pharmacie Attaïssir",
       "address": "Pharmacie Attaissir",
@@ -2281,14 +2301,14 @@
       "is_open": true,
       "latitude": 33.978001,
       "longitude": -6.892237,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "rabat_6",
+      "id": "rabat_7",
       "name": "Pharmacie CITY CENTER",
-      "name_ar": "Pharmacie CITY CENTER",
+      "name_ar": "CITY CENTER",
       "address": "Hay Riad, Rabat",
-      "address_ar": "Hay Riad, Rabat",
+      "address_ar": "Centre Commerciale Marjane Market (Prés de la Mosquée Lalla Soukaina)",
       "phone": "+212537564244",
       "city": "Rabat",
       "city_ar": "",
@@ -2299,12 +2319,12 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": null,
-      "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "latitude": 33.9695822,
+      "longitude": -6.8642575,
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "rabat_7",
+      "id": "rabat_8",
       "name": "Pharmacie Hay Chabab",
       "name_ar": "Pharmacie HAY CHABAB",
       "address": "Pharmacie Hay Chabab",
@@ -2321,10 +2341,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "rabat_8",
+      "id": "rabat_9",
       "name": "Pharmacie Ibn Sina",
       "name_ar": "Pharmacie IBN SINA",
       "address": "angle av fal oueld oumeir et av.atlas",
@@ -2341,10 +2361,10 @@
       "is_open": true,
       "latitude": 33.9962606,
       "longitude": -6.8482013,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "rabat_9",
+      "id": "rabat_10",
       "name": "Pharmacie Karioun",
       "name_ar": "Pharmacie KARIOUN",
       "address": "Pharmacie Karioun",
@@ -2361,10 +2381,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "rabat_10",
+      "id": "rabat_11",
       "name": "Pharmacie La Rosee",
       "name_ar": "Pharmacie LA ROSEE",
       "address": "hay nahda 2. n°188 extension 3. en face mawazine",
@@ -2381,10 +2401,10 @@
       "is_open": true,
       "latitude": 33.9738331,
       "longitude": -6.8169025,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "rabat_11",
+      "id": "rabat_12",
       "name": "Pharmacie La Vitalite",
       "name_ar": "LA VITALITE",
       "address": "Pharmacie La Vitalite",
@@ -2401,27 +2421,7 @@
       "is_open": true,
       "latitude": 33.9568322,
       "longitude": -6.859455,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "rabat_12",
-      "name": "Pharmacie & Para Les Terrasses Dar Essalam",
-      "name_ar": "Pharmacie & Para Les Terrasses Dar Essalam",
-      "address": "Orangeraie Souissi, Rue Bni Meskine, Les Terrasses Dar Essalam, Rabat",
-      "address_ar": "Orangeraie Souissi, Rue Bni Meskine, Les Terrasses Dar Essalam, Rabat",
-      "phone": "+212530319856",
-      "city": "Rabat",
-      "city_ar": "",
-      "duty_type": "24h",
-      "duty_category": "permanent_24h",
-      "duty_label_fr": "Garde 24h (Tour de garde)",
-      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
-      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
-      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
-      "is_open": true,
-      "latitude": 33.95117160692838,
-      "longitude": -6.836063060760493,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_13",
@@ -2441,10 +2441,30 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_14",
+      "name": "LES TERRASSES DAR ESSALAM",
+      "name_ar": "Pharmacie LES TERRASSES DAR ESSALAM",
+      "address": "Rue Bani Meskine , résidence Terrasses Dar Essalam A1C3 Orangeraie Souissi،Près mosquée Annasr 300m",
+      "address_ar": "Takadoum & Souissi, Rabat",
+      "phone": "+212530319856",
+      "city": "Rabat",
+      "city_ar": "",
+      "duty_type": "24h",
+      "duty_category": "permanent_24h",
+      "duty_label_fr": "Garde 24h (Tour de garde)",
+      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
+      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
+      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
+      "is_open": true,
+      "latitude": null,
+      "longitude": null,
+      "verified_at": "2026-09-23 22:25"
+    },
+    {
+      "id": "rabat_15",
       "name": "Pharmacie DES FACULTES",
       "name_ar": "Pharmacie DES FACULTES",
       "address": "Avenue Omar Ibn Al Khattab, Rabat",
@@ -2461,10 +2481,10 @@
       "is_open": true,
       "latitude": 33.9994745,
       "longitude": -6.8445175,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "rabat_15",
+      "id": "rabat_16",
       "name": "Pharmacie IBN TOUMERTE",
       "name_ar": "Pharmacie IBN TOUMERTE",
       "address": "40 Boulevard Ibn Toumerte، Rabat 10000",
@@ -2481,10 +2501,10 @@
       "is_open": true,
       "latitude": 34.0162516,
       "longitude": -6.8391515,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "rabat_16",
+      "id": "rabat_17",
       "name": "Pharmacie LES COLONNES",
       "name_ar": "Pharmacie les colonnes",
       "address": "Centre Ville, Rabat",
@@ -2501,27 +2521,7 @@
       "is_open": true,
       "latitude": 34.01335416505664,
       "longitude": -6.822604183117544,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "rabat_17",
-      "name": "Pharmacie LES TERRASSES DAR ESSALAM",
-      "name_ar": "Pharmacie LES TERRASSES DAR ESSALAM",
-      "address": "Takadoum & Souissi, Rabat",
-      "address_ar": "Takadoum & Souissi, Rabat",
-      "phone": "+212530319856",
-      "city": "Rabat",
-      "city_ar": "",
-      "duty_type": "24h",
-      "duty_category": "permanent_24h",
-      "duty_label_fr": "Garde 24h (Tour de garde)",
-      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
-      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
-      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
-      "is_open": true,
-      "latitude": null,
-      "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_18",
@@ -2541,7 +2541,7 @@
       "is_open": true,
       "latitude": 33.99621338739714,
       "longitude": -6.877926979064936,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_19",
@@ -2561,7 +2561,7 @@
       "is_open": true,
       "latitude": 33.9957197,
       "longitude": -6.8657472,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_20",
@@ -2581,7 +2581,7 @@
       "is_open": true,
       "latitude": 33.95231231419403,
       "longitude": -6.878369189852784,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_21",
@@ -2601,7 +2601,7 @@
       "is_open": true,
       "latitude": 33.94265212072284,
       "longitude": -6.883389321192152,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_22",
@@ -2621,7 +2621,7 @@
       "is_open": true,
       "latitude": 33.966847,
       "longitude": -6.906005,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_23",
@@ -2641,7 +2641,7 @@
       "is_open": true,
       "latitude": 33.990393,
       "longitude": -6.882271,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_24",
@@ -2661,7 +2661,7 @@
       "is_open": true,
       "latitude": 34.017975,
       "longitude": -6.829274,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_25",
@@ -2681,7 +2681,7 @@
       "is_open": true,
       "latitude": 34.0164052,
       "longitude": -6.8320153,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_26",
@@ -2701,7 +2701,7 @@
       "is_open": true,
       "latitude": 33.968530313322,
       "longitude": -6.897888202584501,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_27",
@@ -2721,7 +2721,7 @@
       "is_open": true,
       "latitude": 33.98386509768739,
       "longitude": -6.888526220424096,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_28",
@@ -2741,7 +2741,7 @@
       "is_open": true,
       "latitude": 33.97918512987214,
       "longitude": -6.813887484621041,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_29",
@@ -2761,7 +2761,7 @@
       "is_open": true,
       "latitude": 34.0218454,
       "longitude": -6.8408929,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_30",
@@ -2781,7 +2781,7 @@
       "is_open": true,
       "latitude": 33.98095263656372,
       "longitude": -6.832098755836482,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_31",
@@ -2801,7 +2801,7 @@
       "is_open": true,
       "latitude": 34.0174608,
       "longitude": -6.8258189,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_32",
@@ -2821,7 +2821,7 @@
       "is_open": true,
       "latitude": 33.9876508,
       "longitude": -6.8732679,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_33",
@@ -2841,7 +2841,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_34",
@@ -2861,7 +2861,7 @@
       "is_open": true,
       "latitude": 33.9647906,
       "longitude": -6.9037928,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_35",
@@ -2881,7 +2881,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_36",
@@ -2901,7 +2901,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_37",
@@ -2921,7 +2921,7 @@
       "is_open": true,
       "latitude": 33.9862446,
       "longitude": -6.88759,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_38",
@@ -2941,7 +2941,7 @@
       "is_open": true,
       "latitude": 34.020966,
       "longitude": -6.826752,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "rabat_39",
@@ -2961,7 +2961,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_1",
@@ -2981,7 +2981,7 @@
       "is_open": true,
       "latitude": 31.63087646277029,
       "longitude": -8.030042155825605,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_2",
@@ -3001,7 +3001,7 @@
       "is_open": true,
       "latitude": 31.6289069,
       "longitude": -8.0191945,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_3",
@@ -3021,7 +3021,7 @@
       "is_open": true,
       "latitude": 31.633333,
       "longitude": -8.0,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_4",
@@ -3041,7 +3041,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_5",
@@ -3061,7 +3061,7 @@
       "is_open": true,
       "latitude": 31.6301628,
       "longitude": -8.0622873,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_6",
@@ -3081,7 +3081,7 @@
       "is_open": true,
       "latitude": 31.6348548,
       "longitude": -8.0043299,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_7",
@@ -3101,7 +3101,7 @@
       "is_open": true,
       "latitude": 31.6639761,
       "longitude": -7.98567,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_8",
@@ -3121,7 +3121,7 @@
       "is_open": true,
       "latitude": 31.6277023,
       "longitude": -8.0461756,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_9",
@@ -3141,7 +3141,7 @@
       "is_open": true,
       "latitude": 31.6097302,
       "longitude": -7.9708976,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_10",
@@ -3161,7 +3161,7 @@
       "is_open": true,
       "latitude": 31.6533554,
       "longitude": -8.0051676,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_11",
@@ -3181,7 +3181,7 @@
       "is_open": true,
       "latitude": 31.6497738,
       "longitude": -7.9930178,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_12",
@@ -3201,7 +3201,7 @@
       "is_open": true,
       "latitude": 31.67602,
       "longitude": -8.037775,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_13",
@@ -3221,7 +3221,7 @@
       "is_open": true,
       "latitude": 31.6293081,
       "longitude": -7.9903372,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_14",
@@ -3241,7 +3241,7 @@
       "is_open": true,
       "latitude": 31.6743781,
       "longitude": -8.010297,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_15",
@@ -3261,7 +3261,7 @@
       "is_open": true,
       "latitude": 31.6489509,
       "longitude": -8.0527361,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_16",
@@ -3281,7 +3281,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_17",
@@ -3301,7 +3301,7 @@
       "is_open": true,
       "latitude": 31.6289069,
       "longitude": -8.0191945,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_18",
@@ -3321,7 +3321,7 @@
       "is_open": true,
       "latitude": 31.6343627445713,
       "longitude": -7.920553617650589,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_19",
@@ -3341,7 +3341,7 @@
       "is_open": true,
       "latitude": 31.6520686,
       "longitude": -8.0617279,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_20",
@@ -3361,7 +3361,7 @@
       "is_open": true,
       "latitude": 31.6379535,
       "longitude": -8.0784718,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_21",
@@ -3381,7 +3381,7 @@
       "is_open": true,
       "latitude": 31.58678091565496,
       "longitude": -8.038552253578189,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_22",
@@ -3401,7 +3401,7 @@
       "is_open": true,
       "latitude": 31.65893322463967,
       "longitude": -8.00045159467101,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_23",
@@ -3421,7 +3421,7 @@
       "is_open": true,
       "latitude": 31.6710951,
       "longitude": -8.0535777,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_24",
@@ -3441,7 +3441,7 @@
       "is_open": true,
       "latitude": 31.65490986191142,
       "longitude": -8.029011969585204,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_25",
@@ -3461,7 +3461,7 @@
       "is_open": true,
       "latitude": 31.6362185,
       "longitude": -7.9851785,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_26",
@@ -3481,7 +3481,7 @@
       "is_open": true,
       "latitude": 31.6232667,
       "longitude": -8.0255,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_27",
@@ -3501,7 +3501,7 @@
       "is_open": true,
       "latitude": 31.62585,
       "longitude": -8.0680833,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_28",
@@ -3521,7 +3521,7 @@
       "is_open": true,
       "latitude": 31.5690692,
       "longitude": -8.0574025,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_29",
@@ -3541,7 +3541,7 @@
       "is_open": true,
       "latitude": 31.65904744014904,
       "longitude": -8.065670401844153,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_30",
@@ -3561,7 +3561,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_31",
@@ -3581,7 +3581,7 @@
       "is_open": true,
       "latitude": 31.6379535,
       "longitude": -8.0784718,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_32",
@@ -3601,7 +3601,7 @@
       "is_open": true,
       "latitude": 31.6343627445713,
       "longitude": -7.920553617650589,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_33",
@@ -3621,7 +3621,7 @@
       "is_open": true,
       "latitude": 31.632675,
       "longitude": -8.0563313,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_34",
@@ -3641,7 +3641,7 @@
       "is_open": true,
       "latitude": 31.6716167,
       "longitude": -8.0402705,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_35",
@@ -3661,7 +3661,7 @@
       "is_open": true,
       "latitude": 31.66418470062408,
       "longitude": -8.026452111256374,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_36",
@@ -3681,7 +3681,7 @@
       "is_open": true,
       "latitude": 31.648702,
       "longitude": -7.9631115,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_37",
@@ -3701,7 +3701,7 @@
       "is_open": true,
       "latitude": 31.64634967688484,
       "longitude": -7.992436028022807,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_38",
@@ -3721,7 +3721,7 @@
       "is_open": true,
       "latitude": 31.63065939450153,
       "longitude": -7.993512090161721,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_39",
@@ -3741,7 +3741,7 @@
       "is_open": true,
       "latitude": 31.649601,
       "longitude": -8.0141135,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_40",
@@ -3761,7 +3761,7 @@
       "is_open": true,
       "latitude": 31.67174133190651,
       "longitude": -8.004539357672122,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_41",
@@ -3781,7 +3781,7 @@
       "is_open": true,
       "latitude": 31.6461812,
       "longitude": -8.0632143,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_42",
@@ -3801,7 +3801,7 @@
       "is_open": true,
       "latitude": 31.6362185,
       "longitude": -7.9851785,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_43",
@@ -3821,7 +3821,7 @@
       "is_open": true,
       "latitude": 31.57505859369119,
       "longitude": -8.055936845133303,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_44",
@@ -3841,7 +3841,7 @@
       "is_open": true,
       "latitude": 31.62438305942431,
       "longitude": -7.966567448799997,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_45",
@@ -3861,7 +3861,7 @@
       "is_open": true,
       "latitude": 31.637856,
       "longitude": -8.00931,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_46",
@@ -3881,7 +3881,7 @@
       "is_open": true,
       "latitude": 31.5910771,
       "longitude": -8.0246919,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_47",
@@ -3901,7 +3901,7 @@
       "is_open": true,
       "latitude": 31.639651,
       "longitude": -8.020912,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_48",
@@ -3921,7 +3921,7 @@
       "is_open": true,
       "latitude": 31.6397316,
       "longitude": -7.9796837,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_49",
@@ -3941,7 +3941,7 @@
       "is_open": true,
       "latitude": 31.5975999,
       "longitude": -8.0470623,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_50",
@@ -3961,7 +3961,7 @@
       "is_open": true,
       "latitude": 31.6259778,
       "longitude": -8.0680472,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_51",
@@ -3981,7 +3981,7 @@
       "is_open": true,
       "latitude": 31.6198578,
       "longitude": -8.0104432,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_52",
@@ -4001,7 +4001,7 @@
       "is_open": true,
       "latitude": 31.62143962175074,
       "longitude": -8.056518041317242,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "marrakech_53",
@@ -4021,7 +4021,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_1",
@@ -4041,7 +4041,7 @@
       "is_open": true,
       "latitude": 34.0336561,
       "longitude": -5.0485043,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_2",
@@ -4061,7 +4061,7 @@
       "is_open": true,
       "latitude": 34.0327272,
       "longitude": -5.0849665,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_3",
@@ -4081,7 +4081,7 @@
       "is_open": true,
       "latitude": 34.0385049489617,
       "longitude": -4.998289059124126,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_4",
@@ -4101,14 +4101,14 @@
       "is_open": true,
       "latitude": 33.9407277418683,
       "longitude": -5.030982143924707,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_5",
       "name": "PHARMACIE EL GHAZI",
-      "name_ar": "PHARMACIE EL GHAZI",
+      "name_ar": "Pharmacie El Ghazi",
       "address": "263 تجزئة جاد عين قادوس",
-      "address_ar": "263 تجزئة جاد عين قادوس",
+      "address_ar": "263 lot. jad ain qadous Fes",
       "phone": "",
       "city": "Fès",
       "city_ar": "",
@@ -4119,16 +4119,16 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": 34.0567516,
-      "longitude": -5.0152941,
-      "verified_at": "2026-09-23 13:46"
+      "latitude": 34.05665993585589,
+      "longitude": -5.015323170816847,
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_6",
       "name": "PHARMACIE GHITA",
-      "name_ar": "PHARMACIE GHITA",
+      "name_ar": "Pharmacie Ghita",
       "address": "رقم 118 تجزئة غيثة بن سودة قرب الملعب البلدي",
-      "address_ar": "رقم 118 تجزئة غيثة بن سودة قرب الملعب البلدي",
+      "address_ar": "n°118 lot. ghita bensouda. près du stade Fes",
       "phone": "",
       "city": "Fès",
       "city_ar": "",
@@ -4139,9 +4139,9 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": 34.0120727,
-      "longitude": -5.0617496,
-      "verified_at": "2026-09-23 13:46"
+      "latitude": 34.01197127021861,
+      "longitude": -5.061845170170751,
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_7",
@@ -4161,7 +4161,7 @@
       "is_open": true,
       "latitude": 34.01602746197413,
       "longitude": -5.071269679835351,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_8",
@@ -4181,7 +4181,7 @@
       "is_open": true,
       "latitude": 33.9608488,
       "longitude": -5.0222982,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_9",
@@ -4201,7 +4201,7 @@
       "is_open": true,
       "latitude": 34.01833516934879,
       "longitude": -5.049485638905673,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_10",
@@ -4221,14 +4221,14 @@
       "is_open": true,
       "latitude": 34.0384801,
       "longitude": -5.0004637,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_11",
       "name": "PHARMACIE NOUREDDINE",
-      "name_ar": "PHARMACIE NOUREDDINE",
+      "name_ar": "Pharmacie Noureddine",
       "address": "DOUAR EL HANDIA AOUINAT AL HAJJAJدوار الهندية عوينات الحجاج قرب مقبرة عوينات الحجاج",
-      "address_ar": "DOUAR EL HANDIA AOUINAT AL HAJJAJدوار الهندية عوينات الحجاج قرب مقبرة عوينات الحجاج",
+      "address_ar": "707, bloc a4, douar el hendia, hay aouinat al hajjaj FES",
       "phone": "+212535731540",
       "city": "Fès",
       "city_ar": "",
@@ -4241,7 +4241,7 @@
       "is_open": true,
       "latitude": 34.0200563,
       "longitude": -4.9641712,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_12",
@@ -4261,7 +4261,7 @@
       "is_open": true,
       "latitude": 34.0528742,
       "longitude": -5.0487331,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_13",
@@ -4281,7 +4281,7 @@
       "is_open": true,
       "latitude": 34.0164198371465,
       "longitude": -4.959963075282037,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_14",
@@ -4301,7 +4301,7 @@
       "is_open": true,
       "latitude": 34.00875323180239,
       "longitude": -5.009817944647434,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_15",
@@ -4321,7 +4321,7 @@
       "is_open": true,
       "latitude": 34.06253590548312,
       "longitude": -4.9687911046009,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_16",
@@ -4341,7 +4341,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_17",
@@ -4361,7 +4361,7 @@
       "is_open": true,
       "latitude": 34.05665993585589,
       "longitude": -5.015323170816847,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_18",
@@ -4381,7 +4381,7 @@
       "is_open": true,
       "latitude": 34.01197127021861,
       "longitude": -5.061845170170751,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_19",
@@ -4401,7 +4401,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_20",
@@ -4421,7 +4421,7 @@
       "is_open": true,
       "latitude": 33.9467949,
       "longitude": -5.0340371,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_21",
@@ -4441,7 +4441,7 @@
       "is_open": true,
       "latitude": 34.02913382431365,
       "longitude": -5.026639999280884,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_22",
@@ -4461,7 +4461,7 @@
       "is_open": true,
       "latitude": 34.05045577059857,
       "longitude": -4.957750163262329,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_23",
@@ -4481,7 +4481,7 @@
       "is_open": true,
       "latitude": 34.01358427574441,
       "longitude": -5.029422740799518,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_24",
@@ -4501,7 +4501,7 @@
       "is_open": true,
       "latitude": 34.0306458,
       "longitude": -5.0087577,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_25",
@@ -4521,7 +4521,7 @@
       "is_open": true,
       "latitude": 34.00445035843799,
       "longitude": -5.007663479484081,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_26",
@@ -4541,7 +4541,7 @@
       "is_open": true,
       "latitude": 34.01654580645371,
       "longitude": -5.045123420403474,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_27",
@@ -4561,7 +4561,7 @@
       "is_open": true,
       "latitude": 33.99019872624047,
       "longitude": -5.038371210124287,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "fes_28",
@@ -4581,7 +4581,7 @@
       "is_open": true,
       "latitude": 34.02254689564116,
       "longitude": -4.971702642486566,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_1",
@@ -4601,7 +4601,7 @@
       "is_open": true,
       "latitude": 35.75214776,
       "longitude": -5.85904355,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_2",
@@ -4621,7 +4621,7 @@
       "is_open": true,
       "latitude": 35.76956241,
       "longitude": -5.82081713,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_3",
@@ -4641,7 +4641,7 @@
       "is_open": true,
       "latitude": 35.75234978,
       "longitude": -5.7964373,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_4",
@@ -4661,7 +4661,7 @@
       "is_open": true,
       "latitude": 35.7594651,
       "longitude": -5.8339543,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_5",
@@ -4681,7 +4681,7 @@
       "is_open": true,
       "latitude": 35.729423,
       "longitude": -5.826951,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_6",
@@ -4701,7 +4701,7 @@
       "is_open": true,
       "latitude": 35.77154263,
       "longitude": -5.79934358,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_7",
@@ -4721,7 +4721,7 @@
       "is_open": true,
       "latitude": 35.72658043,
       "longitude": -5.75629687,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_8",
@@ -4741,7 +4741,7 @@
       "is_open": true,
       "latitude": 35.76788192332869,
       "longitude": -5.773360212758531,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_9",
@@ -4761,7 +4761,7 @@
       "is_open": true,
       "latitude": 35.7672511,
       "longitude": -5.8480166,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_10",
@@ -4781,7 +4781,7 @@
       "is_open": true,
       "latitude": 35.77295986672678,
       "longitude": -5.814131594196339,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_11",
@@ -4801,7 +4801,7 @@
       "is_open": true,
       "latitude": 35.7478346,
       "longitude": -5.8459135,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_12",
@@ -4821,7 +4821,7 @@
       "is_open": true,
       "latitude": 35.7492197,
       "longitude": -5.8176113,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_13",
@@ -4839,9 +4839,9 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": null,
-      "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "latitude": 35.7602607,
+      "longitude": -5.7827385,
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_14",
@@ -4861,7 +4861,7 @@
       "is_open": true,
       "latitude": 35.7227021,
       "longitude": -5.840643,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_15",
@@ -4881,7 +4881,7 @@
       "is_open": true,
       "latitude": 35.70829204133521,
       "longitude": -5.815653115441314,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_16",
@@ -4901,7 +4901,7 @@
       "is_open": true,
       "latitude": 35.77793995,
       "longitude": -5.75417652,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_17",
@@ -4921,7 +4921,7 @@
       "is_open": true,
       "latitude": 35.75184399,
       "longitude": -5.8319001,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_18",
@@ -4941,7 +4941,7 @@
       "is_open": true,
       "latitude": 35.724144,
       "longitude": -5.816578,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_19",
@@ -4961,7 +4961,7 @@
       "is_open": true,
       "latitude": 35.766918,
       "longitude": -5.748749,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_20",
@@ -4981,7 +4981,7 @@
       "is_open": true,
       "latitude": 35.76120335,
       "longitude": -5.81407506,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_21",
@@ -5001,7 +5001,7 @@
       "is_open": true,
       "latitude": 35.74690783,
       "longitude": -5.79558343,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_22",
@@ -5021,7 +5021,7 @@
       "is_open": true,
       "latitude": 35.77826196,
       "longitude": -5.8095667,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_23",
@@ -5041,7 +5041,7 @@
       "is_open": true,
       "latitude": 35.75742446,
       "longitude": -5.83718434,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_24",
@@ -5061,7 +5061,7 @@
       "is_open": true,
       "latitude": 35.76088272,
       "longitude": -5.85821736,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_25",
@@ -5081,7 +5081,7 @@
       "is_open": true,
       "latitude": 35.77914846,
       "longitude": -5.83093331,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_26",
@@ -5101,7 +5101,7 @@
       "is_open": true,
       "latitude": 35.7420643,
       "longitude": -5.8125276,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_27",
@@ -5121,7 +5121,7 @@
       "is_open": true,
       "latitude": 35.72253484177905,
       "longitude": -5.752689264645092,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_28",
@@ -5141,7 +5141,7 @@
       "is_open": true,
       "latitude": 35.7699926,
       "longitude": -5.8318844,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_29",
@@ -5161,7 +5161,7 @@
       "is_open": true,
       "latitude": 35.75366184236135,
       "longitude": -5.845502284082109,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_30",
@@ -5181,7 +5181,7 @@
       "is_open": true,
       "latitude": 35.75544001413756,
       "longitude": -5.794964134780161,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_31",
@@ -5201,7 +5201,7 @@
       "is_open": true,
       "latitude": 35.7354314583295,
       "longitude": -5.794025027607354,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_32",
@@ -5221,7 +5221,7 @@
       "is_open": true,
       "latitude": 35.7401979,
       "longitude": -5.8676722,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_33",
@@ -5241,7 +5241,7 @@
       "is_open": true,
       "latitude": 35.7633388,
       "longitude": -5.8694892,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tanger_34",
@@ -5261,167 +5261,7 @@
       "is_open": true,
       "latitude": 35.75347960429674,
       "longitude": -5.803574914873275,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "tanger_35",
-      "name": "Pharmacie El Hsissen",
-      "name_ar": "Pharmacie El Hsissen",
-      "address": "Pharmacie El Hsissen",
-      "address_ar": "9 Rocade Sud résid. Nakhil Tanger - Maroc",
-      "phone": "+212621529296",
-      "city": "Tanger",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 35.7742985,
-      "longitude": -5.8175566,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "tanger_36",
-      "name": "Pharmacie Iqrae",
-      "name_ar": "Pharmacie Iqrae",
-      "address": "al irfan 2, gh r3 bâtiment 116 90100 tanger - maroc",
-      "address_ar": "116 Douha Achekkar Gh2 R3 Al Irfane Tanger - Maroc",
-      "phone": "+212539392445",
-      "city": "Tanger",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 35.7392955,
-      "longitude": -5.8756095,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "tanger_37",
-      "name": "Pharmacie Maghreb",
-      "name_ar": "Pharmacie Maghreb",
-      "address": "56, rue de la liberté 90000 tanger - maroc",
-      "address_ar": "56, rue de la liberté 90000 tanger - maroc",
-      "phone": "+212539933573",
-      "city": "Tanger",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 35.7824919,
-      "longitude": -5.8128401,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "tanger_38",
-      "name": "Pharmacie Mosafir",
-      "name_ar": "Pharmacie Mosafir",
-      "address": "Résidence Nakhil Golden 2 (en face de la gare routière)",
-      "address_ar": "Golden 2 Résidence Nakhil, face de la gare routière, Tanger",
-      "phone": "+212539338282",
-      "city": "Tanger",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 35.7258708726098,
-      "longitude": -5.859051626984593,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "tanger_39",
-      "name": "Pharmacie Moucharraf",
-      "name_ar": "Pharmacie Moucharraf",
-      "address": "azib abakkiw. quartier asil 9000 tanger - maroc",
-      "address_ar": "Rte Tétouan q. Azib Tanger - Maroc",
-      "phone": "+212808557732",
-      "city": "Tanger",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 35.7307443,
-      "longitude": -5.7709993,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "tanger_40",
-      "name": "Pharmacie Narjis",
-      "name_ar": "Pharmacie Narjis",
-      "address": "route des far, branes ii 90000 tanger - maroc",
-      "address_ar": "route des far, branes ii 90000 tanger - maroc",
-      "phone": "+212539315769",
-      "city": "Tanger",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 35.7557152,
-      "longitude": -5.8348222,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "tanger_41",
-      "name": "Pharmacie Provence",
-      "name_ar": "Pharmacie Provence",
-      "address": "avenue ali bay 90000 tanger - maroc",
-      "address_ar": "avenue ali bay 90000 tanger - maroc",
-      "phone": "+212539959894",
-      "city": "Tanger",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 35.7602245,
-      "longitude": -5.7579764,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "tanger_42",
-      "name": "Pharmacie Sekka Aouama",
-      "name_ar": "Pharmacie Sekka Aouama",
-      "address": "quartier de sekka, mrabet charkia, aouama 90080 tanger - maroc",
-      "address_ar": "quartier de sekka, mrabet charkia, aouama 90080 tanger - maroc",
-      "phone": "+212620283590",
-      "city": "Tanger",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 35.78624,
-      "longitude": -5.81006,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_1",
@@ -5441,7 +5281,7 @@
       "is_open": true,
       "latitude": 30.43605458705931,
       "longitude": -9.573646941646498,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_2",
@@ -5461,7 +5301,7 @@
       "is_open": true,
       "latitude": 30.41684539951152,
       "longitude": -9.558551916390156,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_3",
@@ -5481,7 +5321,7 @@
       "is_open": true,
       "latitude": 30.40286930134783,
       "longitude": -9.521454567243211,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_4",
@@ -5501,7 +5341,7 @@
       "is_open": true,
       "latitude": 30.37037939178983,
       "longitude": -9.510780273921966,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_5",
@@ -5521,7 +5361,7 @@
       "is_open": true,
       "latitude": 30.4122507,
       "longitude": -9.5770647,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_6",
@@ -5541,7 +5381,7 @@
       "is_open": true,
       "latitude": 30.4467502,
       "longitude": -9.6582116,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_7",
@@ -5561,7 +5401,7 @@
       "is_open": true,
       "latitude": 30.4587591,
       "longitude": -9.6483359,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_8",
@@ -5581,7 +5421,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_9",
@@ -5601,7 +5441,7 @@
       "is_open": true,
       "latitude": 30.3905845,
       "longitude": -9.55904,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_10",
@@ -5621,7 +5461,7 @@
       "is_open": true,
       "latitude": 30.4278755542393,
       "longitude": -9.565683460352286,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_11",
@@ -5641,7 +5481,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_12",
@@ -5661,7 +5501,7 @@
       "is_open": true,
       "latitude": 30.42553376548218,
       "longitude": -9.586928750059649,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_13",
@@ -5681,7 +5521,7 @@
       "is_open": true,
       "latitude": 30.3953674585644,
       "longitude": -9.55422957650021,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_14",
@@ -5701,7 +5541,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_15",
@@ -5721,7 +5561,7 @@
       "is_open": true,
       "latitude": 30.40248294108899,
       "longitude": -9.542639750249657,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "agadir_16",
@@ -5741,7 +5581,7 @@
       "is_open": true,
       "latitude": 30.42229604124433,
       "longitude": -9.595282156711544,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_1",
@@ -5761,7 +5601,7 @@
       "is_open": true,
       "latitude": 33.9062987,
       "longitude": -5.5324014,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_2",
@@ -5781,7 +5621,7 @@
       "is_open": true,
       "latitude": 33.8642226,
       "longitude": -5.5751981,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_3",
@@ -5801,7 +5641,7 @@
       "is_open": true,
       "latitude": 33.88042,
       "longitude": -5.4951141,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_4",
@@ -5821,7 +5661,7 @@
       "is_open": true,
       "latitude": 33.89482116571826,
       "longitude": -5.536386306779062,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_5",
@@ -5841,7 +5681,7 @@
       "is_open": true,
       "latitude": 33.8943533,
       "longitude": -5.560430775209237,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_6",
@@ -5861,7 +5701,7 @@
       "is_open": true,
       "latitude": 33.90638182995861,
       "longitude": -5.470910112340934,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_7",
@@ -5881,7 +5721,7 @@
       "is_open": true,
       "latitude": 33.8665647,
       "longitude": -5.5524892,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_8",
@@ -5901,7 +5741,7 @@
       "is_open": true,
       "latitude": 33.89683649,
       "longitude": -5.506454150997468,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_9",
@@ -5921,7 +5761,7 @@
       "is_open": true,
       "latitude": 33.87205445,
       "longitude": -5.569497007583301,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_10",
@@ -5941,7 +5781,7 @@
       "is_open": true,
       "latitude": 33.89741657,
       "longitude": -5.570452767384024,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_11",
@@ -5961,7 +5801,7 @@
       "is_open": true,
       "latitude": 33.87006772,
       "longitude": -5.538586743822737,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_12",
@@ -5981,7 +5821,7 @@
       "is_open": true,
       "latitude": 33.8972828,
       "longitude": -5.5314486,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_13",
@@ -6001,7 +5841,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_14",
@@ -6021,7 +5861,7 @@
       "is_open": true,
       "latitude": 33.9246917598219,
       "longitude": -5.488158727963454,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_15",
@@ -6041,7 +5881,7 @@
       "is_open": true,
       "latitude": 33.89335134,
       "longitude": -5.538745732923222,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_16",
@@ -6061,7 +5901,7 @@
       "is_open": true,
       "latitude": 33.9004099,
       "longitude": -5.5485418,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_17",
@@ -6081,7 +5921,7 @@
       "is_open": true,
       "latitude": 33.92042115,
       "longitude": -5.492639898079692,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_18",
@@ -6101,7 +5941,7 @@
       "is_open": true,
       "latitude": 33.8689157,
       "longitude": -5.5491455,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_19",
@@ -6121,7 +5961,7 @@
       "is_open": true,
       "latitude": 33.89675633,
       "longitude": -5.545567092288703,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_20",
@@ -6141,7 +5981,7 @@
       "is_open": true,
       "latitude": 33.90238999,
       "longitude": -5.487728051454918,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_21",
@@ -6161,7 +6001,7 @@
       "is_open": true,
       "latitude": 33.89246314381112,
       "longitude": -5.559147145091378,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_22",
@@ -6181,7 +6021,7 @@
       "is_open": true,
       "latitude": 33.89322419,
       "longitude": -5.520944756499164,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_23",
@@ -6201,7 +6041,7 @@
       "is_open": true,
       "latitude": 33.90620592342638,
       "longitude": -5.546442388371258,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_24",
@@ -6221,7 +6061,7 @@
       "is_open": true,
       "latitude": 33.894082,
       "longitude": -5.544582,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_25",
@@ -6241,7 +6081,7 @@
       "is_open": true,
       "latitude": 33.88389158,
       "longitude": -5.600166945758374,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "meknes_26",
@@ -6261,7 +6101,7 @@
       "is_open": true,
       "latitude": 33.88203864,
       "longitude": -5.597053552618855,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_1",
@@ -6281,7 +6121,7 @@
       "is_open": true,
       "latitude": 34.70775371103096,
       "longitude": -1.859799416411696,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_2",
@@ -6301,7 +6141,7 @@
       "is_open": true,
       "latitude": 34.6838515,
       "longitude": -1.9098647,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_3",
@@ -6321,7 +6161,7 @@
       "is_open": true,
       "latitude": 34.68442908151233,
       "longitude": -1.877419233312152,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_4",
@@ -6341,7 +6181,7 @@
       "is_open": true,
       "latitude": 34.677874,
       "longitude": -1.929306,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_5",
@@ -6361,7 +6201,7 @@
       "is_open": true,
       "latitude": 34.6493069,
       "longitude": -1.9112145,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_6",
@@ -6381,7 +6221,7 @@
       "is_open": true,
       "latitude": 34.6695,
       "longitude": -1.912166666667,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_7",
@@ -6401,7 +6241,7 @@
       "is_open": true,
       "latitude": 34.6666953,
       "longitude": -1.9262387,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_8",
@@ -6421,7 +6261,7 @@
       "is_open": true,
       "latitude": 34.6838515,
       "longitude": -1.9098647,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_9",
@@ -6441,7 +6281,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_10",
@@ -6461,7 +6301,7 @@
       "is_open": true,
       "latitude": 34.6766625,
       "longitude": -1.9192801,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_11",
@@ -6481,7 +6321,7 @@
       "is_open": true,
       "latitude": 34.6827005,
       "longitude": -1.9346836,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "oujda_12",
@@ -6501,7 +6341,7 @@
       "is_open": true,
       "latitude": 34.66966244282042,
       "longitude": -1.868914964564721,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "kenitra_1",
@@ -6521,7 +6361,7 @@
       "is_open": true,
       "latitude": 34.26760502637858,
       "longitude": -6.562456745741092,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "kenitra_2",
@@ -6541,7 +6381,7 @@
       "is_open": true,
       "latitude": 34.26522181818527,
       "longitude": -6.592382516157129,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "kenitra_3",
@@ -6561,7 +6401,7 @@
       "is_open": true,
       "latitude": 34.25513200919414,
       "longitude": -6.524206936389858,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "kenitra_4",
@@ -6581,7 +6421,7 @@
       "is_open": true,
       "latitude": 34.24770076265123,
       "longitude": -6.621673461959849,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "kenitra_5",
@@ -6601,7 +6441,7 @@
       "is_open": true,
       "latitude": 34.2669298,
       "longitude": -6.6138359,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "kenitra_6",
@@ -6621,7 +6461,7 @@
       "is_open": true,
       "latitude": 34.2466100013722,
       "longitude": -6.550054324076022,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "kenitra_7",
@@ -6641,7 +6481,7 @@
       "is_open": true,
       "latitude": 34.2213704,
       "longitude": -6.6235958,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "kenitra_8",
@@ -6661,7 +6501,7 @@
       "is_open": true,
       "latitude": 34.2576566,
       "longitude": -6.5832276,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "kenitra_9",
@@ -6681,7 +6521,7 @@
       "is_open": true,
       "latitude": 34.28147000190754,
       "longitude": -6.536336299942027,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "kenitra_10",
@@ -6701,7 +6541,7 @@
       "is_open": true,
       "latitude": 34.2495924,
       "longitude": -6.5795514,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tetouan_1",
@@ -6721,7 +6561,7 @@
       "is_open": true,
       "latitude": 35.57102983203315,
       "longitude": -5.375582468081928,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tetouan_2",
@@ -6741,7 +6581,7 @@
       "is_open": true,
       "latitude": 35.56939988496554,
       "longitude": -5.351688632653883,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tetouan_3",
@@ -6761,7 +6601,7 @@
       "is_open": true,
       "latitude": 35.5630318,
       "longitude": -5.3750419,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tetouan_4",
@@ -6781,7 +6621,7 @@
       "is_open": true,
       "latitude": 35.5708333,
       "longitude": -5.3541167,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "tetouan_5",
@@ -6801,14 +6641,14 @@
       "is_open": true,
       "latitude": 35.5895373,
       "longitude": -5.335192,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_1",
       "name": "Pharmacie AL ANWAR",
-      "name_ar": "Pharmacie AL ANWAR",
+      "name_ar": "Pharmacie AlAnwar",
       "address": "Hay Elinbiate, Salé",
-      "address_ar": "Hay Elinbiate, Salé",
+      "address_ar": "215, rue Sidi Allal El Bahraoui, Hay Inbiat Sale",
       "phone": "+212537804515",
       "city": "Salé",
       "city_ar": "",
@@ -6819,9 +6659,9 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": null,
-      "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "latitude": 34.04732701616173,
+      "longitude": -6.776679193466852,
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_2",
@@ -6841,7 +6681,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_3",
@@ -6861,7 +6701,7 @@
       "is_open": true,
       "latitude": 34.044889,
       "longitude": -6.814017,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_4",
@@ -6881,7 +6721,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_5",
@@ -6901,7 +6741,7 @@
       "is_open": true,
       "latitude": 34.02277129488684,
       "longitude": -6.771478370310597,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_6",
@@ -6921,7 +6761,7 @@
       "is_open": true,
       "latitude": 34.02502,
       "longitude": -6.7709628,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_7",
@@ -6941,7 +6781,7 @@
       "is_open": true,
       "latitude": 34.071921,
       "longitude": -6.7856562,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_8",
@@ -6961,7 +6801,7 @@
       "is_open": true,
       "latitude": 34.09225272553998,
       "longitude": -6.772207185363765,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_9",
@@ -6981,7 +6821,7 @@
       "is_open": true,
       "latitude": 34.0764599,
       "longitude": -6.7603561,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_10",
@@ -7001,7 +6841,7 @@
       "is_open": true,
       "latitude": 34.0380312,
       "longitude": -6.8101924,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_11",
@@ -7021,7 +6861,7 @@
       "is_open": true,
       "latitude": 34.0826196,
       "longitude": -6.7753051,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_12",
@@ -7041,7 +6881,7 @@
       "is_open": true,
       "latitude": 34.0104599,
       "longitude": -6.7330641,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_13",
@@ -7061,7 +6901,7 @@
       "is_open": true,
       "latitude": 34.04732701616173,
       "longitude": -6.776679193466852,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_14",
@@ -7081,7 +6921,7 @@
       "is_open": true,
       "latitude": 34.027848,
       "longitude": -6.807249,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_15",
@@ -7101,7 +6941,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_16",
@@ -7121,7 +6961,7 @@
       "is_open": true,
       "latitude": 34.05991988139382,
       "longitude": -6.771290894021044,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_17",
@@ -7141,7 +6981,7 @@
       "is_open": true,
       "latitude": 34.0409264,
       "longitude": -6.8258398,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_18",
@@ -7161,7 +7001,7 @@
       "is_open": true,
       "latitude": 34.05031500771103,
       "longitude": -6.77602187779686,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_19",
@@ -7181,7 +7021,7 @@
       "is_open": true,
       "latitude": 34.03668214207111,
       "longitude": -6.801755567585667,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_20",
@@ -7201,7 +7041,7 @@
       "is_open": true,
       "latitude": 34.03064885891341,
       "longitude": -6.809261585492889,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_21",
@@ -7221,7 +7061,7 @@
       "is_open": true,
       "latitude": 34.033362,
       "longitude": -6.7999567,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_22",
@@ -7241,7 +7081,7 @@
       "is_open": true,
       "latitude": 34.0044267,
       "longitude": -6.7458081,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_23",
@@ -7261,7 +7101,7 @@
       "is_open": true,
       "latitude": 34.0583443,
       "longitude": -6.811498,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_24",
@@ -7281,7 +7121,7 @@
       "is_open": true,
       "latitude": 34.0336969,
       "longitude": -6.7708138,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_25",
@@ -7301,7 +7141,7 @@
       "is_open": true,
       "latitude": 34.0443945,
       "longitude": -6.7789761,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_26",
@@ -7321,7 +7161,7 @@
       "is_open": true,
       "latitude": 34.03094002793944,
       "longitude": -6.812587842082973,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_27",
@@ -7341,7 +7181,7 @@
       "is_open": true,
       "latitude": 34.0493076,
       "longitude": -6.781746,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_28",
@@ -7361,90 +7201,10 @@
       "is_open": true,
       "latitude": 34.052863,
       "longitude": -6.787594,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sale_29",
-      "name": "Pharmacie Abid",
-      "name_ar": "Pharmacie Abid",
-      "address": "Pharmacie Abid",
-      "address_ar": "Pharmacie Abid Salé",
-      "phone": "+212537871525",
-      "city": "Salé",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 34.06330398731789,
-      "longitude": -6.794893140301081,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "sale_30",
-      "name": "PHARMACIE ASSABIL",
-      "name_ar": "Pharmacie Assabil",
-      "address": "Villa 542, Lotissement des villas",
-      "address_ar": "542 lotiss. Villas Sala Al Jadida Salé - Maroc",
-      "phone": "+212530002434",
-      "city": "Salé",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 34.0007897,
-      "longitude": -6.7294469,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "sale_31",
-      "name": "PHARMACIE DU BOUREGREG",
-      "name_ar": "Pharmacie Du Bouregreg",
-      "address": "av du bouregreg lot 1071 n°2 zone villa",
-      "address_ar": "av du bouregreg lot 1071 n°2 zone villa Sale",
-      "phone": "+212537534524",
-      "city": "Salé",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.9945484,
-      "longitude": -6.7306209,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "sale_32",
-      "name": "Pharmacie Tajeddine",
-      "name_ar": "Pharmacie Tajeddine",
-      "address": "Pharmacie Tajeddine",
-      "address_ar": "q. Laayayda Salé",
-      "phone": "+212612719279",
-      "city": "Salé",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 34.07352565034874,
-      "longitude": -6.752959653472896,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "sale_33",
       "name": "Pharmacie Ibn Hicham",
       "name_ar": "Pharmacie Ibn Hicham",
       "address": "Sala Al Jadida, Doha imm.84 n°1 Sale",
@@ -7461,10 +7221,50 @@
       "is_open": true,
       "latitude": 33.9913231,
       "longitude": -6.731091,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
+    },
+    {
+      "id": "sale_30",
+      "name": "Pharmacie Du Bouregreg",
+      "name_ar": "Pharmacie Du Bouregreg",
+      "address": "av du bouregreg lot 1071 n°2 zone villa Sale",
+      "address_ar": "av du bouregreg lot 1071 n°2 zone villa Sale",
+      "phone": "+212537534524",
+      "city": "Salé",
+      "city_ar": "",
+      "duty_type": "weekend_day",
+      "duty_category": "weekend",
+      "duty_label_fr": "Garde Jour / Weekend",
+      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
+      "duty_hours_fr": "09:00 - 00:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "09:00 - 00:00 (حراسة نهارية / نهاية الأسبوع)",
+      "is_open": true,
+      "latitude": 33.9945484,
+      "longitude": -6.7306209,
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "temara_1",
+      "name": "Pharmacie 2000",
+      "name_ar": "Pharmacie 2000",
+      "address": "El Massira, Témara",
+      "address_ar": "245, Av. Mly Ali Cherif, Massira I , 12020 temara",
+      "phone": "+212537602312",
+      "city": "Témara",
+      "city_ar": "",
+      "duty_type": "24h",
+      "duty_category": "permanent_24h",
+      "duty_label_fr": "Garde 24h (Tour de garde)",
+      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
+      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
+      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
+      "is_open": true,
+      "latitude": 33.92860577035155,
+      "longitude": -6.900368018798415,
+      "verified_at": "2026-09-23 22:25"
+    },
+    {
+      "id": "temara_2",
       "name": "PHARMACIE HOUDAYA",
       "name_ar": "Pharmacie Houdaya",
       "address": "54, lotiss. Hartiai",
@@ -7481,10 +7281,10 @@
       "is_open": true,
       "latitude": 33.921258,
       "longitude": -6.9095421,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "temara_2",
+      "id": "temara_3",
       "name": "Pharmacie Ibn Nafiss",
       "name_ar": "Pharmacie IBN NAFISS",
       "address": "Pharmacie Ibn Nafiss",
@@ -7501,10 +7301,10 @@
       "is_open": true,
       "latitude": 33.93055540598377,
       "longitude": -6.904008194899524,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "temara_3",
+      "id": "temara_4",
       "name": "Pharmacie Les Roches Blanches",
       "name_ar": "Pharmacie Les Roches Blanches",
       "address": "Pharmacie Les Roches Blanches",
@@ -7521,13 +7321,13 @@
       "is_open": true,
       "latitude": 33.9301176,
       "longitude": -6.9523134,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "temara_4",
-      "name": "Pharmacie Zamzam",
+      "id": "temara_5",
+      "name": "Pharmacie ZAMZAM",
       "name_ar": "Pharmacie Zamzam",
-      "address": "15 lot al wifak témara - Temara",
+      "address": "Centre (Al Wifak), Témara",
       "address_ar": "15 lot al wifak témara - Temara",
       "phone": "+212537642744",
       "city": "Témara",
@@ -7541,10 +7341,10 @@
       "is_open": true,
       "latitude": 33.92384532339016,
       "longitude": -6.925035100298871,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "temara_5",
+      "id": "temara_6",
       "name": "PHARMACIE EL HAQ",
       "name_ar": "Pharmacie El Haq",
       "address": "T?mara Centre",
@@ -7561,10 +7361,10 @@
       "is_open": true,
       "latitude": 33.88996293310394,
       "longitude": -6.93667071775627,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "temara_6",
+      "id": "temara_7",
       "name": "Pharmacie Nassim El Bahr",
       "name_ar": "Pharmacie Nassim El Bahr",
       "address": "Pharmacie Nassim El Bahr",
@@ -7581,27 +7381,7 @@
       "is_open": true,
       "latitude": 33.9273248,
       "longitude": -6.9503109,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "temara_7",
-      "name": "Pharmacie 2000",
-      "name_ar": "Pharmacie 2000",
-      "address": "245, Av. Mly Ali Cherif, Massira I , 12020 temara",
-      "address_ar": "245, Av. Mly Ali Cherif, Massira I , 12020 temara",
-      "phone": "+212537602312",
-      "city": "Témara",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "14:12 - 00:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "14:12 - 00:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.92860577035155,
-      "longitude": -6.900368018798415,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "temara_8",
@@ -7621,7 +7401,7 @@
       "is_open": true,
       "latitude": 33.93651320376066,
       "longitude": -6.89827710185241,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "temara_9",
@@ -7641,7 +7421,7 @@
       "is_open": true,
       "latitude": 33.89602730891686,
       "longitude": -6.926246246114569,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "temara_10",
@@ -7661,7 +7441,7 @@
       "is_open": true,
       "latitude": 33.917166,
       "longitude": -6.923804,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "temara_11",
@@ -7681,7 +7461,7 @@
       "is_open": true,
       "latitude": 33.8468274,
       "longitude": -6.9359093,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "temara_12",
@@ -7701,7 +7481,7 @@
       "is_open": true,
       "latitude": 33.9426346,
       "longitude": -6.8834003,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "mohammedia_1",
@@ -7721,11 +7501,11 @@
       "is_open": true,
       "latitude": 33.6780506,
       "longitude": -7.3882145,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "mohammedia_2",
-      "name": "Pharmacie Imane",
+      "name": "Imane",
       "name_ar": "Pharmacie Imane",
       "address": "628 bd Moukaouama Hassania 1",
       "address_ar": "628, Bd Al Moukaouama, Hassania 1",
@@ -7741,387 +7521,7 @@
       "is_open": true,
       "latitude": 33.6793581,
       "longitude": -7.393384,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_3",
-      "name": "Pharmacie Al Fath",
-      "name_ar": "Pharmacie Al Fath",
-      "address": "Hay Hassania I, Rue G N°586",
-      "address_ar": "Hay Hassania I, Rue G N°586",
-      "phone": "+212523280971",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6795412,
-      "longitude": -7.392854,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_4",
-      "name": "Pharmacie Chifa",
-      "name_ar": "Pharmacie Chifa",
-      "address": "Hay Hassania Ii, Bloc B, N°213",
-      "address_ar": "Hay Hassania Ii, Bloc B, N°213",
-      "phone": "+212523282252",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6819655,
-      "longitude": -7.3983658,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_5",
-      "name": "Pharmacie De La Piscine",
-      "name_ar": "Pharmacie De La Piscine",
-      "address": "Bd Abderrahman Serghini",
-      "address_ar": "Bd Abderrahman Serghini",
-      "phone": "+212523311907",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6955762,
-      "longitude": -7.39261,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_6",
-      "name": "Pharmacie De La Plage",
-      "name_ar": "Pharmacie De La Plage",
-      "address": "Bd Fes, Imm. Du Parc",
-      "address_ar": "Bd Fes, Imm. Du Parc",
-      "phone": "+212523324780",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.7077614,
-      "longitude": -7.3966132,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_7",
-      "name": "Pharmacie El Hassania",
-      "name_ar": "Pharmacie El Hassania",
-      "address": "Pharmacie Elhassania, N° 165 Bd La Résistance Hay Hassania",
-      "address_ar": "Pharmacie Elhassania, N° 165 Bd La Résistance Hay Hassania",
-      "phone": "+212523287661",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6772975,
-      "longitude": -7.3956851,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_8",
-      "name": "Pharmacie El Idrissi",
-      "name_ar": "Pharmacie El Idrissi",
-      "address": "N°1, Bd Mokhtar Soussi, Hay Ennasr",
-      "address_ar": "N°1, Bd Mokhtar Soussi, Hay Ennasr",
-      "phone": "+212523280385",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6780506,
-      "longitude": -7.3882145,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_9",
-      "name": "Pharmacie Elwahda",
-      "name_ar": "Pharmacie Elwahda",
-      "address": "427, Lotiss. Al Wahda, El Alia",
-      "address_ar": "427, Lotiss. Al Wahda, El Alia",
-      "phone": "+212523285840",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6810936,
-      "longitude": -7.3876416,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_10",
-      "name": "Pharmacie Essaâda",
-      "name_ar": "Pharmacie Essaâda",
-      "address": "242 Bd Oued Eddahab Hay Essaada",
-      "address_ar": "242 Bd Oued Eddahab Hay Essaada",
-      "phone": "+212523287127",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6809017,
-      "longitude": -7.3961468,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_11",
-      "name": "Pharmacie Essalam",
-      "name_ar": "Pharmacie Essalam",
-      "address": "Hay Hassania 2, Bloc C N°122",
-      "address_ar": "Hay Hassania 2, Bloc C N°122",
-      "phone": "+212523284338",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6757058,
-      "longitude": -7.3896294,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_12",
-      "name": "Pharmacie Hay Lasamir",
-      "name_ar": "Pharmacie Hay Lasamir",
-      "address": "92, Hay Hassania Ii, Ecran Samir, El Alia",
-      "address_ar": "92, Hay Hassania Ii, Ecran Samir, El Alia",
-      "phone": "+212523287912",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6739707,
-      "longitude": -7.3888978,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_13",
-      "name": "Pharmacie Al Bachir",
-      "name_ar": "Pharmacie Al Bachir",
-      "address": "cite inara lotissement numéro 13 Mohammedia",
-      "address_ar": "cite inara lotissement numéro 13 Mohammedia",
-      "phone": "+212523322768",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.701999,
-      "longitude": -7.3982797,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_14",
-      "name": "Pharmacie Baghdad",
-      "name_ar": "Pharmacie Baghdad",
-      "address": "13, rue Baghdad Mohammedia",
-      "address_ar": "13, rue Baghdad Mohammedia",
-      "phone": "+212523310296",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.697171,
-      "longitude": -7.3864966,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_15",
-      "name": "Pharmacie Belladona",
-      "name_ar": "Pharmacie Belladona",
-      "address": "bd Hassan II , rue Ibn Khafaja Cite mimosa Mohammedi",
-      "address_ar": "bd Hassan II , rue Ibn Khafaja Cite mimosa Mohammedi",
-      "phone": "+212523273841",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.69847133654044,
-      "longitude": -7.380328784660484,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_16",
-      "name": "Pharmacie Centrale",
-      "name_ar": "Pharmacie Centrale",
-      "address": "5, bd Sebta, résid. Laila ElAlia Mohammedia",
-      "address_ar": "5, bd Sebta, résid. Laila ElAlia Mohammedia",
-      "phone": "+212523323231",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6931922,
-      "longitude": -7.3893196,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_17",
-      "name": "Pharmacie de la Colline",
-      "name_ar": "Pharmacie de la Colline",
-      "address": "196, bd Al Moukaouama Mohammedia",
-      "address_ar": "196, bd Al Moukaouama Mohammedia",
-      "phone": "+212523326016",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.69481762953984,
-      "longitude": -7.372797282989495,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_18",
-      "name": "Pharmacie Jardin Des Orchidées",
-      "name_ar": "Pharmacie Jardin Des Orchidées",
-      "address": "résidence les orchidées 4, bd mohamed vi Mohammedia",
-      "address_ar": "résidence les orchidées 4, bd mohamed vi Mohammedia",
-      "phone": "+212523301236",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.711237,
-      "longitude": -7.3452219,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_19",
-      "name": "Pharmacie La Ville Des Fleurs",
-      "name_ar": "Pharmacie La Ville Des Fleurs",
-      "address": "hay riad essalam, bloc ac n° 132 Mohammedia",
-      "address_ar": "hay riad essalam, bloc ac n° 132 Mohammedia",
-      "phone": "+212523308485",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.702368,
-      "longitude": -7.358702,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_20",
-      "name": "Pharmacie Majorelle",
-      "name_ar": "Pharmacie Majorelle",
-      "address": "bd riad numéro fb20 lot almassira Mohammedia",
-      "address_ar": "bd riad numéro fb20 lot almassira Mohammedia",
-      "phone": "+212523284994",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.702852,
-      "longitude": -7.372212,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "mohammedia_21",
-      "name": "Pharmacie Sarah",
-      "name_ar": "Pharmacie Sarah",
-      "address": "hay errachidia 3, bloc a n°184 Mohammedia",
-      "address_ar": "hay errachidia 3, bloc a n°184 Mohammedia",
-      "phone": "+212523286281",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6859084,
-      "longitude": -7.3801608,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_1",
@@ -8141,7 +7541,7 @@
       "is_open": true,
       "latitude": 33.2562177,
       "longitude": -8.5049484,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_2",
@@ -8161,7 +7561,7 @@
       "is_open": true,
       "latitude": 33.2316326,
       "longitude": -8.5007116,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_3",
@@ -8181,7 +7581,7 @@
       "is_open": true,
       "latitude": 33.2286301,
       "longitude": -8.5199288,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_4",
@@ -8201,7 +7601,7 @@
       "is_open": true,
       "latitude": 33.2316326,
       "longitude": -8.5007116,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_5",
@@ -8221,7 +7621,7 @@
       "is_open": true,
       "latitude": 33.25498333333,
       "longitude": -8.517383333333,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_6",
@@ -8241,7 +7641,7 @@
       "is_open": true,
       "latitude": 33.23811770830681,
       "longitude": -8.486167369311527,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_7",
@@ -8261,7 +7661,7 @@
       "is_open": true,
       "latitude": 33.22718282564087,
       "longitude": -8.53167641655628,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_8",
@@ -8281,7 +7681,7 @@
       "is_open": true,
       "latitude": 33.2493329,
       "longitude": -8.5252894,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_9",
@@ -8301,7 +7701,7 @@
       "is_open": true,
       "latitude": 33.2372175,
       "longitude": -8.5035478,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_10",
@@ -8321,7 +7721,7 @@
       "is_open": true,
       "latitude": 33.2184947,
       "longitude": -8.5106277,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_11",
@@ -8341,7 +7741,7 @@
       "is_open": true,
       "latitude": 33.2213658,
       "longitude": -8.5030402,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_12",
@@ -8361,7 +7761,7 @@
       "is_open": true,
       "latitude": 33.2280456,
       "longitude": -8.4816332,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_13",
@@ -8381,7 +7781,7 @@
       "is_open": true,
       "latitude": 33.24096666667,
       "longitude": -8.519216666667,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_14",
@@ -8401,7 +7801,7 @@
       "is_open": true,
       "latitude": 33.25303333333,
       "longitude": -8.5182,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_15",
@@ -8421,7 +7821,7 @@
       "is_open": true,
       "latitude": 33.2498098,
       "longitude": -8.4994929,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_16",
@@ -8441,7 +7841,7 @@
       "is_open": true,
       "latitude": 33.25490206738839,
       "longitude": -8.506844455820493,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_17",
@@ -8461,7 +7861,7 @@
       "is_open": true,
       "latitude": 33.247829,
       "longitude": -8.532317,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_18",
@@ -8481,7 +7881,7 @@
       "is_open": true,
       "latitude": 33.2402,
       "longitude": -8.5248333,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_19",
@@ -8501,7 +7901,7 @@
       "is_open": true,
       "latitude": 33.2347178,
       "longitude": -8.5027492,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_20",
@@ -8521,7 +7921,7 @@
       "is_open": true,
       "latitude": 33.2434,
       "longitude": -8.5016667,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_21",
@@ -8541,7 +7941,7 @@
       "is_open": true,
       "latitude": 33.2382313,
       "longitude": -8.486146,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_22",
@@ -8561,7 +7961,7 @@
       "is_open": true,
       "latitude": 33.2390167,
       "longitude": -8.5264333,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_23",
@@ -8581,7 +7981,7 @@
       "is_open": true,
       "latitude": 33.22119,
       "longitude": -8.49957,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_24",
@@ -8601,7 +8001,7 @@
       "is_open": true,
       "latitude": 33.2356833,
       "longitude": -8.4906333,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_25",
@@ -8621,7 +8021,7 @@
       "is_open": true,
       "latitude": 33.2468833,
       "longitude": -8.52015,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_26",
@@ -8641,7 +8041,7 @@
       "is_open": true,
       "latitude": 33.239855,
       "longitude": -8.52397,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_27",
@@ -8661,7 +8061,7 @@
       "is_open": true,
       "latitude": 33.2293229,
       "longitude": -8.4993567,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_28",
@@ -8681,7 +8081,7 @@
       "is_open": true,
       "latitude": 33.2564116,
       "longitude": -8.5023979,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_29",
@@ -8701,7 +8101,7 @@
       "is_open": true,
       "latitude": 33.247829,
       "longitude": -8.532317,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_30",
@@ -8721,7 +8121,7 @@
       "is_open": true,
       "latitude": 33.250243,
       "longitude": -8.510289,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_31",
@@ -8741,7 +8141,7 @@
       "is_open": true,
       "latitude": 33.2184947,
       "longitude": -8.5106277,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "el-jadida_32",
@@ -8761,7 +8161,7 @@
       "is_open": true,
       "latitude": 33.2316326,
       "longitude": -8.5007116,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "safi_1",
@@ -8781,7 +8181,7 @@
       "is_open": true,
       "latitude": 32.2742725,
       "longitude": -9.2385905,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "safi_2",
@@ -8801,7 +8201,7 @@
       "is_open": true,
       "latitude": 32.2901739,
       "longitude": -9.22598,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "safi_3",
@@ -8821,247 +8221,7 @@
       "is_open": true,
       "latitude": 32.3180998,
       "longitude": -9.2270216,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_4",
-      "name": "BELLEVUE",
-      "name_ar": "BELLEVUE",
-      "address": "Lotissement Belle Vue, Résidence La Perle",
-      "address_ar": "Lotissement Belle Vue, Résidence La Perle",
-      "phone": "+2125246689690524623173",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:08 - 22:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:08 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.32109650509616,
-      "longitude": -9.242319405172346,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_5",
-      "name": "Nasslahssen",
-      "name_ar": "Nasslahssen",
-      "address": "Avenue Alorouba et Avenue Sidi Ouassel",
-      "address_ar": "Avenue Alorouba et Avenue Sidi Ouassel",
-      "phone": "+212524461639",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:08 - 22:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:08 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.2894034,
-      "longitude": -9.2426622,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_6",
-      "name": "Pharmacie Ibnou Rochd",
-      "name_ar": "Pharmacie Ibnou Rochd",
-      "address": "Lotiss. Damouh 3 , Sidi Ouassel",
-      "address_ar": "Lotiss. Damouh 3 Sidi Ouassel SAFI",
-      "phone": "+212524650858",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:08 - 22:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:08 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.2610049,
-      "longitude": -9.248789,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_7",
-      "name": "Pharmacie Naïme",
-      "name_ar": "Pharmacie Naïme",
-      "address": "131, Rue Elhachimiyine , Azib Derai",
-      "address_ar": "131, rue Elhachimiyine , Azib Derai Safi",
-      "phone": "+212524625866",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:08 - 22:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:08 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.2946454,
-      "longitude": -9.2212934,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_8",
-      "name": "Pharmacie Alimane",
-      "name_ar": "Pharmacie Alimane",
-      "address": "Jnane Zitoune , rue 16, n°104 bis",
-      "address_ar": "Jnane Zitoune , rue 16, n°104 bis",
-      "phone": "+212524624788",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.2981573,
-      "longitude": -9.2193131,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_9",
-      "name": "Pharmacie AlNassr",
-      "name_ar": "Pharmacie AlNassr",
-      "address": "58, av. Mly. Slimane , Azib Derai",
-      "address_ar": "58, av. Mly. Slimane , Azib Derai Safi",
-      "phone": "+212524621033",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.2933882,
-      "longitude": -9.2188055,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_10",
-      "name": "Pharmacie Amouni",
-      "name_ar": "Pharmacie Amouni",
-      "address": "Lotissement Amouni , z.i. n°241",
-      "address_ar": "Lotissement Amouni , z.i. n°241",
-      "phone": "+212524651818",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.309897,
-      "longitude": -9.232274,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_11",
-      "name": "Pharmacie Corse",
-      "name_ar": "Pharmacie Corse",
-      "address": "9 rue Omar Bnou Abdelaziz Q. Corse",
-      "address_ar": "9 rue Omar Bnou Abdelaziz Q. Corse Safi",
-      "phone": "+212524651209",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.2719365,
-      "longitude": -9.2459359,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_12",
-      "name": "Pharmacie Ejjennane",
-      "name_ar": "Pharmacie Ejjennane",
-      "address": "2, rue Doukkala , Ejjennene",
-      "address_ar": "2, rue Doukkala , Ejjennene",
-      "phone": "+212524667318",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.3074592,
-      "longitude": -9.2377533,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_13",
-      "name": "Pharmacie la Belle Vue",
-      "name_ar": "Pharmacie la Belle Vue",
-      "address": "lotiss. Belle Vue - Autre ville résid. la Perle",
-      "address_ar": "lotiss. Belle Vue - Autre ville résid. la Perle",
-      "phone": "+212524668969",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.262081,
-      "longitude": -9.231698,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_14",
-      "name": "Pharmacie Nass Lahcen",
-      "name_ar": "Pharmacie Nass Lahcen",
-      "address": "Pharmacie Nass Lahcen",
-      "address_ar": "M'rayat El Beid Safi",
-      "phone": "+212524464639",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.3008151,
-      "longitude": -9.2272033,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "safi_15",
-      "name": "Pharmacie Ourida",
-      "name_ar": "Pharmacie Ourida",
-      "address": "12, av. Chahid Abdelali ben Chekroun , Ourida Ext",
-      "address_ar": "12, av. Chahid Abdelali ben Chekroun , Ourida Ext",
-      "phone": "+212524624710",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.2779042,
-      "longitude": -9.2423506,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "beni-mellal_1",
@@ -9081,7 +8241,7 @@
       "is_open": true,
       "latitude": 32.329505,
       "longitude": -6.3531,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "beni-mellal_2",
@@ -9101,7 +8261,7 @@
       "is_open": true,
       "latitude": 32.33864291875894,
       "longitude": -6.337667725028018,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "beni-mellal_3",
@@ -9121,7 +8281,7 @@
       "is_open": true,
       "latitude": 32.34828737217041,
       "longitude": -6.340594491387981,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "beni-mellal_4",
@@ -9141,7 +8301,7 @@
       "is_open": true,
       "latitude": 32.32546502103612,
       "longitude": -6.383526492375027,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "beni-mellal_5",
@@ -9161,10 +8321,30 @@
       "is_open": true,
       "latitude": 32.329505,
       "longitude": -6.3531,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "nador_1",
+      "name": "PHARMACIE AFRA",
+      "name_ar": "Pharmacie Afra",
+      "address": "96 av Mly. Rachid Jaadar",
+      "address_ar": "96 av Mly. Rachid Jaadar Nador",
+      "phone": "+212536603790",
+      "city": "Nador",
+      "city_ar": "",
+      "duty_type": "24h",
+      "duty_category": "permanent_24h",
+      "duty_label_fr": "Garde 24h (Tour de garde)",
+      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
+      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
+      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
+      "is_open": true,
+      "latitude": 35.1781403,
+      "longitude": -2.9251391,
+      "verified_at": "2026-09-23 22:25"
+    },
+    {
+      "id": "nador_2",
       "name": "Pharmacie Ahkim",
       "name_ar": "Pharmacie Ahkim",
       "address": "Pharmacie Ahkim",
@@ -9181,10 +8361,10 @@
       "is_open": true,
       "latitude": 35.1624184,
       "longitude": -2.9239931,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "nador_2",
+      "id": "nador_3",
       "name": "Pharmacie Al Kadaoui",
       "name_ar": "Pharmacie Al Kadaoui",
       "address": "Pharmacie Al Kadaoui",
@@ -9201,10 +8381,10 @@
       "is_open": true,
       "latitude": 35.174677,
       "longitude": -2.923315,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "nador_3",
+      "id": "nador_4",
       "name": "Pharmacie AlAssil",
       "name_ar": "Pharmacie AlAssil",
       "address": "Pharmacie AlAssil",
@@ -9221,10 +8401,10 @@
       "is_open": true,
       "latitude": 35.1713204,
       "longitude": -2.922054,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "nador_4",
+      "id": "nador_5",
       "name": "Pharmacie AlMahatta",
       "name_ar": "صيدلية ALMAHATTA",
       "address": "Pharmacie AlMahatta",
@@ -9241,10 +8421,10 @@
       "is_open": true,
       "latitude": 35.175195,
       "longitude": -2.9226667,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "nador_5",
+      "id": "nador_6",
       "name": "Pharmacie AlWatane",
       "name_ar": "Pharmacie AlWatane",
       "address": "Pharmacie AlWatane",
@@ -9261,10 +8441,10 @@
       "is_open": true,
       "latitude": 35.1658125,
       "longitude": -2.9533125,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "nador_6",
+      "id": "nador_7",
       "name": "Pharmacie Dar El Makhzen",
       "name_ar": "Pharmacie Dar El Makhzen",
       "address": "Pharmacie Dar El Makhzen",
@@ -9281,10 +8461,30 @@
       "is_open": true,
       "latitude": 35.162859,
       "longitude": -2.9697609,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "nador_7",
+      "id": "nador_8",
+      "name": "PHARMACIE ELFATOUAKI",
+      "name_ar": "Pharmacie ElFatouaki",
+      "address": "quartier Laârassi , rue 121",
+      "address_ar": "quartier Laârassi rue 121 Nador",
+      "phone": "+212536602696",
+      "city": "Nador",
+      "city_ar": "",
+      "duty_type": "24h",
+      "duty_category": "permanent_24h",
+      "duty_label_fr": "Garde 24h (Tour de garde)",
+      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
+      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
+      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
+      "is_open": true,
+      "latitude": 35.1940203,
+      "longitude": -2.9321534,
+      "verified_at": "2026-09-23 22:25"
+    },
+    {
+      "id": "nador_9",
       "name": "Pharmacie Igounaf",
       "name_ar": "Pharmacie Igounaf",
       "address": "Pharmacie Igounaf",
@@ -9301,10 +8501,10 @@
       "is_open": true,
       "latitude": 35.1835113,
       "longitude": -2.936325,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "nador_8",
+      "id": "nador_10",
       "name": "Pharmacie Taha Houssein",
       "name_ar": "Pharmacie Taha Houssein",
       "address": "Pharmacie Taha Houssein",
@@ -9321,30 +8521,10 @@
       "is_open": true,
       "latitude": 35.1795845,
       "longitude": -2.9271141,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
-      "id": "nador_9",
-      "name": "Pharmacie Afra",
-      "name_ar": "Pharmacie Afra",
-      "address": "96 av Mly. Rachid Jaadar Nador",
-      "address_ar": "96 av Mly. Rachid Jaadar Nador",
-      "phone": "+212536350808",
-      "city": "Nador",
-      "city_ar": "",
-      "duty_type": "24h",
-      "duty_category": "permanent_24h",
-      "duty_label_fr": "Garde 24h (Tour de garde)",
-      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
-      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
-      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
-      "is_open": true,
-      "latitude": 35.1781403,
-      "longitude": -2.9251391,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "nador_10",
+      "id": "nador_11",
       "name": "Pharmacie AlAzhar",
       "name_ar": "Pharmacie AlAzhar",
       "address": "quartier Oulad Boutaib sect. A n°145 Nador",
@@ -9361,27 +8541,7 @@
       "is_open": true,
       "latitude": 35.1686165,
       "longitude": -2.9275836,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "nador_11",
-      "name": "Pharmacie ElFatouaki",
-      "name_ar": "Pharmacie ElFatouaki",
-      "address": "quartier Laârassi rue 121 Nador",
-      "address_ar": "quartier Laârassi rue 121 Nador",
-      "phone": "+212536602696",
-      "city": "Nador",
-      "city_ar": "",
-      "duty_type": "24h",
-      "duty_category": "permanent_24h",
-      "duty_label_fr": "Garde 24h (Tour de garde)",
-      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
-      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
-      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
-      "is_open": true,
-      "latitude": 35.1940203,
-      "longitude": -2.9321534,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "nador_12",
@@ -9401,7 +8561,7 @@
       "is_open": true,
       "latitude": 35.1629445,
       "longitude": -2.9757236,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "nador_13",
@@ -9421,7 +8581,7 @@
       "is_open": true,
       "latitude": 35.1367364,
       "longitude": -2.9287059,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "nador_14",
@@ -9441,7 +8601,7 @@
       "is_open": true,
       "latitude": 35.1795845,
       "longitude": -2.9271141,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "khouribga_1",
@@ -9461,7 +8621,7 @@
       "is_open": true,
       "latitude": 32.9001484,
       "longitude": -6.9317759,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "khouribga_2",
@@ -9481,7 +8641,7 @@
       "is_open": true,
       "latitude": 32.870474,
       "longitude": -6.916742,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "khouribga_3",
@@ -9501,7 +8661,7 @@
       "is_open": true,
       "latitude": 32.88453744842418,
       "longitude": -6.925255803817831,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "khouribga_4",
@@ -9521,7 +8681,7 @@
       "is_open": true,
       "latitude": 32.89245076501916,
       "longitude": -6.91577175848,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "khouribga_5",
@@ -9541,7 +8701,7 @@
       "is_open": true,
       "latitude": 32.88605523684078,
       "longitude": -6.900749942203337,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "khouribga_6",
@@ -9561,7 +8721,7 @@
       "is_open": true,
       "latitude": 32.89292178211044,
       "longitude": -6.937993293335945,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "settat_1",
@@ -9581,7 +8741,7 @@
       "is_open": true,
       "latitude": 32.99665211211466,
       "longitude": -7.616921107749528,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "settat_2",
@@ -9601,7 +8761,7 @@
       "is_open": true,
       "latitude": 33.00265709817671,
       "longitude": -7.629689232725951,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "settat_3",
@@ -9621,7 +8781,7 @@
       "is_open": true,
       "latitude": 33.00298513750936,
       "longitude": -7.618608047485349,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "settat_4",
@@ -9641,7 +8801,7 @@
       "is_open": true,
       "latitude": 32.9953816356357,
       "longitude": -7.64634466150061,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "settat_5",
@@ -9661,7 +8821,7 @@
       "is_open": true,
       "latitude": 33.0027053,
       "longitude": -7.6296877,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "settat_6",
@@ -9681,7 +8841,7 @@
       "is_open": true,
       "latitude": 32.9938439,
       "longitude": -7.623368,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "berrechid_1",
@@ -9701,11 +8861,11 @@
       "is_open": true,
       "latitude": 33.2587195,
       "longitude": -7.560228,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "berrechid_2",
-      "name": "Pharmacie 2000",
+      "name": "2000",
       "name_ar": "2000",
       "address": "N 22, bd Mohamed V",
       "address_ar": "N 22, bd Mohamed V",
@@ -9721,11 +8881,11 @@
       "is_open": true,
       "latitude": 33.27035048546498,
       "longitude": -7.585602953874759,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "berrechid_3",
-      "name": "Pharmacie Assila",
+      "name": "assila",
       "name_ar": "assila",
       "address": "35 hay El Hassani bloc H",
       "address_ar": "35 hay El Hassani bloc H",
@@ -9741,27 +8901,7 @@
       "is_open": true,
       "latitude": 33.27071953655641,
       "longitude": -7.569712743245169,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "berrechid_4",
-      "name": "Pharmacie des Familles",
-      "name_ar": "Pharmacie des Familles",
-      "address": "229, bd Abdellah Echafchaouni , bloc \"F\", hay Hassani Berrechid",
-      "address_ar": "229, bd Abdellah Echafchaouni , bloc \"F\", hay Hassani Berrechid",
-      "phone": "+212522325823",
-      "city": "Berrechid",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.27426,
-      "longitude": -7.571736,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "khemisset_1",
@@ -9781,7 +8921,7 @@
       "is_open": true,
       "latitude": 33.8153704,
       "longitude": -6.0573302,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "khemisset_2",
@@ -9801,7 +8941,7 @@
       "is_open": true,
       "latitude": 33.8264202,
       "longitude": -6.0710208,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "laayoune_1",
@@ -9821,7 +8961,7 @@
       "is_open": true,
       "latitude": 27.13485328265078,
       "longitude": -13.15104861536408,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "laayoune_2",
@@ -9841,7 +8981,7 @@
       "is_open": true,
       "latitude": 27.1527021,
       "longitude": -13.2047145,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "laayoune_3",
@@ -9861,7 +9001,7 @@
       "is_open": true,
       "latitude": 27.1549602,
       "longitude": -13.1875343,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "laayoune_4",
@@ -9881,7 +9021,7 @@
       "is_open": true,
       "latitude": 27.1382170947393,
       "longitude": -13.17533358650818,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "laayoune_5",
@@ -9901,187 +9041,7 @@
       "is_open": true,
       "latitude": 27.1527021,
       "longitude": -13.2047145,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "laayoune_6",
-      "name": "Pharmacie 25 Mars",
-      "name_ar": "Pharmacie 25 Mars",
-      "address": "Hay 25 Mars, Avenue 30 Près De La Mosquée El Adarissa",
-      "address_ar": "Hay 25 Mars, Avenue 30 Près De La Mosquée El Adarissa",
-      "phone": "+212525136777",
-      "city": "Laâyoune",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 27.124079,
-      "longitude": -13.15644,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "laayoune_7",
-      "name": "Pharmacie 84",
-      "name_ar": "Pharmacie 84",
-      "address": "84, Bd Wikala Ait Baamranen Près De Lycée Mousa Ibn Nouceir, En Face De Café Catalina",
-      "address_ar": "84, Bd Wikala Ait Baamranen Près De Lycée Mousa Ibn Nouceir, En Face De Café Catalina",
-      "phone": "+212528985272",
-      "city": "Laâyoune",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 27.1430788,
-      "longitude": -13.1651045,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "laayoune_8",
-      "name": "Pharmacie Abadila",
-      "name_ar": "Pharmacie Abadila",
-      "address": "232 Bd Skkima",
-      "address_ar": "232 Bd Skkima",
-      "phone": "+212528990073",
-      "city": "Laâyoune",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 27.1544991,
-      "longitude": -13.1954002,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "laayoune_9",
-      "name": "Pharmacie Achraf",
-      "name_ar": "Pharmacie Achraf",
-      "address": "153 Bd Skikima Chadma 1",
-      "address_ar": "153 Bd Skikima Chadma 1",
-      "phone": "+212528893975",
-      "city": "Laâyoune",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 27.1464372,
-      "longitude": -13.1972713,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "laayoune_10",
-      "name": "Pharmacie Aicha",
-      "name_ar": "Pharmacie Aicha",
-      "address": "312 Rue Zaouiat Cheikh Khatramla",
-      "address_ar": "312 Rue Zaouiat Cheikh Khatramla",
-      "phone": "+212528894864",
-      "city": "Laâyoune",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 27.1433486,
-      "longitude": -13.1934953,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "laayoune_11",
-      "name": "Pharmacie Al Haramain",
-      "name_ar": "Pharmacie Al Haramain",
-      "address": "Boulevard Zaid Ibn Tabit, Lotissement Al Wahda",
-      "address_ar": "Boulevard Zaid Ibn Tabit, Lotissement Al Wahda",
-      "phone": "+212528997799",
-      "city": "Laâyoune",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 27.1397384,
-      "longitude": -13.181992,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "laayoune_12",
-      "name": "Pharmacie Al Qimma",
-      "name_ar": "Pharmacie Al Qimma",
-      "address": "Hay Moulay Rachid (annahda) En Face Du Café Las Palmas, Près Du Collège Annahda",
-      "address_ar": "Hay Moulay Rachid (annahda) En Face Du Café Las Palmas, Près Du Collège Annahda",
-      "phone": "+212528984141",
-      "city": "Laâyoune",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 27.1451119,
-      "longitude": -13.1797055,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "laayoune_13",
-      "name": "Pharmacie Al Wifaq",
-      "name_ar": "Pharmacie Al Wifaq",
-      "address": "N°02, Mekka Rue Essmara Lotissement Alwifaq - En Face Du Station Pina",
-      "address_ar": "N°02, Mekka Rue Essmara Lotissement Alwifaq - En Face Du Station Pina",
-      "phone": "+212528984989",
-      "city": "Laâyoune",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 27.1478371,
-      "longitude": -13.1982024,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "laayoune_14",
-      "name": "Pharmacie Anas Ibn Malik",
-      "name_ar": "Pharmacie Anas Ibn Malik",
-      "address": "Lotissement Issam & Sofia (près Du Mosquée Anas Ibn Malik Lhchicha)",
-      "address_ar": "Lotissement Issam & Sofia (près Du Mosquée Anas Ibn Malik Lhchicha)",
-      "phone": "+212528990093",
-      "city": "Laâyoune",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 27.1500384,
-      "longitude": -13.1990758,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "dakhla_1",
@@ -10101,7 +9061,7 @@
       "is_open": true,
       "latitude": 23.69653117098187,
       "longitude": -15.9347478356745,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "guelmim_1",
@@ -10121,67 +9081,7 @@
       "is_open": true,
       "latitude": 28.9799333,
       "longitude": -10.0556167,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "guelmim_2",
-      "name": "Pharmacie Arrahma",
-      "name_ar": "Pharmacie Arrahma",
-      "address": "bd Prince Héritier",
-      "address_ar": "Bd Prince Héritier",
-      "phone": "+212528870720",
-      "city": "Guelmim",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 28.9917005,
-      "longitude": -10.0662456,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "guelmim_3",
-      "name": "Pharmacie Ben Tahr",
-      "name_ar": "Pharmacie Ben Tahr",
-      "address": "56 av Allal Ben Abdellah hay Al Massira II",
-      "address_ar": "56 av Allal Ben Abdellah hay Al Massira II Guelmim",
-      "phone": "+212528771314",
-      "city": "Guelmim",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 28.9883659,
-      "longitude": -10.0527498,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "guelmim_4",
-      "name": "Pharmacie Ichraq",
-      "name_ar": "Pharmacie Ichraq",
-      "address": "hay Essaadiyine rue 20 n°20",
-      "address_ar": "hay Essaadiyine rue 20 n°20 Guelmim",
-      "phone": "+212528770543",
-      "city": "Guelmim",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 28.9883659,
-      "longitude": -10.0527498,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "taza_1",
@@ -10201,7 +9101,7 @@
       "is_open": true,
       "latitude": 34.2148167,
       "longitude": -4.0044333,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "taza_2",
@@ -10221,7 +9121,7 @@
       "is_open": true,
       "latitude": 34.221061,
       "longitude": -4.010664,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "taza_3",
@@ -10241,7 +9141,7 @@
       "is_open": true,
       "latitude": 34.231492,
       "longitude": -4.0127946,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "taza_4",
@@ -10261,7 +9161,7 @@
       "is_open": true,
       "latitude": 34.2318275,
       "longitude": -3.9806379,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "taza_5",
@@ -10281,7 +9181,7 @@
       "is_open": true,
       "latitude": 34.2105603,
       "longitude": -3.9980485,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "taza_6",
@@ -10301,7 +9201,7 @@
       "is_open": true,
       "latitude": 34.2312784,
       "longitude": -3.9997778,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "errachidia_1",
@@ -10321,7 +9221,7 @@
       "is_open": true,
       "latitude": 31.920098,
       "longitude": -4.433953,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "errachidia_2",
@@ -10341,47 +9241,7 @@
       "is_open": true,
       "latitude": 31.927236,
       "longitude": -4.4284985,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "errachidia_3",
-      "name": "Pharmacie Al Massira",
-      "name_ar": "Pharmacie Al Massira",
-      "address": "Cité ElMassira rue 1 n°44",
-      "address_ar": "Cité ElMassira rue 1 n°44",
-      "phone": "+212535571371",
-      "city": "Errachidia",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 31.920162,
-      "longitude": -4.421315,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "errachidia_4",
-      "name": "Pharmacie Ibn Rochd",
-      "name_ar": "Pharmacie Ibn Rochd",
-      "address": "2, Ain Al Aati 2",
-      "address_ar": "2, Ain Al Aati 2",
-      "phone": "+212535573839",
-      "city": "Errachidia",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 31.9377866,
-      "longitude": -4.4556613,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "ouarzazate_1",
@@ -10401,47 +9261,7 @@
       "is_open": true,
       "latitude": 30.93568630847025,
       "longitude": -6.926590213492067,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "ouarzazate_2",
-      "name": "Pharmacie Al Massira",
-      "name_ar": "Pharmacie Al Massira",
-      "address": "44, hay Al Massira",
-      "address_ar": "44 hay Al Massira Ouarzazate",
-      "phone": "+212524890505",
-      "city": "Ouarzazate",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 30.9329072,
-      "longitude": -6.9222552,
-      "verified_at": "2026-09-23 13:46"
-    },
-    {
-      "id": "ouarzazate_3",
-      "name": "Pharmacie du Sud",
-      "name_ar": "Pharmacie du Sud",
-      "address": "rue El Mouahidine lot du centre",
-      "address_ar": "rue El Mouahidine lot du centre Ouarzazate",
-      "phone": "+212524884000",
-      "city": "Ouarzazate",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "09:00 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "09:00 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 30.9215504,
-      "longitude": -6.915856,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "essaouira_1",
@@ -10461,7 +9281,7 @@
       "is_open": true,
       "latitude": 31.5145997,
       "longitude": -9.7694489,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "essaouira_2",
@@ -10481,7 +9301,7 @@
       "is_open": true,
       "latitude": 31.5039123,
       "longitude": -9.7543288,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "al-hoceima_1",
@@ -10501,7 +9321,7 @@
       "is_open": true,
       "latitude": 35.24795690416183,
       "longitude": -3.936425395700831,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "al-hoceima_2",
@@ -10521,7 +9341,7 @@
       "is_open": true,
       "latitude": 35.2392269,
       "longitude": -3.9274829,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "al-hoceima_3",
@@ -10541,7 +9361,7 @@
       "is_open": true,
       "latitude": 35.2498,
       "longitude": -3.9364,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "al-hoceima_4",
@@ -10561,7 +9381,7 @@
       "is_open": true,
       "latitude": 35.25399328544324,
       "longitude": -3.934761461342233,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "al-hoceima_5",
@@ -10581,7 +9401,7 @@
       "is_open": true,
       "latitude": 35.2439202,
       "longitude": -3.9364175,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "berkane_1",
@@ -10601,7 +9421,7 @@
       "is_open": true,
       "latitude": 34.9177281,
       "longitude": -2.3123031,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "berkane_2",
@@ -10621,7 +9441,7 @@
       "is_open": true,
       "latitude": 34.9237606,
       "longitude": -2.31406,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "berkane_3",
@@ -10641,7 +9461,7 @@
       "is_open": true,
       "latitude": 34.9276531,
       "longitude": -2.3299903,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:25"
     },
     {
       "id": "sidi-kacem_1",
@@ -10661,7 +9481,7 @@
       "is_open": true,
       "latitude": 34.2260172,
       "longitude": -5.7129164,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:26"
     },
     {
       "id": "sidi-kacem_2",
@@ -10681,7 +9501,7 @@
       "is_open": true,
       "latitude": 34.224188,
       "longitude": -5.7161884,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:26"
     },
     {
       "id": "sidi-kacem_3",
@@ -10701,7 +9521,7 @@
       "is_open": true,
       "latitude": 34.2277526,
       "longitude": -5.7229425,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:26"
     },
     {
       "id": "sidi-slimane_1",
@@ -10721,7 +9541,7 @@
       "is_open": true,
       "latitude": 34.25505,
       "longitude": -5.92974,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:26"
     },
     {
       "id": "sidi-slimane_2",
@@ -10741,7 +9561,7 @@
       "is_open": true,
       "latitude": 34.2539405,
       "longitude": -5.9201918,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:26"
     },
     {
       "id": "sidi-slimane_3",
@@ -10761,7 +9581,7 @@
       "is_open": true,
       "latitude": 34.2663327,
       "longitude": -5.9254978,
-      "verified_at": "2026-09-23 13:46"
+      "verified_at": "2026-09-23 22:26"
     }
   ]
 }
