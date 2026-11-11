@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T16:31:25.082471",
-  "total_count": 419,
+  "last_updated": "2026-11-11T00:12:18.333579",
+  "total_count": 391,
   "cities_covered": 33,
   "pharmacies": [
     {
@@ -21,7 +21,7 @@
       "is_open": true,
       "latitude": 33.550361,
       "longitude": -7.5922867,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_2",
@@ -41,7 +41,7 @@
       "is_open": true,
       "latitude": 33.52150135065857,
       "longitude": -7.673960372318358,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_3",
@@ -61,30 +61,10 @@
       "is_open": true,
       "latitude": 33.56206,
       "longitude": -7.67821,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_4",
-      "name": "Pharmacie Taouss",
-      "name_ar": "Pharmacie Taouss",
-      "address": "12 hay El Oulfa - Casablanca ang. rue 13 et 04, Casablanca",
-      "address_ar": "12 hay El Oulfa - Casablanca ang. rue 13 et 04, Casablanca",
-      "phone": "+212520649019",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "24h",
-      "duty_category": "permanent_24h",
-      "duty_label_fr": "Garde 24h (Tour de garde)",
-      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
-      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
-      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
-      "is_open": true,
-      "latitude": 33.56206,
-      "longitude": -7.67821,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_5",
       "name": "Pharmacie Dawdia",
       "name_ar": "صيدلية الداوديات",
       "address": "hay El Wifak 1 rue 13 n°85 Oulfa Casablanca",
@@ -101,10 +81,10 @@
       "is_open": true,
       "latitude": 33.5553578,
       "longitude": -7.6899021,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_6",
+      "id": "casablanca_5",
       "name": "Pharmacie Fourkane",
       "name_ar": "صيدلية الفرقان",
       "address": "lot El Oulja II (Ain Sebaa) bd C n°209 Aïn Sebaâ Casablanca",
@@ -121,10 +101,10 @@
       "is_open": true,
       "latitude": 33.61635191295379,
       "longitude": -7.529369582841916,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_7",
+      "id": "casablanca_6",
       "name": "Pharmacie Moubaraka",
       "name_ar": "صيدلية المباركة",
       "address": "cité Sidi Bernoussi 6 bloc 1 hay Moubaraka Sidi Bernoussi Casablanca",
@@ -141,10 +121,10 @@
       "is_open": true,
       "latitude": 33.615338,
       "longitude": -7.5032413,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_8",
+      "id": "casablanca_7",
       "name": "Pharmacie Sun Square Almaz",
       "name_ar": "صيدلية صن سكوير ألماز",
       "address": "Mag N• 218, Sun Square Almaz, Quartier ALMAZ, Casablanca",
@@ -161,10 +141,10 @@
       "is_open": true,
       "latitude": 33.5103443,
       "longitude": -7.6905007,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_9",
+      "id": "casablanca_8",
       "name": "Almania",
       "name_ar": "Almania",
       "address": "hay Sadri (Bournazel) kiss. Lkheirya Hay moulay rachid",
@@ -181,10 +161,10 @@
       "is_open": true,
       "latitude": 33.5657269,
       "longitude": -7.5547649,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_10",
+      "id": "casablanca_9",
       "name": "DERB EL KHEIR",
       "name_ar": "Pharmacie Derb ElKheir",
       "address": "BD BAGHDAD RUE 23 N°63/65/67 DERB EL KHEIR",
@@ -201,10 +181,10 @@
       "is_open": true,
       "latitude": 33.550361,
       "longitude": -7.5922867,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_11",
+      "id": "casablanca_10",
       "name": "Pharmacie Al Kandara",
       "name_ar": "Pharmacie Al Kandara",
       "address": "10 rue Abdellah Guennoun",
@@ -221,10 +201,10 @@
       "is_open": true,
       "latitude": 33.59393130998232,
       "longitude": -7.627588702679654,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_12",
+      "id": "casablanca_11",
       "name": "Pharmacie Bin Lamdoune",
       "name_ar": "Pharmacie Bin Lamdoune",
       "address": "N 12, angle rue n 50 & n 1. Sidi Maarouf 4",
@@ -241,13 +221,13 @@
       "is_open": true,
       "latitude": 33.55954324552287,
       "longitude": -7.601021140367552,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_13",
+      "id": "casablanca_12",
       "name": "Pharmacie Chadili",
       "name_ar": "صيدلية الشاذلي",
-      "address": "hay Sidi Moumen lakdim Lot. Amal n°4 rue 24 bd Houssine Soussi, Casablanca",
+      "address": "hay Sidi Moumen lakdim Lot. Amal n°4 rue 24 bd Houssine Soussi Sidi Moumen Casablanca",
       "address_ar": "حي سيدي مومن القديم تجزئة. الأمل رقم 4 زنقة 24 شارع الحسين السوسي سيدي مومن الدار البيضاء",
       "phone": "+212522728091",
       "city": "Casablanca",
@@ -261,13 +241,13 @@
       "is_open": true,
       "latitude": 33.5823471,
       "longitude": -7.530336,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_14",
+      "id": "casablanca_13",
       "name": "Pharmacie Daha",
       "name_ar": "Pharmacie Daha",
-      "address": "cité Sidi Bernoussi lotiss. Daha rue 7 n°48 bis, Casablanca",
+      "address": "cité Sidi Bernoussi lotiss. Daha rue 7 n°48 bis Casablanca",
       "address_ar": "cité Sidi Bernoussi lotiss. Daha rue 7 n°48 bis, Casablanca",
       "phone": "+212522355290",
       "city": "Casablanca",
@@ -281,10 +261,10 @@
       "is_open": true,
       "latitude": 33.619067,
       "longitude": -7.525414,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_15",
+      "id": "casablanca_14",
       "name": "Pharmacie Fatma",
       "name_ar": "Pharmacie Fatma",
       "address": "hay El Oulfa rue 191 n 48. bd Oued Sebou",
@@ -301,10 +281,10 @@
       "is_open": true,
       "latitude": 33.55386763478986,
       "longitude": -7.674573747319228,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_16",
+      "id": "casablanca_15",
       "name": "Pharmacie Haj Fateh",
       "name_ar": "Pharmacie Haj Fateh",
       "address": "N 250, Lotissement Haj Fateh - Lissasfa",
@@ -321,10 +301,10 @@
       "is_open": true,
       "latitude": 33.5441596,
       "longitude": -7.6782421,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_17",
+      "id": "casablanca_16",
       "name": "Pharmacie Hatim",
       "name_ar": "Pharmacie Hatim",
       "address": "127 rue du Prince Moulay Abdallah Centre Ville Casablanca",
@@ -341,10 +321,10 @@
       "is_open": true,
       "latitude": 33.58968671511123,
       "longitude": -7.6173758973144,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_18",
+      "id": "casablanca_17",
       "name": "Pharmacie Jennane",
       "name_ar": "Pharmacie Jennane",
       "address": "N 4 Immeuble A Lotissement El Mehdi - Sidi Maarouf",
@@ -361,13 +341,13 @@
       "is_open": true,
       "latitude": 33.51176804536229,
       "longitude": -7.658809989972784,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_19",
-      "name": "Pharmacie la Solidarité",
+      "id": "casablanca_18",
+      "name": "Pharmacie la solidarité",
       "name_ar": "Pharmacie la Solidarité",
-      "address": "354 avenue Ambassadeur Ben Aïcha, Casablanca",
+      "address": "354 avenue Ambassadeur Ben Aïcha Roches noires Casablanca",
       "address_ar": "354 avenue Ambassadeur Ben Aïcha, Casablanca",
       "phone": "+212522246921",
       "city": "Casablanca",
@@ -381,10 +361,10 @@
       "is_open": true,
       "latitude": 33.602709,
       "longitude": -7.582229,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_20",
+      "id": "casablanca_19",
       "name": "Pharmacie Moukdad Lahrizi",
       "name_ar": "Pharmacie Moukdad Lahrizi",
       "address": "153.BD Moukdad Lahrizi Hay Al Houda",
@@ -401,10 +381,10 @@
       "is_open": true,
       "latitude": 33.53937,
       "longitude": -7.5699072,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_21",
+      "id": "casablanca_20",
       "name": "Pharmacie Najd",
       "name_ar": "Pharmacie Najd",
       "address": "1 Bis rue Ibn Chahid",
@@ -421,10 +401,10 @@
       "is_open": true,
       "latitude": 33.5788404,
       "longitude": -7.6342695,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_22",
+      "id": "casablanca_21",
       "name": "Pharmacie Sabrine",
       "name_ar": "Pharmacie Sabrine",
       "address": "hay Amal I (Sidi Bernoussi) rue 11 n 165 Sidi bernoussi",
@@ -441,10 +421,10 @@
       "is_open": true,
       "latitude": 33.6070656,
       "longitude": -7.5123934,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_23",
+      "id": "casablanca_22",
       "name": "RYAD SOFIA",
       "name_ar": "Pharmacie Ryad Sofia",
       "address": "LOTISSEMENT NASSIME ISLANE LOT 770 20 190 LISSASFA",
@@ -461,10 +441,10 @@
       "is_open": true,
       "latitude": 33.52150135065857,
       "longitude": -7.673960372318358,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_24",
+      "id": "casablanca_23",
       "name": "TAOUSS",
       "name_ar": "Pharmacie Taouss",
       "address": "LOTISSEMENT OULFA - GROUPE V -N° 12 - ANGLE RUES 13 & 4 BD. OUM ERRABI (HAMMAM TAOUSS)",
@@ -481,7 +461,27 @@
       "is_open": true,
       "latitude": 33.56206,
       "longitude": -7.67821,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "casablanca_24",
+      "name": "Pharmacie Taouss",
+      "name_ar": "Pharmacie Taouss",
+      "address": "12 hay El Oulfa - Casablanca ang. rue 13 et 04, Casablanca",
+      "address_ar": "12 hay El Oulfa - Casablanca ang. rue 13 et 04, Casablanca",
+      "phone": "+212520649019",
+      "city": "Casablanca",
+      "city_ar": "",
+      "duty_type": "24h",
+      "duty_category": "permanent_24h",
+      "duty_label_fr": "Garde 24h (Tour de garde)",
+      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
+      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
+      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
+      "is_open": true,
+      "latitude": 33.56206,
+      "longitude": -7.67821,
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_25",
@@ -501,7 +501,7 @@
       "is_open": true,
       "latitude": 33.6038841,
       "longitude": -7.4898697,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_26",
@@ -521,7 +521,7 @@
       "is_open": true,
       "latitude": 33.587278,
       "longitude": -7.4814142,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_27",
@@ -541,7 +541,7 @@
       "is_open": true,
       "latitude": 33.58334602755531,
       "longitude": -7.57353385824748,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_28",
@@ -561,7 +561,7 @@
       "is_open": true,
       "latitude": 33.5876854,
       "longitude": -7.574065,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_29",
@@ -581,7 +581,7 @@
       "is_open": true,
       "latitude": 33.54848867659942,
       "longitude": -7.698733389314661,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_30",
@@ -601,7 +601,7 @@
       "is_open": true,
       "latitude": 33.5733831,
       "longitude": -7.6660943,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_31",
@@ -621,12 +621,12 @@
       "is_open": true,
       "latitude": 33.58505352354701,
       "longitude": -7.555487226472222,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_32",
-      "name": "Pharmacie Houar (Rifai)",
-      "name_ar": "Pharmacie Houar (Rifai)",
+      "name": "Rifai (Houar)",
+      "name_ar": "Rifai (Houar)",
       "address": "135 Bd du Fouarat",
       "address_ar": "135 Bd du Fouarat",
       "phone": "+212522601724",
@@ -641,190 +641,10 @@
       "is_open": true,
       "latitude": 33.58233860300567,
       "longitude": -7.551962642020584,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "casablanca_33",
-      "name": "Pharmacie AlAhd El Jadid",
-      "name_ar": "Pharmacie AlAhd El Jadid",
-      "address": "43 bd de la Grande Ceinture (h.Mohammadi) Hay Mohammadi Casablanca",
-      "address_ar": "43 bd de la Grande Ceinture (h.Mohammadi) Hay Mohammadi Casablanca",
-      "phone": "+212522601246",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.581153,
-      "longitude": -7.563813,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_34",
-      "name": "Pharmacie ElFaiz",
-      "name_ar": "EL FAIZ",
-      "address": "avenue Khalid Bnou Loualid lotiss. Halioua mag.n°5 Casablanca",
-      "address_ar": "LOTISSEMENT HALIOUA 5, BD. KHALID IBNOU EL WALID",
-      "phone": "+212522355939",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.6026797,
-      "longitude": -7.5368048,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_35",
-      "name": "Pharmacie Jnane Californie",
-      "name_ar": "Pharmacie Jnane Californie",
-      "address": "quartier Californie, piste Tadart n°10 résid. Jnane Californie Casablanca",
-      "address_ar": "quartier Californie, piste Tadart n°10 résid. Jnane Californie Casablanca",
-      "phone": "+212522871112",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.52768841600548,
-      "longitude": -7.613311369182247,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_36",
-      "name": "Pharmacie Mçalla",
-      "name_ar": "Pharmacie Mçalla",
-      "address": "84 bd de Témara bloc 13 n°1 Aïn Chok Casablanca",
-      "address_ar": "84 bd de Témara bloc 13 n°1 Aïn Chok Casablanca",
-      "phone": "+212522214813",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.54931743758089,
-      "longitude": -7.599667662603478,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_37",
-      "name": "Pharmacie Mouad",
-      "name_ar": "Pharmacie Mouad",
-      "address": "59, bd de Berrechid Casablanca",
-      "address_ar": "59, bd de Berrechid Casablanca",
-      "phone": "+212522508914",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.55276064129984,
-      "longitude": -7.594411409326299,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_38",
-      "name": "Pharmacie Moulay Slimane",
-      "name_ar": "Pharmacie Moulay Slimane",
-      "address": "118 bd Moulay Slimane Aïn Sebaâ Casablanca",
-      "address_ar": "118 bd Moulay Slimane Aïn Sebaâ Casablanca",
-      "phone": "+212522343402",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.6177938,
-      "longitude": -7.5463805,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_39",
-      "name": "Pharmacie Nice",
-      "name_ar": "Pharmacie Nice",
-      "address": "1 avenue de Nice Quartier bourgogne",
-      "address_ar": "1 avenue de Nice Quartier bourgogne",
-      "phone": "+212522949339",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.5981895,
-      "longitude": -7.6476276,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_40",
-      "name": "Pharmacie Route de Rabat",
-      "name_ar": "Pharmacie Route de Rabat",
-      "address": "route de Rabat (r.p. 1), résid. Al Manare n°4 Casablanca",
-      "address_ar": "route de Rabat (r.p. 1), résid. Al Manare n°4 Casablanca",
-      "phone": "+212522663278",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.6021541,
-      "longitude": -7.5240977,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_41",
-      "name": "Pharmacie Slaoui",
-      "name_ar": "Pharmacie Slaoui",
-      "address": "154 bd du Fouarat hay Mohammadi Casablanca",
-      "address_ar": "154 bd du Fouarat hay Mohammadi Casablanca",
-      "phone": "+212522626245",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.5754,
-      "longitude": -7.57029,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_42",
       "name": "AAD EL JADID",
       "name_ar": "AAD EL JADID",
       "address": "ANGLE BOULEVARD LA GRANDE CEINTURE ET OKBA BNOU NAFII - HAY MOHAMMADI",
@@ -841,10 +661,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_43",
+      "id": "casablanca_34",
       "name": "EL FAIZ",
       "name_ar": "EL FAIZ",
       "address": "LOTISSEMENT HALIOUA - 5, BD. KHALID IBNOU EL WALID - AIN SEBAA",
@@ -861,13 +681,13 @@
       "is_open": true,
       "latitude": 33.6026797,
       "longitude": -7.5368048,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_44",
-      "name": "El Haouzia",
+      "id": "casablanca_35",
+      "name": "EL HAOUZIA",
       "name_ar": "El Haouzia",
-      "address": "avenue du Dix Mars 1982 (Sidi Othman) bloc 58 n 114 Hay sidi othmane",
+      "address": "BOULEVARD 10 MARS, BLOC 58 N° 114 - SIDI OTHMANE",
       "address_ar": "avenue du Dix Mars 1982 (Sidi Othman) bloc 58 n 114 Hay sidi othmane",
       "phone": "+212522553780",
       "city": "Casablanca",
@@ -881,13 +701,13 @@
       "is_open": true,
       "latitude": 33.56485117060983,
       "longitude": -7.57089134755198,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_45",
+      "id": "casablanca_36",
       "name": "HAY AL BAIDA",
       "name_ar": "HAY AL BAIDA",
-      "address": "avenue Abdelkader Essahraoui résid Al Baida 2 rue10 lot 28 Hay moulay rachid",
+      "address": "EL BAIDA II TRANCHE 2 RUE 10 N° 28 - SIDI OTHMANE MOULAY RACHID",
       "address_ar": "avenue Abdelkader Essahraoui résid Al Baida 2 rue10 lot 28 Hay moulay rachid",
       "phone": "+212522702920",
       "city": "Casablanca",
@@ -901,10 +721,30 @@
       "is_open": true,
       "latitude": 33.56141727531497,
       "longitude": -7.531770347896569,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_46",
+      "id": "casablanca_37",
+      "name": "HAY MOHAMMADI MINARET",
+      "name_ar": "Pharmacie Hay Mohammadi Minaret",
+      "address": "RUE 37 N° 139 TERMINUS N° 2 (SOUK SALAM) - HAY MOHAMMADI",
+      "address_ar": "RUE 37 N 139 TERMINUS N2 SOUK ASSALAM",
+      "phone": "+212522601439",
+      "city": "Casablanca",
+      "city_ar": "",
+      "duty_type": "night",
+      "duty_category": "night",
+      "duty_label_fr": "Garde de Nuit",
+      "duty_label_ar": "حراسة ليلية",
+      "duty_hours_fr": "20:00 - 08:00 (Garde de Nuit)",
+      "duty_hours_ar": "20:00 - 08:00 (حراسة ليلية)",
+      "is_open": true,
+      "latitude": 33.58505352354701,
+      "longitude": -7.555487226472222,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "casablanca_38",
       "name": "HOUAR",
       "name_ar": "HOUAR",
       "address": "135, BD. EL FOUARAT - HAY MOHAMMADI",
@@ -921,51 +761,11 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_47",
-      "name": "JANQUIERE",
-      "name_ar": "Pharmacie Janquière",
-      "address": "39, RUE BENI AMMAR - LA VILLETTE - HAY MOHAMMADI",
-      "address_ar": "39 rue Beni Amar, Casablanca",
-      "phone": "+212522616956",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "20:00 - 08:00 (Garde de Nuit)",
-      "duty_hours_ar": "20:00 - 08:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.5876854,
-      "longitude": -7.574065,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_48",
-      "name": "Pharmacie Hay Mohammadi Minaret",
-      "name_ar": "Pharmacie Hay Mohammadi Minaret",
-      "address": "308 bloc Saada rue 37 n°139 Hay Mohammadi Casablanca",
-      "address_ar": "RUE 37 N 139 TERMINUS N2 SOUK ASSALAM",
-      "phone": "+212522601439",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "20:00 - 08:00 (Garde de Nuit)",
-      "duty_hours_ar": "20:00 - 08:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.58505352354701,
-      "longitude": -7.555487226472222,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_49",
-      "name": "Pharmacie Jamila",
+      "id": "casablanca_39",
+      "name": "Jamila",
       "name_ar": "Pharmacie Jamila",
       "address": "326.Avenue Idriss El Harti",
       "address_ar": "326.Avenue Idriss El Harti",
@@ -981,11 +781,11 @@
       "is_open": true,
       "latitude": 33.546023,
       "longitude": -7.576505,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_50",
-      "name": "Pharmacie Moulay",
+      "id": "casablanca_40",
+      "name": "Moulay",
       "name_ar": "Pharmacie Moulay",
       "address": "64 rue Bachir El Ibrahimi-ex Quinconces La gironde",
       "address_ar": "64 rue Bachir El Ibrahimi-ex Quinconces La gironde",
@@ -1001,13 +801,13 @@
       "is_open": true,
       "latitude": 33.58756776751303,
       "longitude": -7.603578740475472,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_51",
-      "name": "Pharmacie Soulaima",
+      "id": "casablanca_41",
+      "name": "SOULAIMA",
       "name_ar": "Pharmacie Soulaima",
-      "address": "bd de Fès résid. les Jardins de Californie 2 Californie Casablanca",
+      "address": "Boulevard de Fes , Résidence les jardins de Californie 2 . Californie Casablanca",
       "address_ar": "bd de Fès résid. les Jardins de Californie 2 Californie Casablanca",
       "phone": "+212522219894",
       "city": "Casablanca",
@@ -1021,10 +821,10 @@
       "is_open": true,
       "latitude": 33.5435287,
       "longitude": -7.6159639,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_52",
+      "id": "casablanca_42",
       "name": "Pharmacie Ahmed Rayan",
       "name_ar": "Pharmacie Ahmed Rayan",
       "address": "hay El Oulfa résid. cité Essalam Gh9 imm. 77 n°1",
@@ -1041,10 +841,10 @@
       "is_open": true,
       "latitude": 33.5483255,
       "longitude": -7.6925337,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_53",
+      "id": "casablanca_43",
       "name": "Pharmacie Alaoui Jabri",
       "name_ar": "Pharmacie Alaoui Jabri",
       "address": "hay Sidi Moumen lot El Falah tranche 1 lot 223 local n°2",
@@ -1061,10 +861,10 @@
       "is_open": true,
       "latitude": 33.57054500224587,
       "longitude": -7.504996257672119,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_54",
+      "id": "casablanca_44",
       "name": "Pharmacie Arraefa",
       "name_ar": "Pharmacie Arraefa",
       "address": "66 X allée des Casuarinas El Gantour",
@@ -1081,10 +881,10 @@
       "is_open": true,
       "latitude": 33.6135658,
       "longitude": -7.5439007,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_55",
+      "id": "casablanca_45",
       "name": "Pharmacie Bd Alhoussine Essoussi",
       "name_ar": "Pharmacie Bd Alhoussine Essoussi",
       "address": "6 rue Lhoussine Assoussi (Sidi Moumen) résid. des jardins de Mimosas",
@@ -1101,10 +901,10 @@
       "is_open": true,
       "latitude": 33.5332956,
       "longitude": -7.5834294,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_56",
+      "id": "casablanca_46",
       "name": "Pharmacie des Universites",
       "name_ar": "Pharmacie des Universites",
       "address": "K070 quartier Lissasfa (route d'El Jadida) résid. Bayt AlMaarifa",
@@ -1121,10 +921,10 @@
       "is_open": true,
       "latitude": 33.5408662,
       "longitude": -7.6586619,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_57",
+      "id": "casablanca_47",
       "name": "Pharmacie Gare Casa Voyageurs",
       "name_ar": "Pharmacie Gare Casa Voyageurs",
       "address": "238 bd Ba Hmad",
@@ -1141,10 +941,10 @@
       "is_open": true,
       "latitude": 33.58785304343788,
       "longitude": -7.59384322879715,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_58",
+      "id": "casablanca_48",
       "name": "Pharmacie Hayfa",
       "name_ar": "Pharmacie Hayfa",
       "address": "122 rue Addiar Eljadida rue 25",
@@ -1161,10 +961,10 @@
       "is_open": true,
       "latitude": 33.5281998,
       "longitude": -7.6087211,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_59",
+      "id": "casablanca_49",
       "name": "Pharmacie Jamal",
       "name_ar": "Pharmacie Jamal",
       "address": "94 lotiss. Abdelhafid mag. 5",
@@ -1181,10 +981,10 @@
       "is_open": true,
       "latitude": 33.4969051,
       "longitude": -7.6656563,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_60",
+      "id": "casablanca_50",
       "name": "Pharmacie Lahjajma",
       "name_ar": "Pharmacie Lahjajma",
       "address": "avenue du Phare résid. Taghzout",
@@ -1201,10 +1001,10 @@
       "is_open": true,
       "latitude": 33.5956021,
       "longitude": -7.6467351,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_61",
+      "id": "casablanca_51",
       "name": "Pharmacie Maurice Gaud",
       "name_ar": "Pharmacie Maurice Gaud",
       "address": "48 rue des Hôpitaux -ex Banaflous",
@@ -1221,10 +1021,10 @@
       "is_open": true,
       "latitude": 33.57880198453532,
       "longitude": -7.62141213788067,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_62",
+      "id": "casablanca_52",
       "name": "Pharmacie Ouadoudy",
       "name_ar": "Pharmacie Ouadoudy",
       "address": "hay Nassim (Lissasfa) projet Yasmine imm. 400 n°2",
@@ -1241,10 +1041,10 @@
       "is_open": true,
       "latitude": 33.5266548,
       "longitude": -7.6616154,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_63",
+      "id": "casablanca_53",
       "name": "Pharmacie Rachid",
       "name_ar": "Pharmacie Rachid",
       "address": "463 avenue Sakia El Hamra Jamila 4",
@@ -1261,10 +1061,10 @@
       "is_open": true,
       "latitude": 33.546362,
       "longitude": -7.5693896,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_64",
+      "id": "casablanca_54",
       "name": "Pharmacie Rayen",
       "name_ar": "Pharmacie Rayen",
       "address": "108 bd Ghandi résid. Ghandi n°17",
@@ -1281,10 +1081,10 @@
       "is_open": true,
       "latitude": 33.5741599188207,
       "longitude": -7.651852919643396,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_65",
+      "id": "casablanca_55",
       "name": "Pharmacie Riff",
       "name_ar": "Pharmacie Riff",
       "address": "306 route de Médiouna",
@@ -1301,70 +1101,10 @@
       "is_open": true,
       "latitude": 33.5722326,
       "longitude": -7.5972699,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_66",
-      "name": "Pharmacie Fouarat",
-      "name_ar": "Pharmacie Fouarat",
-      "address": "23, BD. EL FOUARAT - HAY EL QODS - CENTRE COMMERCIAL EL QODS 2",
-      "address_ar": "hay El Qods, C. Com Qods II, n°23 Casablanca",
-      "phone": "+212522601483",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.57900854032344,
-      "longitude": -7.562841587041961,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_67",
-      "name": "Pharmacie Dalanda",
-      "name_ar": "Pharmacie Dalanda",
-      "address": "hay El Osra lot. Sanaa rue 2 n°74, Casablanca",
-      "address_ar": "hay El Osra lot. Sanaa rue 2 n°74, Casablanca",
-      "phone": "+212522523561",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.532377,
-      "longitude": -7.58361,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_68",
-      "name": "Pharmacie kissariat Hay Mohammadi",
-      "name_ar": "Pharmacie kissariat Hay Mohammadi",
-      "address": "avenue C imm. 5 n°4, Casablanca",
-      "address_ar": "avenue C imm. 5 n°4, Casablanca",
-      "phone": "+212522638621",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.5637,
-      "longitude": -7.67348,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_69",
+      "id": "casablanca_56",
       "name": "Pharmacie Du Phare",
       "name_ar": "Pharmacie Du Phare",
       "address": "16 avenue du Phare Casablanca",
@@ -1381,10 +1121,10 @@
       "is_open": true,
       "latitude": 33.5931879,
       "longitude": -7.6431813,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_70",
+      "id": "casablanca_57",
       "name": "Pharmacie Garden California",
       "name_ar": "Pharmacie Garden California",
       "address": "lotiss. La Colline résid. California Garden Quartier sidi maarouf Arr. Aïn Chok Sidi Maarouf Casablanca",
@@ -1401,10 +1141,10 @@
       "is_open": true,
       "latitude": 33.5346107,
       "longitude": -7.64023,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_71",
+      "id": "casablanca_58",
       "name": "Pharmacie Krimat",
       "name_ar": "Pharmacie Krimat",
       "address": "341 boulevard Panoramique Aïn Chok Casablanca",
@@ -1421,10 +1161,10 @@
       "is_open": true,
       "latitude": 33.55238514057125,
       "longitude": -7.60748878301162,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_72",
+      "id": "casablanca_59",
       "name": "Pharmacie La Fontaine du Mall",
       "name_ar": "Pharmacie La Fontaine du Mall",
       "address": "Morocco Mall (en face de Marjane, Bd de Biarritz, Casablanca 20000",
@@ -1441,10 +1181,10 @@
       "is_open": true,
       "latitude": 33.5746943,
       "longitude": -7.708619,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_73",
+      "id": "casablanca_60",
       "name": "Pharmacie la Grande Artère",
       "name_ar": "Pharmacie la Grande Artère",
       "address": "1258 bd Mohammed VI Souk du bois Koréa Nouvelle Médina Casablanca",
@@ -1461,10 +1201,10 @@
       "is_open": true,
       "latitude": 33.56077702489595,
       "longitude": -7.594756990523901,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_74",
+      "id": "casablanca_61",
       "name": "Pharmacie Moulay Cherif",
       "name_ar": "Pharmacie Moulay Cherif",
       "address": "1 rue Abou Ali Kali Hay Mohammadi Casablanca",
@@ -1481,13 +1221,13 @@
       "is_open": true,
       "latitude": 33.59460310167799,
       "longitude": -7.569204830243552,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_75",
-      "name": "Derb Moulay cherif",
+      "id": "casablanca_62",
+      "name": "DERB MOULAY CHERIF",
       "name_ar": "Derb Moulay cherif",
-      "address": "1, RUE ABOU ALI KALI - AVENUE A - DERB MOULAY CHERIF",
+      "address": "1, RUE ABOU ALI KALI - AVENUE A - DERB MOULAY CHERIF - HAY MOHAMMADI",
       "address_ar": "1, RUE ABOU ALI KALI - AVENUE A - DERB MOULAY CHERIF",
       "phone": "+212522620226",
       "city": "Casablanca",
@@ -1501,13 +1241,33 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_76",
+      "id": "casablanca_63",
+      "name": "LOTF ALLAH",
+      "name_ar": "Pharmacie Lotf Allah",
+      "address": "7, RUE 3 LOTISS. MINO BD DE LA GRANDE CEINTURE",
+      "address_ar": "7 RUE 3 LOT MINO BD DE LA GRANDE CEINTURE",
+      "phone": "+212522604884",
+      "city": "Casablanca",
+      "city_ar": "",
+      "duty_type": "weekend_day",
+      "duty_category": "weekend",
+      "duty_label_fr": "Garde Jour / Weekend",
+      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
+      "is_open": true,
+      "latitude": 33.5778,
+      "longitude": -7.569221,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "casablanca_64",
       "name": "Pharmacie Aida",
       "name_ar": "Pharmacie Aida",
-      "address": "196 bd Mohamed Zerktouni",
+      "address": "196 bd Mohamed Zerktouni Casablanca",
       "address_ar": "196 bd Mohamed Zerktouni",
       "phone": "+212522263253",
       "city": "Casablanca",
@@ -1521,10 +1281,10 @@
       "is_open": true,
       "latitude": 33.5869808,
       "longitude": -7.6314731,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_77",
+      "id": "casablanca_65",
       "name": "Pharmacie Fouarat",
       "name_ar": "Pharmacie Fouarat",
       "address": "hay El Qods, C. Com Qods II, n°23 Casablanca",
@@ -1541,13 +1301,13 @@
       "is_open": true,
       "latitude": 33.57900854032344,
       "longitude": -7.562841587041961,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_78",
+      "id": "casablanca_66",
       "name": "Pharmacie le Corail",
       "name_ar": "Pharmacie le Corail",
-      "address": "9 Bis bd de Libye Val d'Anfa",
+      "address": "9 X bd de Libye Val d'Anfa Casablanca",
       "address_ar": "9 Bis bd de Libye Val d'Anfa",
       "phone": "+212522398222",
       "city": "Casablanca",
@@ -1561,33 +1321,13 @@
       "is_open": true,
       "latitude": 33.58802724822093,
       "longitude": -7.650735106386579,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_79",
-      "name": "Pharmacie Lotf Allah",
-      "name_ar": "Pharmacie Lotf Allah",
-      "address": "7 RUE 3 LOT MINO BD DE LA GRANDE CEINTURE",
-      "address_ar": "7 RUE 3 LOT MINO BD DE LA GRANDE CEINTURE",
-      "phone": "+212522604884",
-      "city": "Casablanca",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.5778,
-      "longitude": -7.569221,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "casablanca_80",
+      "id": "casablanca_67",
       "name": "Pharmacie Mechmach",
       "name_ar": "Pharmacie Mechmach",
-      "address": "N 18, Lotissement Anna - Sidi Maarouf",
+      "address": "18 lotiss. Anna Ouled Haddou Sidi Maârouf Casablanca",
       "address_ar": "N 18, Lotissement Anna - Sidi Maarouf",
       "phone": "+212522973912",
       "city": "Casablanca",
@@ -1601,13 +1341,13 @@
       "is_open": true,
       "latitude": 33.51404130156491,
       "longitude": -7.646777203983142,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_81",
+      "id": "casablanca_68",
       "name": "Pharmacie Merieux",
       "name_ar": "Pharmacie Merieux",
-      "address": "311 bd Abdelmoumen Hay hermitage",
+      "address": "311 bd Abdelmoumen Hermitage - Hôpitaux Casablanca",
       "address_ar": "311 bd Abdelmoumen Hay hermitage",
       "phone": "+212522860570",
       "city": "Casablanca",
@@ -1621,13 +1361,13 @@
       "is_open": true,
       "latitude": 33.56742862461105,
       "longitude": -7.626005798890128,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_82",
+      "id": "casablanca_69",
       "name": "Pharmacie Nationale Diouri",
       "name_ar": "Pharmacie Nationale Diouri",
-      "address": "396-398.Bd EL FIDA",
+      "address": "396 bd El Fida - ex Suez Nouvelle Médina Casablanca",
       "address_ar": "396-398.Bd EL FIDA",
       "phone": "+212522281296",
       "city": "Casablanca",
@@ -1641,13 +1381,13 @@
       "is_open": true,
       "latitude": 33.57015677769239,
       "longitude": -7.601088301685898,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "casablanca_83",
+      "id": "casablanca_70",
       "name": "Pharmacie Tazi",
       "name_ar": "Pharmacie Tazi",
-      "address": "Hay Walâa n 5 imm. 9 Tranche 17 sect. II",
+      "address": "Hay Walâa n°5 imm. 9 Tranche 17 sect. II Sidi Moumen Casablanca",
       "address_ar": "Hay Walâa n 5 imm. 9 Tranche 17 sect. II",
       "phone": "+212522712306",
       "city": "Casablanca",
@@ -1661,14 +1401,14 @@
       "is_open": true,
       "latitude": 33.57308932958589,
       "longitude": -7.519408967846406,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_1",
       "name": "Pharmacie Universelle",
-      "name_ar": "Pharmacie Universelle",
+      "name_ar": "UNIVERSELLE",
       "address": "1, Avenue Allal Ben Abdellah, Rabat, Maroc",
-      "address_ar": "1, Avenue Allal Ben Abdellah, Rabat, Maroc",
+      "address_ar": "1, Avenue Allal Ben Abdellah",
       "phone": "+212808508679",
       "city": "Rabat",
       "city_ar": "",
@@ -1681,7 +1421,7 @@
       "is_open": true,
       "latitude": 34.02166707613474,
       "longitude": -6.83650562524795,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_2",
@@ -1701,7 +1441,7 @@
       "is_open": true,
       "latitude": 33.9887461,
       "longitude": -6.8239482,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_3",
@@ -1721,7 +1461,7 @@
       "is_open": true,
       "latitude": 33.99957906346276,
       "longitude": -6.844480371362121,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_4",
@@ -1741,7 +1481,7 @@
       "is_open": true,
       "latitude": 33.97948503541041,
       "longitude": -6.895584635581972,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_5",
@@ -1761,7 +1501,7 @@
       "is_open": true,
       "latitude": 33.9532897968134,
       "longitude": -6.882225227859144,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_6",
@@ -1781,7 +1521,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_7",
@@ -1801,7 +1541,7 @@
       "is_open": true,
       "latitude": 33.9829909,
       "longitude": -6.8240507,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_8",
@@ -1821,7 +1561,7 @@
       "is_open": true,
       "latitude": 34.0187747,
       "longitude": -6.8230227,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_9",
@@ -1841,7 +1581,7 @@
       "is_open": true,
       "latitude": 33.99629849062119,
       "longitude": -6.848078587964814,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_10",
@@ -1861,7 +1601,7 @@
       "is_open": true,
       "latitude": 33.94448215146642,
       "longitude": -6.869379338623049,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_11",
@@ -1881,7 +1621,7 @@
       "is_open": true,
       "latitude": 33.9906242,
       "longitude": -6.8717249,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_12",
@@ -1901,7 +1641,7 @@
       "is_open": true,
       "latitude": 33.990251,
       "longitude": -6.874488,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_13",
@@ -1921,7 +1661,7 @@
       "is_open": true,
       "latitude": 34.00145044722828,
       "longitude": -6.861315895624962,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_14",
@@ -1941,113 +1681,13 @@
       "is_open": true,
       "latitude": 34.02442254882593,
       "longitude": -6.849920981880784,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "rabat_15",
-      "name": "Al Fadila",
-      "name_ar": "Al Fadila",
-      "address": "Boulvard Anour N 9 Cym",
-      "address_ar": "Boulvard Anour N 9 Cym",
-      "phone": "+212537690742",
-      "city": "Rabat",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": null,
-      "longitude": null,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "rabat_16",
-      "name": "El Guich",
-      "name_ar": "El Guich",
-      "address": "N 38 Centre Commercial El Guich Oudayas",
-      "address_ar": "N 38 Centre Commercial El Guich Oudayas",
-      "phone": "+212537561821",
-      "city": "Rabat",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:15 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:15 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.93877833152973,
-      "longitude": -6.886617050986314,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "rabat_17",
-      "name": "El Oumnia",
-      "name_ar": "El Oumnia",
-      "address": "Recto Verso, 81,av Mohmed VI (entre Groupe Scolaire Ghosn Et Azzaitoun Et Restaurant, Rabat",
-      "address_ar": "Recto Verso, 81,av Mohmed VI (entre Groupe Scolaire Ghosn Et Azzaitoun Et Restaurant, Rabat",
-      "phone": "+212537657325",
-      "city": "Rabat",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.994958,
-      "longitude": -6.827196,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "rabat_18",
-      "name": "Pharmacie la Corniche",
-      "name_ar": "Pharmacie la Corniche",
-      "address": "4 Rue Addis Abeba, Rabat",
-      "address_ar": "4 Rue Addis Abeba, Rabat",
-      "phone": "+212537729744",
-      "city": "Rabat",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 34.02601041120167,
-      "longitude": -6.848616491381902,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "rabat_19",
-      "name": "Pharmacie Tarik",
-      "name_ar": "Pharmacie Tarik",
-      "address": "Avenue Al Massira Amal 4 N 16",
-      "address_ar": "Avenue Al Massira Amal 4 N 16",
-      "phone": "+212537798347",
-      "city": "Rabat",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.97811163414768,
-      "longitude": -6.885299338195591,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "rabat_20",
-      "name": "Pharmacie Alfadila",
+      "name": "AL FADILA",
       "name_ar": "Pharmacie Alfadila",
-      "address": "avenue Ennour, bloc K, n°9 c.y.m Rabat",
+      "address": "9 Avenue Annour Kamra (En face lycée Abdelkrim Khatabi)",
       "address_ar": "avenue Ennour, bloc K, n°9 c.y.m Rabat",
       "phone": "+212537690742",
       "city": "Rabat",
@@ -2056,15 +1696,15 @@
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 33.9933496,
       "longitude": -6.8665858,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "rabat_21",
+      "id": "rabat_16",
       "name": "CORNICHE",
       "name_ar": "CORNICHE",
       "address": "Rue Napoli, Magasin n° 3,Imm Maghnia Océan",
@@ -2081,10 +1721,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "rabat_22",
+      "id": "rabat_17",
       "name": "EL OUMNIA",
       "name_ar": "EL OUMNIA",
       "address": "81,Av Med VI (Entre Groupe Scolaire Ghosn Et Azzaitoun et Restaurant Recto Verso)",
@@ -2101,10 +1741,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "rabat_23",
+      "id": "rabat_18",
       "name": "TARIK ELMEHDI",
       "name_ar": "TARIK ELMEHDI",
       "address": "Av El Massira N°16 Amal 4 ext C.Y.M",
@@ -2121,27 +1761,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "rabat_24",
-      "name": "Pharmacie ElManzeh",
-      "name_ar": "El Manzeh",
-      "address": "964, avenue Al Massira (C.y.m), hay ELManzeh Rabat",
-      "address_ar": "Avenue Al Massira, Rabat",
-      "phone": "+212537281122",
-      "city": "Rabat",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.9753250922963,
-      "longitude": -6.889282395560503,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_1",
@@ -2161,7 +1781,7 @@
       "is_open": true,
       "latitude": 31.6343627445713,
       "longitude": -7.920553617650589,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_2",
@@ -2181,13 +1801,33 @@
       "is_open": true,
       "latitude": 31.63498504814447,
       "longitude": -8.00956078712123,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_3",
+      "name": "Al Amana",
+      "name_ar": "Pharmacie AL AMANA",
+      "address": "rte Ait Ourir, douar ouled El Garne Num78",
+      "address_ar": "rte Ait Ourir, douar ouled El Garne Num78",
+      "phone": "+212653214949",
+      "city": "Marrakech",
+      "city_ar": "",
+      "duty_type": "night",
+      "duty_category": "night",
+      "duty_label_fr": "Garde de Nuit",
+      "duty_label_ar": "حراسة ليلية",
+      "duty_hours_fr": "23:17 - 08:00 (Garde de Nuit)",
+      "duty_hours_ar": "23:17 - 08:00 (حراسة ليلية)",
+      "is_open": true,
+      "latitude": 31.6343627445713,
+      "longitude": -7.920553617650589,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "marrakech_4",
       "name": "Pharmacie Nour Targa",
       "name_ar": "Pharmacie Nour Targa",
-      "address": "17, imm Zynaya Targa Zdoughia, à côté du Hammam Zynaya",
+      "address": "17, Imm. Zynaya Targa Zdoughia",
       "address_ar": "17, imm Zynaya Targa Zdoughia, à côté du Hammam Zynaya",
       "phone": "+212525351435",
       "city": "Marrakech",
@@ -2196,18 +1836,18 @@
       "duty_category": "night",
       "duty_label_fr": "Garde de Nuit",
       "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "22:00 - 08:00 (Garde de Nuit)",
-      "duty_hours_ar": "22:00 - 08:00 (حراسة ليلية)",
+      "duty_hours_fr": "23:17 - 08:00 (Garde de Nuit)",
+      "duty_hours_ar": "23:17 - 08:00 (حراسة ليلية)",
       "is_open": true,
       "latitude": 31.6476597,
       "longitude": -7.918744,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_4",
+      "id": "marrakech_5",
       "name": "Pharmacie Al Houda",
       "name_ar": "Pharmacie Al Houda",
-      "address": "la rue entre Hay Bahja et Hay Targa derrière le poste (Idaâ) près piscine du Haouz en face Lot. Safsaf Marrakech",
+      "address": "368, lotiss. Sidi M’barek, Targa, hay Hassani",
       "address_ar": "la rue entre Hay Bahja et Hay Targa derrière le poste (Idaâ) près piscine du Haouz en face Lot. Safsaf Marrakech",
       "phone": "+212524343366",
       "city": "Marrakech",
@@ -2221,13 +1861,13 @@
       "is_open": true,
       "latitude": 31.6352848,
       "longitude": -8.0495232,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_5",
+      "id": "marrakech_6",
       "name": "Pharmacie Al Imam Malek",
       "name_ar": "Pharmacie Al Imam Malek",
-      "address": "Sur Av. Allal Fassi, à côté du Centre d’immatriculation des voitures «services des Mines» et la BMCE MARRAKECH",
+      "address": "17, bd Allal El Fassi, opération elhouda",
       "address_ar": "Sur Av. Allal Fassi, à côté du Centre d’immatriculation des voitures «services des Mines» et la BMCE MARRAKECH",
       "phone": "+212524311595",
       "city": "Marrakech",
@@ -2241,13 +1881,13 @@
       "is_open": true,
       "latitude": 31.659731,
       "longitude": -8.0058699,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_6",
+      "id": "marrakech_7",
       "name": "Pharmacie Ali",
       "name_ar": "Pharmacie Ali",
-      "address": "Av. Houman Fatouaki Souikat My Ali face Mosquée Nour à côté du Db. Ameziane Sidi Youssef Ben Ali N° 687Bis MARRAKECH",
+      "address": "Av. Houman Fatouaki Souikat My Ali face Mosquée Nour N 687Bis",
       "address_ar": "Av. Houman Fatouaki Souikat My Ali face Mosquée Nour à côté du Db. Ameziane Sidi Youssef Ben Ali N° 687Bis MARRAKECH",
       "phone": "+212524406262",
       "city": "Marrakech",
@@ -2261,13 +1901,13 @@
       "is_open": true,
       "latitude": 31.6134986,
       "longitude": -7.9619551,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_7",
+      "id": "marrakech_8",
       "name": "Pharmacie Anoual",
       "name_ar": "Pharmacie Anoual",
-      "address": "182, Av. Abdelkrim Khattabi après la gare des trains et théâtre royal, 1ère phcie à votre droite vers casablanca Marrakech",
+      "address": "182, Av. Abdelkrim Khattabi après la gare des trains et théâtre royal,",
       "address_ar": "182, Av. Abdelkrim Khattabi après la gare des trains et théâtre royal, 1ère phcie à votre droite vers casablanca Marrakech",
       "phone": "+212524448351",
       "city": "Marrakech",
@@ -2281,13 +1921,13 @@
       "is_open": true,
       "latitude": 31.632815,
       "longitude": -8.0164662,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_8",
+      "id": "marrakech_9",
       "name": "Pharmacie Attaiba",
       "name_ar": "Pharmacie Attaiba",
-      "address": "23 Bis, Av. My Abdellah (ex. Bd. de Safi) rue Al Baraka, près de l’école Al Bachir Lot. Salima MARRAKECH",
+      "address": "23 Bis, Av. My Abdellah rue Al Baraka, près de l’école Al Bachir Lot. Salima",
       "address_ar": "23 Bis, Av. My Abdellah (ex. Bd. de Safi) rue Al Baraka, près de l’école Al Bachir Lot. Salima MARRAKECH",
       "phone": "+212524310877",
       "city": "Marrakech",
@@ -2301,13 +1941,13 @@
       "is_open": true,
       "latitude": 31.6501529,
       "longitude": -8.0121049,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_9",
+      "id": "marrakech_10",
       "name": "Pharmacie El Abiad",
       "name_ar": "Pharmacie El Abiad",
-      "address": "286, Lot. Hassan II, près de la Résidence Bayt Al Kheir et de l'ecole Josseur Al Maarifa, en face de la Mosquée Al Khalil MARRAKECH",
+      "address": "286, lotiss. Socoma I, Askajour 2, lotiss. Fondation Hassan II",
       "address_ar": "286, Lot. Hassan II, près de la Résidence Bayt Al Kheir et de l'ecole Josseur Al Maarifa, en face de la Mosquée Al Khalil MARRAKECH",
       "phone": "+212524395545",
       "city": "Marrakech",
@@ -2321,13 +1961,13 @@
       "is_open": true,
       "latitude": 31.6155891,
       "longitude": -8.0691982,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_10",
+      "id": "marrakech_11",
       "name": "Pharmacie HÔpital Mohamed Vi",
       "name_ar": "Pharmacie HÔpital Mohamed Vi",
-      "address": "169, Lot. Boumassmar CHU Mohammed VI Cité de L’Hôpital Errazi Amerchich -Sakar- Marrakech",
+      "address": "169, Lot. Boumassmar CHU Mohammed VI Cité de L’Hôpital Errazi Amerchich -Sakar-",
       "address_ar": "169, Lot. Boumassmar CHU Mohammed VI Cité de L’Hôpital Errazi Amerchich -Sakar- Marrakech",
       "phone": "+212524290002",
       "city": "Marrakech",
@@ -2341,13 +1981,13 @@
       "is_open": true,
       "latitude": 31.665784,
       "longitude": -7.9949496,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_11",
+      "id": "marrakech_12",
       "name": "Pharmacie Les Orangers",
       "name_ar": "Pharmacie Les Orangers",
-      "address": "60, Lot. Lalla Haya Targa près de l'école Les Orangers Marrakech",
+      "address": "60, Lot. Lalla Haya Targa près de l’école Les Orangers",
       "address_ar": "60, Lot. Lalla Haya Targa près de l'école Les Orangers Marrakech",
       "phone": "+212524343888",
       "city": "Marrakech",
@@ -2361,13 +2001,13 @@
       "is_open": true,
       "latitude": 31.6515679,
       "longitude": -8.0476203,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_12",
+      "id": "marrakech_13",
       "name": "Pharmacie Maâtallah",
       "name_ar": "Pharmacie Maâtallah",
-      "address": "495, Lot. Maâtallah, Grande Avenue (Av. Al Ourouba), à côté d'IAM M’hamid MARRAKECH",
+      "address": "495, lotiss. Maatallah, M’hamid",
       "address_ar": "495, Lot. Maâtallah, Grande Avenue (Av. Al Ourouba), à côté d'IAM M’hamid MARRAKECH",
       "phone": "+212524360668",
       "city": "Marrakech",
@@ -2381,13 +2021,13 @@
       "is_open": true,
       "latitude": 31.5956653,
       "longitude": -8.0495146,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_13",
+      "id": "marrakech_14",
       "name": "Pharmacie Populaire",
       "name_ar": "Pharmacie Populaire",
-      "address": "336, Place Riad Laarousse Marrakech",
+      "address": "336, Place Riad Laarousse",
       "address_ar": "336, Place Riad Laarousse Marrakech",
       "phone": "+212524382293",
       "city": "Marrakech",
@@ -2401,13 +2041,13 @@
       "is_open": true,
       "latitude": 31.6339375,
       "longitude": -7.9909389,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_14",
+      "id": "marrakech_15",
       "name": "Pharmacie Qaryia Syahyia",
       "name_ar": "Pharmacie Qaryia Syahyia",
-      "address": "Qaria Syahia, rte Bab khmis, en face porte Kechich entre Fekhara et Zouhour Ain Itti Marrakech",
+      "address": "Qaria Syahia, rte Bab khmis, en face porte Kechich entre Fekhara et Zouhour Ain Itti",
       "address_ar": "Qaria Syahia, rte Bab khmis, en face porte Kechich entre Fekhara et Zouhour Ain Itti Marrakech",
       "phone": "+212524306547",
       "city": "Marrakech",
@@ -2421,13 +2061,13 @@
       "is_open": true,
       "latitude": 31.6397316,
       "longitude": -7.9796837,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_15",
+      "id": "marrakech_16",
       "name": "Pharmacie Salima",
       "name_ar": "Pharmacie Salima",
-      "address": "Imm.125 Magasin n°2 Lot. Al Izdihar Extension à côté de Hammam Al Izdihar 2 et derrière Ecole Nour Al Khalil MARRAKECH",
+      "address": "lotiss. Al Izdihar I, imm. 125 n 2",
       "address_ar": "Imm.125 Magasin n°2 Lot. Al Izdihar Extension à côté de Hammam Al Izdihar 2 et derrière Ecole Nour Al Khalil MARRAKECH",
       "phone": "+212524336092",
       "city": "Marrakech",
@@ -2441,13 +2081,13 @@
       "is_open": true,
       "latitude": 31.6781637,
       "longitude": -8.0276073,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_16",
+      "id": "marrakech_17",
       "name": "Pharmacie Sana",
       "name_ar": "Pharmacie Sana",
-      "address": "Route de Safi à 500m de Mc Do, en face du cimetière Arrahma et à côté du Café Al Finjane Marrakech",
+      "address": "Route de Safi à 500m de Mc Do, en face du cimetière Arrahma et à côté du Café Al Finjane",
       "address_ar": "Route de Safi à 500m de Mc Do, en face du cimetière Arrahma et à côté du Café Al Finjane Marrakech",
       "phone": "+212524457257",
       "city": "Marrakech",
@@ -2461,10 +2101,10 @@
       "is_open": true,
       "latitude": 31.6582917,
       "longitude": -8.0264387,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "marrakech_17",
+      "id": "marrakech_18",
       "name": "ZOHOUR TARGA",
       "name_ar": "ZOHOUR TARGA",
       "address": "Mosquée Salma Qt. Zohour Targa, Rond point en face du projet Nour Sakan en direction de Targa tournez à droite",
@@ -2481,33 +2121,13 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "marrakech_18",
-      "name": "Al Amana",
-      "name_ar": "Pharmacie AL AMANA",
-      "address": "rte Ait Ourir, douar ouled El Garne Num78",
-      "address_ar": "rte Ait Ourir, douar ouled El Garne Num78",
-      "phone": "+212653214949",
-      "city": "Marrakech",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 31.6343627445713,
-      "longitude": -7.920553617650589,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_19",
       "name": "Pharmacie Al Kasbah",
       "name_ar": "Pharmacie Al Kasbah",
-      "address": "Ksibt Nhass, 33-34 Trik Sahrij Gnawa Kasbah",
+      "address": "Ksibt Nhass, 33-34 Trik Sahrij Gnawa Kasbah Marrakech",
       "address_ar": "Ksibt Nhass, 33-34 Trik Sahrij Gnawa Kasbah",
       "phone": "+212524376778",
       "city": "Marrakech",
@@ -2516,38 +2136,38 @@
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 22:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 31.61542555308512,
       "longitude": -7.9868469663425,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_20",
       "name": "Pharmacie Al Khawarizmi",
       "name_ar": "Pharmacie Al Khawarizmi",
-      "address": "609, Azli Al Janoubi à côté du Lycée Al Khawarizmi",
+      "address": "609, Azli Al Janoubi à côté du Lycée Al Khawarizmi Marrakech",
       "address_ar": "609, Azli Al Janoubi à côté du Lycée Al Khawarizmi",
-      "phone": "+2125250849750525084976",
+      "phone": "+212525084975",
       "city": "Marrakech",
       "city_ar": "",
       "duty_type": "weekend_day",
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 22:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 31.61577783480358,
       "longitude": -8.051039999363127,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_21",
       "name": "Pharmacie Kabbadj",
       "name_ar": "Pharmacie Kabbadj",
-      "address": "Num1197 Lotissement Zerktouni M’hamid",
+      "address": "1197, Lot. Zerktouni Bouakkaz M’hamid en face de Masjid El Houda (La Grande Mosquée) Marrakech",
       "address_ar": "Num1197 Lotissement Zerktouni M’hamid",
       "phone": "+212524372626",
       "city": "Marrakech",
@@ -2556,18 +2176,18 @@
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 22:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 31.5924455367116,
       "longitude": -8.02183596766544,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_22",
       "name": "Pharmacie Kamilia",
       "name_ar": "Pharmacie Kamilia",
-      "address": "7, Quartier Assif C, en face de la mosquée Assif C Lot. Bouamria",
+      "address": "7, Quartier Assif C, en face de la mosquée Assif C Lot. Bouamria MARRAKECH",
       "address_ar": "7, Quartier Assif C, en face de la mosquée Assif C Lot. Bouamria",
       "phone": "+212524306322",
       "city": "Marrakech",
@@ -2576,12 +2196,12 @@
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 22:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 31.6533335,
       "longitude": -8.0051762,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_23",
@@ -2601,7 +2221,7 @@
       "is_open": true,
       "latitude": 31.5690692,
       "longitude": -8.0574025,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_24",
@@ -2621,13 +2241,13 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_25",
       "name": "Pharmacie Ain Itti",
       "name_ar": "Pharmacie Ain Itti",
-      "address": "8, Qt. Ain Itti Jnanat V, prés de la poste et du Centre de Santé Ain Itti",
+      "address": "8, Qt. Ain Itti Jnanat V, prés de la poste et du Centre de Santé Ain Itti MARRAKECH",
       "address_ar": "8, Qt. Ain Itti Jnanat V, prés de la poste et du Centre de Santé Ain Itti",
       "phone": "+212524329798",
       "city": "Marrakech",
@@ -2641,13 +2261,13 @@
       "is_open": true,
       "latitude": 31.648445,
       "longitude": -7.9829729,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_26",
       "name": "Pharmacie Akioud",
       "name_ar": "Pharmacie Akioud",
-      "address": "100 Bis, bd Akioud",
+      "address": "Av. Abdelkrim Khattabi, devant Siège Principal Banque Populaire Hay Koudia MARRAKECH",
       "address_ar": "100 Bis, bd Akioud",
       "phone": "+212524420355",
       "city": "Marrakech",
@@ -2661,13 +2281,13 @@
       "is_open": true,
       "latitude": 31.6529684,
       "longitude": -8.0258868,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_27",
       "name": "Pharmacie Al Fajr",
       "name_ar": "Pharmacie Al Fajr",
-      "address": "Quartier Al Azzouzia, résid. Bab Mansour Num1099",
+      "address": "17, Bab Illan 1 en face de la Mosquée Al Amira au milieu du Jardin Public Marrakech",
       "address_ar": "Quartier Al Azzouzia, résid. Bab Mansour Num1099",
       "phone": "+212680185282",
       "city": "Marrakech",
@@ -2681,13 +2301,13 @@
       "is_open": true,
       "latitude": 31.6895047,
       "longitude": -8.0691053,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_28",
       "name": "Pharmacie Al Mounir",
       "name_ar": "Pharmacie Al Mounir",
-      "address": "633 A, M’hamid I, en face Hammam douche Douar Chaouf, en face de l’école Al Adarissa",
+      "address": "633 A, M'hamid I, en face Hammam douche Douar Chaouf, en face de l’école Al Adarissa Marrakech",
       "address_ar": "633 A, M’hamid I, en face Hammam douche Douar Chaouf, en face de l’école Al Adarissa",
       "phone": "+212524370852",
       "city": "Marrakech",
@@ -2701,13 +2321,13 @@
       "is_open": true,
       "latitude": 31.5969276,
       "longitude": -8.0313343,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_29",
       "name": "Pharmacie Arraha Chkili",
       "name_ar": "Pharmacie Arraha Chkili",
-      "address": "Résidence Erraha 12-2, Av. Guemassa près de l’école CHKILI",
+      "address": "Résidence Erraha 12-2, Av. Guemassa près de l'école CHKILI Marrakech",
       "address_ar": "Résidence Erraha 12-2, Av. Guemassa près de l’école CHKILI",
       "phone": "+212524363349",
       "city": "Marrakech",
@@ -2721,13 +2341,13 @@
       "is_open": true,
       "latitude": 31.5839352,
       "longitude": -8.0483305,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_30",
       "name": "Pharmacie du complexe",
       "name_ar": "Pharmacie du complexe",
-      "address": "49, rue Fatima El Fihrya, z.i. Sidi Youssef Ben Ali",
+      "address": "S.Y.B.A, Qt. Industriel derrière complexe sportif, en face de la 6ème Centrale Sûreté Nationale MARRAKECH",
       "address_ar": "49, rue Fatima El Fihrya, z.i. Sidi Youssef Ben Ali",
       "phone": "+212524406467",
       "city": "Marrakech",
@@ -2741,13 +2361,13 @@
       "is_open": true,
       "latitude": 31.6073567,
       "longitude": -7.9695779,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_31",
       "name": "Pharmacie Du Conseil",
       "name_ar": "Pharmacie Du Conseil",
-      "address": "119, lotiss. Iziki V",
+      "address": "119, Hay Iziki 5, en face de Souk Douar Iziki et en face de l'ancien cimetière Marrakech",
       "address_ar": "119, lotiss. Iziki V",
       "phone": "+212524495757",
       "city": "Marrakech",
@@ -2761,13 +2381,13 @@
       "is_open": true,
       "latitude": 31.6234492,
       "longitude": -8.0630658,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_32",
       "name": "Pharmacie du Kawkab",
       "name_ar": "Pharmacie du Kawkab",
-      "address": "36, bd Moulay Hassan, Kawkab Center,",
+      "address": "36, Centre Commercial du K.A.C.M. Av. My Hassan I (El Harti) MARRAKECH",
       "address_ar": "36, bd Moulay Hassan, Kawkab Center,",
       "phone": "+212524448077",
       "city": "Marrakech",
@@ -2781,13 +2401,13 @@
       "is_open": true,
       "latitude": 31.6274733,
       "longitude": -8.0073039,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_33",
       "name": "Pharmacie Hay Machou",
       "name_ar": "Pharmacie Hay Machou",
-      "address": "236, Douar Machou, q. Inara",
+      "address": "236, Douar Machou Inara derrière Dour Machou et près des Fermes Marrakech",
       "address_ar": "236, Douar Machou, q. Inara",
       "phone": "+212648113389",
       "city": "Marrakech",
@@ -2801,13 +2421,13 @@
       "is_open": true,
       "latitude": 31.6409572,
       "longitude": -8.0560634,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_34",
       "name": "Pharmacie Ibn Toumert",
       "name_ar": "Pharmacie Ibn Toumert",
-      "address": "13, lotiss. Ibn Toumert , hay El Hassani, rte d’Essaouira",
+      "address": "Rte principale d'Agadir/Essaouira, résidence Ibn Toumert à 200m de l'ANAPEC et Club de Pétanque près Marrakech",
       "address_ar": "13, lotiss. Ibn Toumert , hay El Hassani, rte d’Essaouira",
       "phone": "+212524494091",
       "city": "Marrakech",
@@ -2821,13 +2441,13 @@
       "is_open": true,
       "latitude": 31.6278634,
       "longitude": -8.0460695,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_35",
       "name": "Pharmacie Lkssour",
       "name_ar": "Pharmacie Lkssour",
-      "address": "10, Lot. El Hamra Amerchich, derrière Café Malizia (Hay Lakssour) fin Av. Allal El Fassi",
+      "address": "10, Lot. El Hamra Amerchich, derrière Café Malizia (Hay Lakssour) fin Av. Allal El Fassi MARRAKECH",
       "address_ar": "10, Lot. El Hamra Amerchich, derrière Café Malizia (Hay Lakssour) fin Av. Allal El Fassi",
       "phone": "+212524331612",
       "city": "Marrakech",
@@ -2841,13 +2461,13 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_36",
       "name": "Pharmacie Loughribi",
       "name_ar": "Pharmacie Loughribi",
-      "address": "244, Dar Tounsi en face de Metro Arrondissement Ennakhil",
+      "address": "244, Dar Tounsi en face de Metro Arrondissement Ennakhil Marrakech",
       "address_ar": "244, Dar Tounsi en face de Metro Arrondissement Ennakhil",
       "phone": "+212524328055",
       "city": "Marrakech",
@@ -2861,13 +2481,13 @@
       "is_open": true,
       "latitude": 31.6481765,
       "longitude": -7.9443991,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_37",
       "name": "Pharmacie Moutadamine",
       "name_ar": "Pharmacie Moutadamine",
-      "address": "1, Unité III Daoudiate au centre de Diour Al Massakine, près du poste de Police",
+      "address": "1, Unité III Daoudiate au centre de Diour Al Massakine, près du poste de Police MARRAKECH",
       "address_ar": "1, Unité III Daoudiate au centre de Diour Al Massakine, près du poste de Police",
       "phone": "+212524307372",
       "city": "Marrakech",
@@ -2881,13 +2501,13 @@
       "is_open": true,
       "latitude": 31.6549852,
       "longitude": -7.9920122,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_38",
       "name": "Pharmacie Nazik",
       "name_ar": "Pharmacie Nazik",
-      "address": "142, le 2ème feu rouge après le pont à droite, Rte principale Marché de Gros après Sanitaire Chorouk tournez à gauche",
+      "address": "142, le 2ème feu rouge après le pont à droite, Rte principale Marché de Gros après Sanitaire Chorouk tournez à gauche Marrakech",
       "address_ar": "142, le 2ème feu rouge après le pont à droite, Rte principale Marché de Gros après Sanitaire Chorouk tournez à gauche",
       "phone": "+212524355235",
       "city": "Marrakech",
@@ -2901,13 +2521,13 @@
       "is_open": true,
       "latitude": 31.6766673,
       "longitude": -8.0416491,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_39",
       "name": "Pharmacie Ouirgane",
       "name_ar": "Pharmacie Ouirgane",
-      "address": "526, Lot. El Housna I, à côté de la Mosquée Al Mohcinine (Al Housna)",
+      "address": "526, Lot. El Housna I, à côté de la Mosquée Al Mohcinine (Al Housna) Marrakech",
       "address_ar": "526, Lot. El Housna I, à côté de la Mosquée Al Mohcinine (Al Housna)",
       "phone": "+212524361860",
       "city": "Marrakech",
@@ -2921,15 +2541,15 @@
       "is_open": true,
       "latitude": 31.593291,
       "longitude": -8.05046,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_40",
       "name": "Pharmacie Petersbourg",
       "name_ar": "Pharmacie Petersbourg",
-      "address": "717, Massira 2 B près du Terminus Num8 en face «Groupe Addoha» Massira 2 et en face de l’Ecole privée Afwaje",
+      "address": "717, Massira 2 B près du Terminus n°8 en face «Groupe Addoha» Massira 2 et en face de l'Ecole privée Afwaje Marrakech",
       "address_ar": "717, Massira 2 B près du Terminus Num8 en face «Groupe Addoha» Massira 2 et en face de l’Ecole privée Afwaje",
-      "phone": "+212524490629",
+      "phone": "+212622457074",
       "city": "Marrakech",
       "city_ar": "",
       "duty_type": "weekend_day",
@@ -2941,13 +2561,13 @@
       "is_open": true,
       "latitude": 31.6335291,
       "longitude": -8.0706221,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_41",
       "name": "Pharmacie Prestigio",
       "name_ar": "Pharmacie Prestigio",
-      "address": "15 Boulevard Mohammed VI, Centre Commercial Village Marrakech",
+      "address": "Av. Mohamed VI Village Marrakech Prestigia (à côté de Bureau de Vente Prestigia et 6éme Café)",
       "address_ar": "15 Boulevard Mohammed VI, Centre Commercial Village Marrakech",
       "phone": "+212526303060",
       "city": "Marrakech",
@@ -2961,13 +2581,13 @@
       "is_open": true,
       "latitude": 31.60596925891965,
       "longitude": -8.000722377632144,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_42",
       "name": "Pharmacie Riad LaÂrouss",
       "name_ar": "Pharmacie Riad LaÂrouss",
-      "address": "214, Rue Lagza Riad Laârouss en face du Dispensaire",
+      "address": "214, Rue Lagza Riad Laârouss en face du Dispensaire Marrakech",
       "address_ar": "214, Rue Lagza Riad Laârouss en face du Dispensaire",
       "phone": "+212524382476",
       "city": "Marrakech",
@@ -2981,13 +2601,13 @@
       "is_open": true,
       "latitude": 31.6350098,
       "longitude": -7.9943451,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_43",
       "name": "Pharmacie Rouidate",
       "name_ar": "Pharmacie Rouidate",
-      "address": "Num21, Lotissement Iguider, Avenue Achjar",
+      "address": "Av. Allal Fassi entrée face hôtel Redouane, entre Fac de Langue Arabe et école Mimosa (21, Lot. Iguider Rouidate) MARRAKECH",
       "address_ar": "Num21, Lotissement Iguider, Avenue Achjar",
       "phone": "+212524312870",
       "city": "Marrakech",
@@ -3001,13 +2621,13 @@
       "is_open": true,
       "latitude": 31.6467653,
       "longitude": -8.0047635,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_44",
       "name": "Pharmacie Seville",
       "name_ar": "Pharmacie Seville",
-      "address": "rte de Safi, Jnane Awrad Tranche 2 Illot 18 imm.2",
+      "address": "Route de Safi Jnane Awrad Tranche 2 Lot 18, Imm.2 à côté de Saga et Mosquée Lalla Fatima Zahra Marrakech",
       "address_ar": "rte de Safi, Jnane Awrad Tranche 2 Illot 18 imm.2",
       "phone": "+212524458905",
       "city": "Marrakech",
@@ -3021,13 +2641,13 @@
       "is_open": true,
       "latitude": 31.66166549431752,
       "longitude": -8.023478678419645,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "marrakech_45",
       "name": "Pharmacie Tilila",
       "name_ar": "Pharmacie Tilila",
-      "address": "Route Sid Daou près du Super Marché les Roses de Targa",
+      "address": "Route Sid Daou près du Super Marché les Roses de Targa Marrakech",
       "address_ar": "Route Sid Daou près du Super Marché les Roses de Targa",
       "phone": "+212524345161",
       "city": "Marrakech",
@@ -3041,7 +2661,7 @@
       "is_open": true,
       "latitude": 31.6617375,
       "longitude": -8.0570476,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_1",
@@ -3061,7 +2681,7 @@
       "is_open": true,
       "latitude": 34.0630813,
       "longitude": -4.9768757,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_2",
@@ -3081,7 +2701,7 @@
       "is_open": true,
       "latitude": 33.98970756681246,
       "longitude": -5.017260251888893,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_3",
@@ -3101,7 +2721,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_4",
@@ -3121,7 +2741,7 @@
       "is_open": true,
       "latitude": 34.0093216,
       "longitude": -5.0261993,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_5",
@@ -3141,7 +2761,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_6",
@@ -3161,7 +2781,7 @@
       "is_open": true,
       "latitude": 34.00140302666549,
       "longitude": -4.976908676572751,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_7",
@@ -3181,7 +2801,7 @@
       "is_open": true,
       "latitude": 34.0221682,
       "longitude": -5.012311,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_8",
@@ -3201,7 +2821,7 @@
       "is_open": true,
       "latitude": 34.06676658196436,
       "longitude": -4.955616173439578,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_9",
@@ -3221,7 +2841,7 @@
       "is_open": true,
       "latitude": 33.997717,
       "longitude": -5.048087,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_10",
@@ -3241,7 +2861,7 @@
       "is_open": true,
       "latitude": 34.065186,
       "longitude": -5.0163265,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_11",
@@ -3261,7 +2881,7 @@
       "is_open": true,
       "latitude": 33.957803,
       "longitude": -5.021556,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_12",
@@ -3281,7 +2901,7 @@
       "is_open": true,
       "latitude": 33.9923039,
       "longitude": -4.9879024,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_13",
@@ -3301,7 +2921,7 @@
       "is_open": true,
       "latitude": 34.0072583,
       "longitude": -4.9657458,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "fes_14",
@@ -3321,7 +2941,7 @@
       "is_open": true,
       "latitude": 34.0046261,
       "longitude": -5.0016419,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_1",
@@ -3341,14 +2961,14 @@
       "is_open": true,
       "latitude": 35.71003928354797,
       "longitude": -5.818390980293266,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_2",
       "name": "Pharmacie AlOuroud Malika",
-      "name_ar": "Pharmacie AlOuroud Malika",
+      "name_ar": "AL OUROUD MALIKA",
       "address": "hay Aouama , lotiss.AlOuroud Malika Tanger",
-      "address_ar": "hay Aouama , lotiss.AlOuroud Malika Tanger",
+      "address_ar": "العوامة 500م من المقاطعة الثانية حومة السوسي قرب ضحى العوامة",
       "phone": "+212606035669",
       "city": "Tanger",
       "city_ar": "",
@@ -3359,9 +2979,9 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": 35.7594651,
-      "longitude": -5.8339543,
-      "verified_at": "2026-11-10 16:31"
+      "latitude": 35.72635239863705,
+      "longitude": -5.809279487595213,
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_3",
@@ -3381,7 +3001,7 @@
       "is_open": true,
       "latitude": 35.74488264,
       "longitude": -5.80359424,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_4",
@@ -3401,7 +3021,7 @@
       "is_open": true,
       "latitude": 35.742234,
       "longitude": -5.8384859,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_5",
@@ -3421,7 +3041,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_6",
@@ -3441,7 +3061,7 @@
       "is_open": true,
       "latitude": 35.75843384143971,
       "longitude": -5.828055882141505,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_7",
@@ -3461,7 +3081,7 @@
       "is_open": true,
       "latitude": 35.7810797,
       "longitude": -5.8123815,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_8",
@@ -3481,7 +3101,7 @@
       "is_open": true,
       "latitude": 35.7611536,
       "longitude": -5.8579274,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_9",
@@ -3501,7 +3121,7 @@
       "is_open": true,
       "latitude": 35.7562316,
       "longitude": -5.8440275,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_10",
@@ -3521,7 +3141,7 @@
       "is_open": true,
       "latitude": 35.7788256,
       "longitude": -5.8259416,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_11",
@@ -3541,7 +3161,7 @@
       "is_open": true,
       "latitude": 35.75672227709762,
       "longitude": -5.754975399999999,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_12",
@@ -3561,7 +3181,7 @@
       "is_open": true,
       "latitude": 35.7722886051919,
       "longitude": -5.805092588318472,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_13",
@@ -3581,7 +3201,7 @@
       "is_open": true,
       "latitude": 35.725675,
       "longitude": -5.859116,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_14",
@@ -3601,7 +3221,7 @@
       "is_open": true,
       "latitude": 35.758711,
       "longitude": -5.818606,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_15",
@@ -3621,7 +3241,7 @@
       "is_open": true,
       "latitude": 35.74959748990275,
       "longitude": -5.867952015326559,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_16",
@@ -3641,7 +3261,7 @@
       "is_open": true,
       "latitude": 35.70829204133521,
       "longitude": -5.815653115441314,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_17",
@@ -3661,7 +3281,7 @@
       "is_open": true,
       "latitude": 35.73149106,
       "longitude": -5.76617151,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_18",
@@ -3681,7 +3301,7 @@
       "is_open": true,
       "latitude": 35.72635239863705,
       "longitude": -5.809279487595213,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_19",
@@ -3701,7 +3321,7 @@
       "is_open": true,
       "latitude": 35.78541569,
       "longitude": -5.80890055,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_20",
@@ -3721,7 +3341,7 @@
       "is_open": true,
       "latitude": 35.74690783,
       "longitude": -5.79558343,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_21",
@@ -3741,7 +3361,7 @@
       "is_open": true,
       "latitude": 35.72314088,
       "longitude": -5.86110063,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_22",
@@ -3761,7 +3381,7 @@
       "is_open": true,
       "latitude": 35.72490139,
       "longitude": -5.81322782,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_23",
@@ -3781,7 +3401,7 @@
       "is_open": true,
       "latitude": 35.7634197,
       "longitude": -5.7885057,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_24",
@@ -3801,7 +3421,7 @@
       "is_open": true,
       "latitude": 35.74351561,
       "longitude": -5.84185317,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_25",
@@ -3821,7 +3441,7 @@
       "is_open": true,
       "latitude": 35.7647515,
       "longitude": -5.83452532,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tanger_26",
@@ -3841,7 +3461,7 @@
       "is_open": true,
       "latitude": 35.743167,
       "longitude": -5.783333,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "agadir_1",
@@ -3861,7 +3481,7 @@
       "is_open": true,
       "latitude": 30.40719973124668,
       "longitude": -9.566428064353943,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "agadir_2",
@@ -3881,7 +3501,7 @@
       "is_open": true,
       "latitude": 30.389356,
       "longitude": -9.504175,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "agadir_3",
@@ -3901,33 +3521,13 @@
       "is_open": true,
       "latitude": 30.42345,
       "longitude": -9.587717,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "agadir_4",
-      "name": "Pharmacie Anza",
-      "name_ar": "Pharmacie Anza",
-      "address": "4 z.i Anza bloc C, Agadir",
-      "address_ar": "4 z.i Anza bloc C, Agadir",
-      "phone": "+212528204866",
-      "city": "Agadir",
-      "city_ar": "",
-      "duty_type": "24h",
-      "duty_category": "permanent_24h",
-      "duty_label_fr": "Garde 24h (Tour de garde)",
-      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
-      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
-      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
-      "is_open": true,
-      "latitude": 30.446817,
-      "longitude": -9.658117,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "agadir_5",
       "name": "Pharmacie Arrahma",
       "name_ar": "Pharmacie Arrahma",
-      "address": "74 cité Taddart - Autre ville imm. Saada, Agadir",
+      "address": "74 cité taddart - autre ville imm. saada Agadir",
       "address_ar": "74 cité Taddart - Autre ville imm. Saada, Agadir",
       "phone": "+212528205206",
       "city": "Agadir",
@@ -3941,13 +3541,13 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_6",
+      "id": "agadir_5",
       "name": "Pharmacie Ben Rahal El batoire",
       "name_ar": "Pharmacie Ben Rahal El batoire",
-      "address": "rue Fès bloc 6 les Abattoires, Agadir",
+      "address": "rue Fès bloc 6 les Abattoires Agadir",
       "address_ar": "rue Fès bloc 6 les Abattoires, Agadir",
       "phone": "+212528230890",
       "city": "Agadir",
@@ -3961,10 +3561,10 @@
       "is_open": true,
       "latitude": 30.40885,
       "longitude": -9.58765,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_7",
+      "id": "agadir_6",
       "name": "Pharmacie Centrale Anza",
       "name_ar": "Pharmacie Centrale Anza",
       "address": "Rte Essaouira Residence Toudert N 4 Anza (En face Souk Anza Agadir, Anza 80000",
@@ -3981,10 +3581,10 @@
       "is_open": true,
       "latitude": 30.4484447,
       "longitude": -9.6538446,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_8",
+      "id": "agadir_7",
       "name": "ATIQUI",
       "name_ar": "ATIQUI",
       "address": "23 rue Adrar Erac en face de l'ancien Bureau Cheikh (Jardin actuellement",
@@ -4001,10 +3601,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_9",
+      "id": "agadir_8",
       "name": "Avenue Laayoune",
       "name_ar": "Avenue Laayoune",
       "address": "résidence stilia 2, avenue laayoune en face du hammam cleopatra",
@@ -4021,10 +3621,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_10",
+      "id": "agadir_9",
       "name": "DE LA MOSQUEE",
       "name_ar": "DE LA MOSQUEE",
       "address": "Rue d'Essaouira bloc 108 N° 8 près de la 2ème Arrondissement en face du marché des Abattoires Cité Hassani",
@@ -4041,10 +3641,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_11",
+      "id": "agadir_10",
       "name": "DU MAROC",
       "name_ar": "DU MAROC",
       "address": "N° 8 , im.Narjis 2 cité El Houda , Prés du poste police El Houda ? Agadir",
@@ -4061,10 +3661,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_12",
+      "id": "agadir_11",
       "name": "El Batoire",
       "name_ar": "El Batoire",
       "address": "Rue de Fès El Batoire coté de la place des Taxis et de la Boucherie El Afrahe El Batoire",
@@ -4081,14 +3681,14 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_13",
+      "id": "agadir_12",
       "name": "EL HJOUJI",
-      "name_ar": "EL HJOUJI",
+      "name_ar": "PHARMACIE ELHJOUJI",
       "address": "Boutchakat Agadir Angle Av.mly Abdellah et Rue Sidi Bouknadel",
-      "address_ar": "Boutchakat Agadir Angle Av.mly Abdellah et Rue Sidi Bouknadel",
+      "address_ar": "rue idrissi, nouveau talborjt, en face de l'annexe talborjt · Talborjt Appeler 05 28 82 •• •• Itinéraire Carte Partager Voir la fiche",
       "phone": "+212528821315",
       "city": "Agadir",
       "city_ar": "",
@@ -4099,12 +3699,12 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": null,
-      "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "latitude": 30.4234821,
+      "longitude": -9.5877733,
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_14",
+      "id": "agadir_13",
       "name": "IHCHECH",
       "name_ar": "IHCHECH",
       "address": "En face de local najah souss et école chahine privée et près du consulat de france",
@@ -4121,10 +3721,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_15",
+      "id": "agadir_14",
       "name": "MOHAMED RAYANE",
       "name_ar": "MOHAMED RAYANE",
       "address": "hay Mohammadi n°5525, lot Abaraz, Agadir",
@@ -4141,10 +3741,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_16",
+      "id": "agadir_15",
       "name": "Pharmacie Al Andalous",
       "name_ar": "Pharmacie Al Andalous",
       "address": "2, Bd Al Moukaouama, Imm. Asma",
@@ -4161,10 +3761,10 @@
       "is_open": true,
       "latitude": 30.41830872083676,
       "longitude": -9.575705329359437,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_17",
+      "id": "agadir_16",
       "name": "Pharmacie Dahabia",
       "name_ar": "Pharmacie Dahabia",
       "address": "535, Secteur K El Houda",
@@ -4181,10 +3781,10 @@
       "is_open": true,
       "latitude": 30.39551703734391,
       "longitude": -9.541781609187007,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_18",
+      "id": "agadir_17",
       "name": "Pharmacie El Bakri",
       "name_ar": "Pharmacie El Bakri",
       "address": "N 1173 Quartier Founty",
@@ -4201,10 +3801,10 @@
       "is_open": true,
       "latitude": 30.398188,
       "longitude": -9.5722872,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_19",
+      "id": "agadir_18",
       "name": "Pharmacie Faicel",
       "name_ar": "FAICEL",
       "address": "N 1042 Extension Dakhla",
@@ -4221,10 +3821,10 @@
       "is_open": true,
       "latitude": 30.40555504606949,
       "longitude": -9.553167155448437,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_20",
+      "id": "agadir_19",
       "name": "Pharmacie Illigh",
       "name_ar": "Pharmacie Illigh",
       "address": "465 Illigh en face de l'hopital Hassan II",
@@ -4241,13 +3841,13 @@
       "is_open": true,
       "latitude": 30.440017,
       "longitude": -9.5899,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_21",
+      "id": "agadir_20",
       "name": "Pharmacie les Jardins d'Agadir",
       "name_ar": "Pharmacie les Jardins d'Agadir",
-      "address": "2 hay Al Massira - Autre ville resid Kettani GH 3, Agadir",
+      "address": "2 hay al massira - autre ville resid kettani gh 3 Agadir",
       "address_ar": "2 hay Al Massira - Autre ville resid Kettani GH 3, Agadir",
       "phone": "+212528222224",
       "city": "Agadir",
@@ -4261,10 +3861,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_22",
+      "id": "agadir_21",
       "name": "Pharmacie Salam",
       "name_ar": "Pharmacie Salam",
       "address": "Bd Hai Massoud Wefqaoui, Pres de place des Taxi, Hay Salam",
@@ -4281,10 +3881,10 @@
       "is_open": true,
       "latitude": 30.4021738525938,
       "longitude": -9.549244975061283,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_23",
+      "id": "agadir_22",
       "name": "Santacruz",
       "name_ar": "Santacruz",
       "address": "lot al farah bloc 19 av al karam n° 10",
@@ -4301,10 +3901,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_24",
+      "id": "agadir_23",
       "name": "SOLEIL",
       "name_ar": "SOLEIL",
       "address": "Av, Kennedy (en face de la Mosques du Talborjt)",
@@ -4321,10 +3921,10 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "agadir_25",
+      "id": "agadir_24",
       "name": "YUSRA",
       "name_ar": "YUSRA",
       "address": "8, Boulevard Ghandi, A gauche Carrefour Label vie Cite Dakhla Agadir",
@@ -4341,7 +3941,27 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "agadir_25",
+      "name": "Pharmacie Anza",
+      "name_ar": "Pharmacie Anza",
+      "address": "4 z.i Anza bloc C, Agadir",
+      "address_ar": "4 z.i Anza bloc C, Agadir",
+      "phone": "+212528204866",
+      "city": "Agadir",
+      "city_ar": "",
+      "duty_type": "24h",
+      "duty_category": "permanent_24h",
+      "duty_label_fr": "Garde 24h (Tour de garde)",
+      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
+      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
+      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
+      "is_open": true,
+      "latitude": 30.446817,
+      "longitude": -9.658117,
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "agadir_26",
@@ -4361,7 +3981,7 @@
       "is_open": true,
       "latitude": 30.4234821,
       "longitude": -9.5877733,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_1",
@@ -4381,7 +4001,7 @@
       "is_open": true,
       "latitude": 33.8640121,
       "longitude": -5.579641299828879,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_2",
@@ -4401,7 +4021,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_3",
@@ -4419,9 +4039,9 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": null,
-      "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "latitude": 33.8683639,
+      "longitude": -5.5436823,
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_4",
@@ -4441,7 +4061,7 @@
       "is_open": true,
       "latitude": 33.90424813,
       "longitude": -5.555770848053429,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_5",
@@ -4461,7 +4081,7 @@
       "is_open": true,
       "latitude": 33.85693950078753,
       "longitude": -5.540755767274046,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_6",
@@ -4481,7 +4101,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_7",
@@ -4499,9 +4119,9 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": null,
-      "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "latitude": 33.8861423,
+      "longitude": -5.56917,
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_8",
@@ -4521,7 +4141,7 @@
       "is_open": true,
       "latitude": 33.91163047,
       "longitude": -5.480640857851875,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_9",
@@ -4541,7 +4161,7 @@
       "is_open": true,
       "latitude": 33.9076164548947,
       "longitude": -5.475252157671803,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_10",
@@ -4561,7 +4181,7 @@
       "is_open": true,
       "latitude": 33.89686422065215,
       "longitude": -5.576160469301725,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_11",
@@ -4581,7 +4201,7 @@
       "is_open": true,
       "latitude": 33.89158718,
       "longitude": -5.506305259429893,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_12",
@@ -4601,7 +4221,7 @@
       "is_open": true,
       "latitude": 33.90761509,
       "longitude": -5.556742474514198,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_13",
@@ -4621,7 +4241,7 @@
       "is_open": true,
       "latitude": 33.90549973335278,
       "longitude": -5.541925619323737,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_14",
@@ -4641,7 +4261,7 @@
       "is_open": true,
       "latitude": 33.85758028,
       "longitude": -5.535700790426998,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_15",
@@ -4661,7 +4281,7 @@
       "is_open": true,
       "latitude": 33.86486164243458,
       "longitude": -5.567113724413805,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_16",
@@ -4681,7 +4301,7 @@
       "is_open": true,
       "latitude": 33.87032419193845,
       "longitude": -5.608036707122809,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_17",
@@ -4701,7 +4321,7 @@
       "is_open": true,
       "latitude": 33.91867214,
       "longitude": -5.483767454434352,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "meknes_18",
@@ -4721,7 +4341,7 @@
       "is_open": true,
       "latitude": 33.91469757658864,
       "longitude": -5.478604028900153,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_1",
@@ -4741,7 +4361,7 @@
       "is_open": true,
       "latitude": 34.66893007270575,
       "longitude": -1.882654152213097,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_2",
@@ -4761,7 +4381,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_3",
@@ -4781,7 +4401,7 @@
       "is_open": true,
       "latitude": 34.7005927,
       "longitude": -1.9120002,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_4",
@@ -4801,7 +4421,7 @@
       "is_open": true,
       "latitude": 34.67465,
       "longitude": -1.909483,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_5",
@@ -4821,7 +4441,7 @@
       "is_open": true,
       "latitude": 34.66161003279906,
       "longitude": -1.924855088583655,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_6",
@@ -4841,7 +4461,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_7",
@@ -4861,7 +4481,7 @@
       "is_open": true,
       "latitude": 34.678028,
       "longitude": -1.953306,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_8",
@@ -4881,7 +4501,7 @@
       "is_open": true,
       "latitude": 34.6703664,
       "longitude": -1.9379861,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_9",
@@ -4901,7 +4521,7 @@
       "is_open": true,
       "latitude": 34.67714,
       "longitude": -1.868,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_10",
@@ -4921,7 +4541,7 @@
       "is_open": true,
       "latitude": 34.6653602,
       "longitude": -1.8766015,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_11",
@@ -4941,7 +4561,7 @@
       "is_open": true,
       "latitude": 34.7037808615145,
       "longitude": -1.934278202544881,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_12",
@@ -4961,7 +4581,7 @@
       "is_open": true,
       "latitude": 34.67444554762887,
       "longitude": -1.920502485052356,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "oujda_13",
@@ -4981,7 +4601,7 @@
       "is_open": true,
       "latitude": 34.67714,
       "longitude": -1.868,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "kenitra_1",
@@ -5001,7 +4621,7 @@
       "is_open": true,
       "latitude": 34.2637329,
       "longitude": -6.559687,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "kenitra_2",
@@ -5021,7 +4641,7 @@
       "is_open": true,
       "latitude": 34.26196879177525,
       "longitude": -6.602205437415824,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "kenitra_3",
@@ -5041,7 +4661,7 @@
       "is_open": true,
       "latitude": 34.272658,
       "longitude": -6.557961,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "kenitra_4",
@@ -5061,7 +4681,7 @@
       "is_open": true,
       "latitude": 34.253074,
       "longitude": -6.614797,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "kenitra_5",
@@ -5081,7 +4701,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tetouan_1",
@@ -5101,7 +4721,7 @@
       "is_open": true,
       "latitude": 35.56270027639582,
       "longitude": -5.362223851795915,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tetouan_2",
@@ -5121,7 +4741,7 @@
       "is_open": true,
       "latitude": 35.5868055,
       "longitude": -5.3469191,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tetouan_3",
@@ -5141,7 +4761,7 @@
       "is_open": true,
       "latitude": 35.5703362,
       "longitude": -5.3747727,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "tetouan_4",
@@ -5161,7 +4781,7 @@
       "is_open": true,
       "latitude": 35.604729,
       "longitude": -5.3355212,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_1",
@@ -5181,7 +4801,7 @@
       "is_open": true,
       "latitude": 34.08161047530331,
       "longitude": -6.782297566263315,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_2",
@@ -5201,7 +4821,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_3",
@@ -5221,7 +4841,7 @@
       "is_open": true,
       "latitude": 34.034954,
       "longitude": -6.821702,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_4",
@@ -5241,7 +4861,7 @@
       "is_open": true,
       "latitude": 34.0658879,
       "longitude": -6.7624073,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_5",
@@ -5261,7 +4881,7 @@
       "is_open": true,
       "latitude": 34.029536716252,
       "longitude": -6.804054131811383,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_6",
@@ -5281,7 +4901,7 @@
       "is_open": true,
       "latitude": 34.02162813992929,
       "longitude": -6.752303995033793,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_7",
@@ -5301,7 +4921,7 @@
       "is_open": true,
       "latitude": 34.0227472,
       "longitude": -6.7714473,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_8",
@@ -5321,7 +4941,7 @@
       "is_open": true,
       "latitude": 34.062873,
       "longitude": -6.807902,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_9",
@@ -5341,7 +4961,7 @@
       "is_open": true,
       "latitude": 34.0402465,
       "longitude": -6.8103839,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_10",
@@ -5359,9 +4979,9 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": null,
-      "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "latitude": 34.0336969,
+      "longitude": -6.7708138,
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_11",
@@ -5381,7 +5001,7 @@
       "is_open": true,
       "latitude": 34.063301,
       "longitude": -6.794881,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_12",
@@ -5399,9 +5019,9 @@
       "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
       "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
       "is_open": true,
-      "latitude": 34.0275766,
-      "longitude": -6.7648426,
-      "verified_at": "2026-11-10 16:31"
+      "latitude": 34.031466,
+      "longitude": -6.799557,
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_13",
@@ -5421,7 +5041,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_14",
@@ -5441,7 +5061,7 @@
       "is_open": true,
       "latitude": 34.07532,
       "longitude": -6.78021,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_15",
@@ -5461,7 +5081,7 @@
       "is_open": true,
       "latitude": 34.0216597,
       "longitude": -6.7645499,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_16",
@@ -5481,7 +5101,7 @@
       "is_open": true,
       "latitude": 34.08750137224218,
       "longitude": -6.776817902660365,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_17",
@@ -5501,7 +5121,7 @@
       "is_open": true,
       "latitude": 34.0476191377716,
       "longitude": -6.774233018302587,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_18",
@@ -5521,7 +5141,7 @@
       "is_open": true,
       "latitude": 34.0386867,
       "longitude": -6.8128118,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_19",
@@ -5541,7 +5161,7 @@
       "is_open": true,
       "latitude": 33.9956519,
       "longitude": -6.7383109,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_20",
@@ -5561,7 +5181,7 @@
       "is_open": true,
       "latitude": 34.07733802152001,
       "longitude": -6.79078442202831,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_21",
@@ -5581,7 +5201,7 @@
       "is_open": true,
       "latitude": 34.031466,
       "longitude": -6.799557,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_22",
@@ -5601,7 +5221,7 @@
       "is_open": true,
       "latitude": 34.048433,
       "longitude": -6.805617,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_23",
@@ -5621,7 +5241,7 @@
       "is_open": true,
       "latitude": 34.08750137224218,
       "longitude": -6.776817902660365,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_24",
@@ -5641,7 +5261,7 @@
       "is_open": true,
       "latitude": 34.0639737,
       "longitude": -6.7678716,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_25",
@@ -5661,7 +5281,7 @@
       "is_open": true,
       "latitude": 34.0466495,
       "longitude": -6.7809408,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_26",
@@ -5681,7 +5301,7 @@
       "is_open": true,
       "latitude": 34.046528,
       "longitude": -6.800798,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sale_27",
@@ -5701,67 +5321,7 @@
       "is_open": true,
       "latitude": 34.04078005375104,
       "longitude": -6.784435859102269,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "sale_28",
-      "name": "Zniber Ex Chapeau",
-      "name_ar": "Zniber Ex Chapeau",
-      "address": "19, Rue Atlas Seghir , Bloc C Pépinière Tabriquet",
-      "address_ar": "19, Rue Atlas Seghir , Bloc C Pépinière Tabriquet",
-      "phone": "+212537866269",
-      "city": "Salé",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 34.04089999729657,
-      "longitude": -6.812827899789806,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "sale_29",
-      "name": "Pharmacie Assabil",
-      "name_ar": "Pharmacie Assabil",
-      "address": "542 lotiss. Villas Sala Al Jadida Salé - Maroc",
-      "address_ar": "542 lotiss. Villas Sala Al Jadida Salé - Maroc",
-      "phone": "+212537535356",
-      "city": "Salé",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 34.0007897,
-      "longitude": -6.7294469,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "sale_30",
-      "name": "Pharmacie Kamil",
-      "name_ar": "Pharmacie Kamil",
-      "address": "n° 145, lot maamoura, hssain sala al jadida - Sale",
-      "address_ar": "n° 145, lot maamoura, hssain sala al jadida - Sale",
-      "phone": "+212537828056",
-      "city": "Salé",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:00 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:00 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 34.0179621,
-      "longitude": -6.7409738,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "temara_1",
@@ -5781,7 +5341,7 @@
       "is_open": true,
       "latitude": 33.925713,
       "longitude": -6.927194,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "temara_2",
@@ -5801,7 +5361,7 @@
       "is_open": true,
       "latitude": 33.90778557029806,
       "longitude": -6.908657589173326,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "temara_3",
@@ -5821,7 +5381,7 @@
       "is_open": true,
       "latitude": 33.91180057701816,
       "longitude": -6.919634262565612,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "temara_4",
@@ -5841,7 +5401,7 @@
       "is_open": true,
       "latitude": 33.93371050286012,
       "longitude": -6.902247486035217,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "temara_5",
@@ -5861,7 +5421,7 @@
       "is_open": true,
       "latitude": 33.92654991573075,
       "longitude": -6.893758762857278,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "temara_6",
@@ -5881,7 +5441,7 @@
       "is_open": true,
       "latitude": 33.895935,
       "longitude": -6.935582,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "temara_7",
@@ -5901,110 +5461,10 @@
       "is_open": true,
       "latitude": 33.9054179,
       "longitude": -6.9229995,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "temara_8",
-      "name": "Granada",
-      "name_ar": "Granada",
-      "address": "N 109 Secteur 3 Oulad Mtaa",
-      "address_ar": "N 109 Secteur 3 Oulad Mtaa",
-      "phone": "+212537601353",
-      "city": "Témara",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.93859377668291,
-      "longitude": -6.895246130752565,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "temara_9",
-      "name": "Pharmacie Ennassim",
-      "name_ar": "Pharmacie Ennassim",
-      "address": "266, Ha 50 Hay Al Maghreb Al Arabi Secteur 6",
-      "address_ar": "266, Ha 50 Hay Al Maghreb Al Arabi Secteur 6",
-      "phone": "+212537609790",
-      "city": "Témara",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 23:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 23:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.926166,
-      "longitude": -6.886647,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "mohammedia_1",
-      "name": "Essalam",
-      "name_ar": "ESSALAM",
-      "address": "lot 122 bloc C Hassania II. El Alia",
-      "address_ar": "lot 122 bloc c hassania 2 El Alia",
-      "phone": "+212523284338",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6756772,
-      "longitude": -7.4054488,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "mohammedia_2",
-      "name": "Pharmacie Bismillah",
-      "name_ar": "BISMILLAH",
-      "address": "hay Errachidia III, Ecran samir num 39 Alia",
-      "address_ar": "ecran samir rachidia 3",
-      "phone": "+212523280717",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.679416,
-      "longitude": -7.3790849,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "mohammedia_3",
-      "name": "Pharmacie Mohammedia",
-      "name_ar": "MOHAMMEDIA",
-      "address": "1 bd Chourafa Saada El Alia",
-      "address_ar": "1 Bd chorfas en face café Amzmiz quartier assaada El Alia",
-      "phone": "+212523284598",
-      "city": "Mohammédia",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
-      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 33.6737744,
-      "longitude": -7.4145868,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "mohammedia_4",
       "name": "AL AHL",
       "name_ar": "AL AHL",
       "address": "394 Bd de la liberte lotissement al houria El Alia",
@@ -6021,10 +5481,10 @@
       "is_open": true,
       "latitude": 33.6914707,
       "longitude": -7.4002575,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "mohammedia_5",
+      "id": "mohammedia_2",
       "name": "AL QODS",
       "name_ar": "AL QODS",
       "address": "n° 400 hay al qods la colline el Alia",
@@ -6041,10 +5501,30 @@
       "is_open": true,
       "latitude": 33.6982527,
       "longitude": -7.3713501,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "mohammedia_6",
+      "id": "mohammedia_3",
+      "name": "ESSALAM",
+      "name_ar": "ESSALAM",
+      "address": "lot 122 bloc c hassania 2 El Alia",
+      "address_ar": "lot 122 bloc c hassania 2 El Alia",
+      "phone": "+212523284338",
+      "city": "Mohammédia",
+      "city_ar": "",
+      "duty_type": "night",
+      "duty_category": "night",
+      "duty_label_fr": "Garde de Nuit",
+      "duty_label_ar": "حراسة ليلية",
+      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
+      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
+      "is_open": true,
+      "latitude": 33.6756772,
+      "longitude": -7.4054488,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "mohammedia_4",
       "name": "Pharmacie 3 Mars",
       "name_ar": "3 MARS",
       "address": "résidence 3 mars",
@@ -6061,10 +5541,30 @@
       "is_open": true,
       "latitude": 33.7047574,
       "longitude": -7.4012773,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "mohammedia_7",
+      "id": "mohammedia_5",
+      "name": "Pharmacie Bismillah",
+      "name_ar": "BISMILLAH",
+      "address": "ecran samir rachidia 3",
+      "address_ar": "ecran samir rachidia 3",
+      "phone": "+212523280717",
+      "city": "Mohammédia",
+      "city_ar": "",
+      "duty_type": "night",
+      "duty_category": "night",
+      "duty_label_fr": "Garde de Nuit",
+      "duty_label_ar": "حراسة ليلية",
+      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
+      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
+      "is_open": true,
+      "latitude": 33.679416,
+      "longitude": -7.3790849,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "mohammedia_6",
       "name": "Pharmacie Centrale",
       "name_ar": "CENTRALE",
       "address": "n°5 Bd. sebta résidence laila El Alia",
@@ -6081,10 +5581,10 @@
       "is_open": true,
       "latitude": 33.6931922,
       "longitude": -7.3918999,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "mohammedia_8",
+      "id": "mohammedia_7",
       "name": "Pharmacie Fadl Allah",
       "name_ar": "FADL ALLAH",
       "address": "1 Lotissement Fadl Allah 1 Lotissement Fadl Allah",
@@ -6101,10 +5601,10 @@
       "is_open": true,
       "latitude": 33.689934,
       "longitude": -7.3728753,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "mohammedia_9",
+      "id": "mohammedia_8",
       "name": "Pharmacie Miramar",
       "name_ar": "MIRAMAR",
       "address": "42 Avenue des FAR",
@@ -6121,7 +5621,27 @@
       "is_open": true,
       "latitude": 33.7041942,
       "longitude": -7.395435,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "mohammedia_9",
+      "name": "Pharmacie Mohammedia",
+      "name_ar": "MOHAMMEDIA",
+      "address": "1 Bd chorfas en face café Amzmiz quartier assaada El Alia",
+      "address_ar": "1 Bd chorfas en face café Amzmiz quartier assaada El Alia",
+      "phone": "+212523284598",
+      "city": "Mohammédia",
+      "city_ar": "",
+      "duty_type": "night",
+      "duty_category": "night",
+      "duty_label_fr": "Garde de Nuit",
+      "duty_label_ar": "حراسة ليلية",
+      "duty_hours_fr": "21:00 - 09:00 (Garde de Nuit)",
+      "duty_hours_ar": "21:00 - 09:00 (حراسة ليلية)",
+      "is_open": true,
+      "latitude": 33.6737744,
+      "longitude": -7.4145868,
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "mohammedia_10",
@@ -6141,7 +5661,7 @@
       "is_open": true,
       "latitude": 33.7025349,
       "longitude": -7.3612957,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "mohammedia_11",
@@ -6161,7 +5681,7 @@
       "is_open": true,
       "latitude": 33.702248,
       "longitude": -7.396399,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "mohammedia_12",
@@ -6181,7 +5701,7 @@
       "is_open": true,
       "latitude": 33.6982527,
       "longitude": -7.3713501,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "mohammedia_13",
@@ -6201,7 +5721,7 @@
       "is_open": true,
       "latitude": 33.6914721,
       "longitude": -7.3818251,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "mohammedia_14",
@@ -6221,7 +5741,7 @@
       "is_open": true,
       "latitude": 33.711175,
       "longitude": -7.345254,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "mohammedia_15",
@@ -6241,7 +5761,7 @@
       "is_open": true,
       "latitude": 33.70243,
       "longitude": -7.358691,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "mohammedia_16",
@@ -6261,13 +5781,33 @@
       "is_open": true,
       "latitude": 33.6999566,
       "longitude": -7.360007,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "el-jadida_1",
+      "name": "Des Nations Unies",
+      "name_ar": "Des Nations Unies",
+      "address": "12, boulevard Allal Fassi, quartier Al Matar",
+      "address_ar": "12, boulevard Allal Fassi, quartier Al Matar",
+      "phone": "+212808541448",
+      "city": "El Jadida",
+      "city_ar": "",
+      "duty_type": "night",
+      "duty_category": "night",
+      "duty_label_fr": "Garde de Nuit",
+      "duty_label_ar": "حراسة ليلية",
+      "duty_hours_fr": "23:17 - 09:00 (Garde de Nuit)",
+      "duty_hours_ar": "23:17 - 09:00 (حراسة ليلية)",
+      "is_open": true,
+      "latitude": 33.22718282564087,
+      "longitude": -8.53167641655628,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "el-jadida_2",
       "name": "Pharmacie derb ElHajjar",
       "name_ar": "Pharmacie derb ElHajjar",
-      "address": "140, derb El Hajjar El jadida",
+      "address": "140. DERB EL HAJJAR EN FACE DE L'ECOLE LALLA AMINA",
       "address_ar": "140, derb El Hajjar El jadida",
       "phone": "+212523340135",
       "city": "El Jadida",
@@ -6276,15 +5816,15 @@
       "duty_category": "night",
       "duty_label_fr": "Garde de Nuit",
       "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "23:00 - 08:00 (Garde de Nuit)",
-      "duty_hours_ar": "23:00 - 08:00 (حراسة ليلية)",
+      "duty_hours_fr": "23:17 - 09:00 (Garde de Nuit)",
+      "duty_hours_ar": "23:17 - 09:00 (حراسة ليلية)",
       "is_open": true,
       "latitude": 33.2562177,
       "longitude": -8.5049484,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "el-jadida_2",
+      "id": "el-jadida_3",
       "name": "Pharmacie Omam Motahida",
       "name_ar": "Pharmacie Omam Motahida",
       "address": "12 bd Allal Fassi hay Al Matar El jadida",
@@ -6301,33 +5841,13 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "el-jadida_3",
-      "name": "El Kawtar",
-      "name_ar": "Pharmacie Elkawtar",
-      "address": "2 avenue ben touila hay amal devant mosquée Ibn Khattab",
-      "address_ar": "2 bd Abderrahmane Ben Touila, El Jadida",
-      "phone": "+212523372990",
-      "city": "El Jadida",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.239017,
-      "longitude": -8.526433,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "el-jadida_4",
       "name": "Pharmacie Afailal",
       "name_ar": "Pharmacie Afailal",
-      "address": "10 RUE YASSMIN .LOT MOSTAKBAL. RTE DE SIDI BOUZID",
+      "address": "10 rue El Yassmine lotiss. Al Mostaqbal EL JADIDA",
       "address_ar": "10 RUE YASSMIN .LOT MOSTAKBAL. RTE DE SIDI BOUZID",
       "phone": "+212523391327",
       "city": "El Jadida",
@@ -6336,18 +5856,18 @@
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 33.2402,
       "longitude": -8.524833333333,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "el-jadida_5",
       "name": "Pharmacie AlMoukawama",
       "name_ar": "Pharmacie AlMoukawama",
-      "address": "62 bd Moukaouama",
+      "address": "62 bd Moukaouama El jadida",
       "address_ar": "62 bd Moukaouama",
       "phone": "+212523352255",
       "city": "El Jadida",
@@ -6356,155 +5876,15 @@
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 33.2434,
       "longitude": -8.501667,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "el-jadida_6",
-      "name": "Pharmacie Ilyase Salam",
-      "name_ar": "Pharmacie Ilyase Salam",
-      "address": "Quartier Salam, lot n 85.",
-      "address_ar": "Quartier Salam, lot n 85.",
-      "phone": "+212523395293",
-      "city": "El Jadida",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.22106734662948,
-      "longitude": -8.499569372085647,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "el-jadida_7",
-      "name": "Pharmacie Khalil Jabrane",
-      "name_ar": "Pharmacie Khalil Jabrane",
-      "address": "Residence Al wafaa imm A hay al matar",
-      "address_ar": "Residence Al wafaa imm A hay al matar",
-      "phone": "+212523371757",
-      "city": "El Jadida",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.228595,
-      "longitude": -8.51984,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "el-jadida_8",
-      "name": "Pharmacie La Famille",
-      "name_ar": "Pharmacie La Famille",
-      "address": "Num 53 .SIDI MOUSSA DERRIER ECOLE IHSSANE SIDI MOUSSA Rue Taourirt",
-      "address_ar": "Num 53 .SIDI MOUSSA DERRIER ECOLE IHSSANE SIDI MOUSSA Rue Taourirt",
-      "phone": "+212523352093",
-      "city": "El Jadida",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.235683,
-      "longitude": -8.490633,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "el-jadida_9",
-      "name": "Pharmacie Nouvelle Florida",
-      "name_ar": "Pharmacie Nouvelle Florida",
-      "address": "lot Florida route de l'hopital provincial",
-      "address_ar": "lot Florida route de l'hopital provincial",
-      "phone": "+212523350204",
-      "city": "El Jadida",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.23196829025838,
-      "longitude": -8.474749402099615,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "el-jadida_10",
-      "name": "Pharmacie Portugaise",
-      "name_ar": "Pharmacie Portugaise",
-      "address": "84 rue Hachmi Bahbah cité portugaise",
-      "address_ar": "84 rue Hachmi Bahbah cité portugaise",
-      "phone": "+212523342102",
-      "city": "El Jadida",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.2565809,
-      "longitude": -8.5018985,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "el-jadida_11",
-      "name": "Polyclinique",
-      "name_ar": "Polyclinique",
-      "address": "quartier bir anzarane 247 bloc 28",
-      "address_ar": "quartier bir anzarane 247 bloc 28",
-      "phone": "+212523394031",
-      "city": "El Jadida",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.24690125203604,
-      "longitude": -8.520207145207888,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "el-jadida_12",
-      "name": "semlali",
-      "name_ar": "semlali",
-      "address": "138 AV. BOUCHAIB DOUKKALI ACOTE DE L'HOPITAL MOHAMED V",
-      "address_ar": "138 AV. BOUCHAIB DOUKKALI ACOTE DE L'HOPITAL MOHAMED V",
-      "phone": "+212523343002",
-      "city": "El Jadida",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:14 - 21:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:14 - 21:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 33.25038171398135,
-      "longitude": -8.51051242318344,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "el-jadida_13",
       "name": "Pharmacie du Plateau",
       "name_ar": "Pharmacie du Plateau",
       "address": "138 Bis bd Abi Chouaib Doukkali El Jadida - Maroc",
@@ -6521,10 +5901,10 @@
       "is_open": true,
       "latitude": 33.2316326,
       "longitude": -8.5007116,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "el-jadida_14",
+      "id": "el-jadida_7",
       "name": "Pharmacie Elkawtar",
       "name_ar": "Pharmacie Elkawtar",
       "address": "2, bd Abderrahman Ben Touila El jadida",
@@ -6541,10 +5921,70 @@
       "is_open": true,
       "latitude": 33.239017,
       "longitude": -8.526433,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "el-jadida_15",
+      "id": "el-jadida_8",
+      "name": "Pharmacie Ilyase Salam",
+      "name_ar": "Pharmacie Ilyase Salam",
+      "address": "Hay Salam I n°85 près du café ILYAS",
+      "address_ar": "Quartier Salam, lot n 85.",
+      "phone": "+212523395293",
+      "city": "El Jadida",
+      "city_ar": "",
+      "duty_type": "weekend_day",
+      "duty_category": "weekend",
+      "duty_label_fr": "Garde Jour / Weekend",
+      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
+      "is_open": true,
+      "latitude": 33.22106734662948,
+      "longitude": -8.499569372085647,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "el-jadida_9",
+      "name": "Pharmacie Khalil Jabrane",
+      "name_ar": "Pharmacie Khalil Jabrane",
+      "address": "108 lotiss. El Wafa imm. A q. Al Matar El jadida",
+      "address_ar": "Residence Al wafaa imm A hay al matar",
+      "phone": "+212523371757",
+      "city": "El Jadida",
+      "city_ar": "",
+      "duty_type": "weekend_day",
+      "duty_category": "weekend",
+      "duty_label_fr": "Garde Jour / Weekend",
+      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
+      "is_open": true,
+      "latitude": 33.228595,
+      "longitude": -8.51984,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "el-jadida_10",
+      "name": "Pharmacie La Famille",
+      "name_ar": "Pharmacie La Famille",
+      "address": "53 lotiss. Sidi Moussa El jadida",
+      "address_ar": "Num 53 .SIDI MOUSSA DERRIER ECOLE IHSSANE SIDI MOUSSA Rue Taourirt",
+      "phone": "+212523352093",
+      "city": "El Jadida",
+      "city_ar": "",
+      "duty_type": "weekend_day",
+      "duty_category": "weekend",
+      "duty_label_fr": "Garde Jour / Weekend",
+      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
+      "is_open": true,
+      "latitude": 33.235683,
+      "longitude": -8.490633,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "el-jadida_11",
       "name": "Pharmacie la Polyclinique",
       "name_ar": "Pharmacie la Polyclinique",
       "address": "cité Bir Anzarane, bloc 28 n° 274 El jadida",
@@ -6561,10 +6001,90 @@
       "is_open": true,
       "latitude": 33.2541002,
       "longitude": -8.508,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "el-jadida_12",
+      "name": "Pharmacie Nouvelle Florida",
+      "name_ar": "Pharmacie Nouvelle Florida",
+      "address": "lot florida el jadida",
+      "address_ar": "lot Florida route de l'hopital provincial",
+      "phone": "+212523350204",
+      "city": "El Jadida",
+      "city_ar": "",
+      "duty_type": "weekend_day",
+      "duty_category": "weekend",
+      "duty_label_fr": "Garde Jour / Weekend",
+      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
+      "is_open": true,
+      "latitude": 33.23196829025838,
+      "longitude": -8.474749402099615,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "el-jadida_13",
+      "name": "Pharmacie Portugaise",
+      "name_ar": "Pharmacie Portugaise",
+      "address": "84, rue Hachmi Bahbah, cité portugaise El jadida",
+      "address_ar": "84 rue Hachmi Bahbah cité portugaise",
+      "phone": "+212523342102",
+      "city": "El Jadida",
+      "city_ar": "",
+      "duty_type": "weekend_day",
+      "duty_category": "weekend",
+      "duty_label_fr": "Garde Jour / Weekend",
+      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
+      "is_open": true,
+      "latitude": 33.2565809,
+      "longitude": -8.5018985,
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "safi_1",
+      "name": "Ezohour",
+      "name_ar": "Pharmacie Ezohour",
+      "address": "17 Rue Tahla Kolea, Avenue Sidi Ouassel, Kawki 46000",
+      "address_ar": "17 rue Tahla Sidi Ouassel Safi",
+      "phone": "+212525227721",
+      "city": "Safi",
+      "city_ar": "",
+      "duty_type": "night",
+      "duty_category": "night",
+      "duty_label_fr": "Garde de Nuit",
+      "duty_label_ar": "حراسة ليلية",
+      "duty_hours_fr": "23:17 - 09:00 (Garde de Nuit)",
+      "duty_hours_ar": "23:17 - 09:00 (حراسة ليلية)",
+      "is_open": true,
+      "latitude": 32.2691661,
+      "longitude": -9.2318962,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "safi_2",
+      "name": "Pharmacie Mestari",
+      "name_ar": "Pharmacie Mestari",
+      "address": "Lotiss. Al Hana 2, Rte Al Wahda, Bloc 8 Kariate Chems",
+      "address_ar": "lotiss. Al Hana 2 rte Al Wahda bloc 8 kariate Chems Safi",
+      "phone": "+212524625462",
+      "city": "Safi",
+      "city_ar": "",
+      "duty_type": "night",
+      "duty_category": "night",
+      "duty_label_fr": "Garde de Nuit",
+      "duty_label_ar": "حراسة ليلية",
+      "duty_hours_fr": "23:17 - 09:00 (Garde de Nuit)",
+      "duty_hours_ar": "23:17 - 09:00 (حراسة ليلية)",
+      "is_open": true,
+      "latitude": 32.2902396,
+      "longitude": -9.2019212,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "safi_3",
       "name": "Pharmacie Ezohour",
       "name_ar": "Pharmacie Ezohour",
       "address": "17 rue Tahla Sidi Ouassel Safi",
@@ -6581,30 +6101,10 @@
       "is_open": true,
       "latitude": 32.2691661,
       "longitude": -9.2318962,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "safi_2",
-      "name": "Pharmacie Mestari",
-      "name_ar": "Pharmacie Mestari",
-      "address": "lotiss. Al Hana 2 rte Al Wahda bloc 8 kariate Chems Safi",
-      "address_ar": "lotiss. Al Hana 2 rte Al Wahda bloc 8 kariate Chems Safi",
-      "phone": "+212524625462",
-      "city": "Safi",
-      "city_ar": "",
-      "duty_type": "night",
-      "duty_category": "night",
-      "duty_label_fr": "Garde de Nuit",
-      "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "23:00 - 08:00 (Garde de Nuit)",
-      "duty_hours_ar": "23:00 - 08:00 (حراسة ليلية)",
-      "is_open": true,
-      "latitude": 32.2902396,
-      "longitude": -9.2019212,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "safi_3",
+      "id": "safi_4",
       "name": "Pharmacie Sanad",
       "name_ar": "Pharmacie Sanad",
       "address": "11 lotiss. Rima rte Had Hrara, Safi",
@@ -6621,13 +6121,13 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "safi_4",
+      "id": "safi_5",
       "name": "Pharmacie AlJamiaa",
       "name_ar": "Pharmacie AlJamiaa",
-      "address": "46 lotissement Omar Ibn khattab",
+      "address": "46 lotissement Omar Ibn khattab, Safi 46030",
       "address_ar": "46 lotissement Omar Ibn khattab",
       "phone": "+212526030507",
       "city": "Safi",
@@ -6636,18 +6136,18 @@
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:15 - 22:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:15 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 32.32702924363851,
       "longitude": -9.261096209381101,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "safi_5",
+      "id": "safi_6",
       "name": "Pharmacie Djerifat",
       "name_ar": "Pharmacie Djerifat",
-      "address": "81, Rue Sania Jerifat, Safi",
+      "address": "81 rue Sania Jerifat Safi",
       "address_ar": "81, Rue Sania Jerifat, Safi",
       "phone": "+212524624973",
       "city": "Safi",
@@ -6656,18 +6156,18 @@
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:15 - 22:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:15 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 32.28482012438793,
       "longitude": -9.223134686199064,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "safi_6",
+      "id": "safi_7",
       "name": "Pharmacie Galinos",
       "name_ar": "Pharmacie Galinos",
-      "address": "37, Quartier Aviation,",
+      "address": "37 Quartier Aviation SAFI",
       "address_ar": "37, Quartier Aviation,",
       "phone": "+212524653213",
       "city": "Safi",
@@ -6676,18 +6176,18 @@
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:15 - 22:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:15 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 32.27054695079321,
       "longitude": -9.239025867314984,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "safi_7",
+      "id": "safi_8",
       "name": "Pharmacie Route Marrakech",
       "name_ar": "Pharmacie Route Marrakech",
-      "address": "Num3 Lotissement Al Qods Route De Marrkech",
+      "address": "rte de Marrakech lotiss. Al Kods n°3 Safi",
       "address_ar": "Num3 Lotissement Al Qods Route De Marrkech",
       "phone": "+212524621038",
       "city": "Safi",
@@ -6696,12 +6196,12 @@
       "duty_category": "weekend",
       "duty_label_fr": "Garde Jour / Weekend",
       "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "13:15 - 22:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "13:15 - 22:00 (حراسة نهارية / نهاية الأسبوع)",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
       "is_open": true,
       "latitude": 32.2980725,
       "longitude": -9.2070955,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "beni-mellal_1",
@@ -6721,7 +6221,7 @@
       "is_open": true,
       "latitude": 32.33333333333,
       "longitude": -6.36715,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "beni-mellal_2",
@@ -6741,7 +6241,7 @@
       "is_open": true,
       "latitude": 32.3435804,
       "longitude": -6.3655289,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "beni-mellal_3",
@@ -6761,13 +6261,13 @@
       "is_open": true,
       "latitude": 32.3271192,
       "longitude": -6.3696932,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "beni-mellal_4",
       "name": "Pharmacie AlMasjid",
       "name_ar": "Pharmacie AlMasjid",
-      "address": "6 hay El Hassani El Amria, Beni Mellal",
+      "address": "6, hay El Hassani, El Amria Beni mellal",
       "address_ar": "6 hay El Hassani El Amria, Beni Mellal",
       "phone": "+212523488392",
       "city": "Béni Mellal",
@@ -6781,7 +6281,7 @@
       "is_open": true,
       "latitude": 32.33262,
       "longitude": -6.35225,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "nador_1",
@@ -6801,7 +6301,7 @@
       "is_open": true,
       "latitude": 35.178594,
       "longitude": -2.925437,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "nador_2",
@@ -6821,7 +6321,7 @@
       "is_open": true,
       "latitude": 35.174677,
       "longitude": -2.923315,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "nador_3",
@@ -6841,7 +6341,7 @@
       "is_open": true,
       "latitude": 35.175195,
       "longitude": -2.9226667,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "nador_4",
@@ -6861,7 +6361,7 @@
       "is_open": true,
       "latitude": 35.176689,
       "longitude": -2.9278992,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "nador_5",
@@ -6881,7 +6381,7 @@
       "is_open": true,
       "latitude": 35.15457,
       "longitude": -2.97977,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "nador_6",
@@ -6901,7 +6401,7 @@
       "is_open": true,
       "latitude": 35.159633,
       "longitude": -2.969467,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "nador_7",
@@ -6921,7 +6421,7 @@
       "is_open": true,
       "latitude": 35.146265,
       "longitude": -2.917533,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "nador_8",
@@ -6941,13 +6441,13 @@
       "is_open": true,
       "latitude": 35.162974,
       "longitude": -2.975704,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "khouribga_1",
       "name": "Pharmacie Citrwen",
       "name_ar": "Pharmacie Citrwen",
-      "address": "lotiss. Ismailia , n°42 Khouribga",
+      "address": "Lot ismailia11N 42",
       "address_ar": "lotiss. Ismailia , n°42 Khouribga",
       "phone": "+212523585292",
       "city": "Khouribga",
@@ -6956,18 +6456,18 @@
       "duty_category": "night",
       "duty_label_fr": "Garde de Nuit",
       "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "23:00 - 08:00 (Garde de Nuit)",
-      "duty_hours_ar": "23:00 - 08:00 (حراسة ليلية)",
+      "duty_hours_fr": "23:17 - 08:00 (Garde de Nuit)",
+      "duty_hours_ar": "23:17 - 08:00 (حراسة ليلية)",
       "is_open": true,
       "latitude": 32.90292960823324,
       "longitude": -6.929204957669757,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "khouribga_2",
       "name": "Pharmacie Narjis",
       "name_ar": "Pharmacie Narjis",
-      "address": "6 bd Annasr - Autre ville Khouribga",
+      "address": "N 6 boulvard annasr",
       "address_ar": "6 bd Annasr - Autre ville Khouribga",
       "phone": "+212656084151",
       "city": "Khouribga",
@@ -6976,12 +6476,12 @@
       "duty_category": "night",
       "duty_label_fr": "Garde de Nuit",
       "duty_label_ar": "حراسة ليلية",
-      "duty_hours_fr": "23:00 - 08:00 (Garde de Nuit)",
-      "duty_hours_ar": "23:00 - 08:00 (حراسة ليلية)",
+      "duty_hours_fr": "23:17 - 08:00 (Garde de Nuit)",
+      "duty_hours_ar": "23:17 - 08:00 (حراسة ليلية)",
       "is_open": true,
       "latitude": 32.87898690064134,
       "longitude": -6.936907336797777,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "khouribga_3",
@@ -7001,7 +6501,7 @@
       "is_open": true,
       "latitude": 32.86316278541319,
       "longitude": -6.903753006484976,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "khouribga_4",
@@ -7021,90 +6521,10 @@
       "is_open": true,
       "latitude": 32.874549,
       "longitude": -6.92774,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "khouribga_5",
-      "name": "Al Ahd KH D",
-      "name_ar": "Al Ahd KH D",
-      "address": "N 146, près du collège badr, lot badr, Assead bnou yazid",
-      "address_ar": "N 146, près du collège badr, lot badr, Assead bnou yazid",
-      "phone": "+212523493313",
-      "city": "Khouribga",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 20:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.8717402,
-      "longitude": -6.8953841,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "khouribga_6",
-      "name": "El Imam Malek",
-      "name_ar": "El Imam Malek",
-      "address": "N 26, bd Imam Malik",
-      "address_ar": "N 26, bd Imam Malik",
-      "phone": "+212523561134",
-      "city": "Khouribga",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 20:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.8902619420635,
-      "longitude": -6.917910063466017,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "khouribga_7",
-      "name": "Pharmacie AlAkhaouine",
-      "name_ar": "Pharmacie AlAkhaouine",
-      "address": "N 34 lot al azhar .hay riad",
-      "address_ar": "N 34 lot al azhar .hay riad",
-      "phone": "+212523491616",
-      "city": "Khouribga",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 20:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.875704,
-      "longitude": -6.924407,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "khouribga_8",
-      "name": "Pharmacie Ibn Tofail",
-      "name_ar": "Pharmacie Ibn Tofail",
-      "address": "19, rue Tinghir. lot Iqbal",
-      "address_ar": "19, rue Tinghir. lot Iqbal",
-      "phone": "+212523498242",
-      "city": "Khouribga",
-      "city_ar": "",
-      "duty_type": "weekend_day",
-      "duty_category": "weekend",
-      "duty_label_fr": "Garde Jour / Weekend",
-      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
-      "duty_hours_fr": "08:17 - 20:00 (Garde Jour / Weekend)",
-      "duty_hours_ar": "08:17 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
-      "is_open": true,
-      "latitude": 32.886057,
-      "longitude": -6.900784,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "khouribga_9",
       "name": "Pharmacie Al Ahed",
       "name_ar": "Pharmacie Al Ahed",
       "address": "164 rue Assaad Ibnou Al Yazid lotiss. Bad Khouribga",
@@ -7121,10 +6541,30 @@
       "is_open": true,
       "latitude": 32.871058,
       "longitude": -6.893128,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "khouribga_10",
+      "id": "khouribga_6",
+      "name": "Pharmacie AlAkhaouine",
+      "name_ar": "Pharmacie AlAkhaouine",
+      "address": "50 lotiss. El Farah hay Riad Khouribga",
+      "address_ar": "N 34 lot al azhar .hay riad",
+      "phone": "+212523491616",
+      "city": "Khouribga",
+      "city_ar": "",
+      "duty_type": "weekend_day",
+      "duty_category": "weekend",
+      "duty_label_fr": "Garde Jour / Weekend",
+      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
+      "is_open": true,
+      "latitude": 32.875704,
+      "longitude": -6.924407,
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "khouribga_7",
       "name": "Pharmacie AlImam Malik",
       "name_ar": "Pharmacie AlImam Malik",
       "address": "26 bd Imam Malik Khouribga",
@@ -7141,7 +6581,27 @@
       "is_open": true,
       "latitude": 32.9001484,
       "longitude": -6.9317759,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
+    },
+    {
+      "id": "khouribga_8",
+      "name": "Pharmacie Ibn Tofail",
+      "name_ar": "Pharmacie Ibn Tofail",
+      "address": "19, rue Tinghir , lot. Iqbal Khouribga",
+      "address_ar": "19, rue Tinghir. lot Iqbal",
+      "phone": "+212523498242",
+      "city": "Khouribga",
+      "city_ar": "",
+      "duty_type": "weekend_day",
+      "duty_category": "weekend",
+      "duty_label_fr": "Garde Jour / Weekend",
+      "duty_label_ar": "حراسة نهارية / نهاية الأسبوع",
+      "duty_hours_fr": "08:00 - 20:00 (Garde Jour / Weekend)",
+      "duty_hours_ar": "08:00 - 20:00 (حراسة نهارية / نهاية الأسبوع)",
+      "is_open": true,
+      "latitude": 32.886057,
+      "longitude": -6.900784,
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "settat_1",
@@ -7161,7 +6621,7 @@
       "is_open": true,
       "latitude": 33.00282992783129,
       "longitude": -7.636522521495817,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "settat_2",
@@ -7181,7 +6641,7 @@
       "is_open": true,
       "latitude": 32.98331918310214,
       "longitude": -7.638444078902788,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "settat_3",
@@ -7201,7 +6661,7 @@
       "is_open": true,
       "latitude": 33.0026751,
       "longitude": -7.6158342,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "settat_4",
@@ -7221,7 +6681,7 @@
       "is_open": true,
       "latitude": 32.9932386,
       "longitude": -7.6169862,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "settat_5",
@@ -7241,7 +6701,7 @@
       "is_open": true,
       "latitude": 33.00282992783129,
       "longitude": -7.636522521495817,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "berrechid_1",
@@ -7261,13 +6721,13 @@
       "is_open": true,
       "latitude": 33.27972202757112,
       "longitude": -7.572084910723677,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "berrechid_2",
-      "name": "Pharmacie Al Oum",
+      "name": "Pharmacie Al-Oum",
       "name_ar": "Pharmacie Al Oum",
-      "address": "52 bd ElHouria Maghrib Eljadid, Berrechid",
+      "address": "52, bd ElHouria, Maghrib Eljadid Berrechid",
       "address_ar": "52 bd ElHouria Maghrib Eljadid, Berrechid",
       "phone": "+212522324176",
       "city": "Berrechid",
@@ -7281,13 +6741,13 @@
       "is_open": true,
       "latitude": 33.26525,
       "longitude": -7.579883,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "berrechid_3",
       "name": "Pharmacie El Baraka",
       "name_ar": "Pharmacie El Baraka",
-      "address": "37 rue Omar Ben Abdelaziz, Berrechid",
+      "address": "37, rue Omar Ben Abdelaziz Berrechid",
       "address_ar": "37 rue Omar Ben Abdelaziz, Berrechid",
       "phone": "+212522534528",
       "city": "Berrechid",
@@ -7301,30 +6761,10 @@
       "is_open": true,
       "latitude": 33.26753466815216,
       "longitude": -7.573061905357352,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "berrechid_4",
-      "name": "Pharmacie El Iraki",
-      "name_ar": "Pharmacie El Iraki",
-      "address": "267 rue Dakhla, Berrechid",
-      "address_ar": "267 rue Dakhla, Berrechid",
-      "phone": "+212522328345",
-      "city": "Berrechid",
-      "city_ar": "",
-      "duty_type": "24h",
-      "duty_category": "permanent_24h",
-      "duty_label_fr": "Garde 24h (Tour de garde)",
-      "duty_label_ar": "حراسة 24 ساعة (نوبة الحراسة)",
-      "duty_hours_fr": "Garde continue 24h/24 (Relève à 09:00)",
-      "duty_hours_ar": "حراسة متواصلة 24/24 (تسليم النوبة 09:00)",
-      "is_open": true,
-      "latitude": 33.2605440667685,
-      "longitude": -7.591287515613547,
-      "verified_at": "2026-11-10 16:31"
-    },
-    {
-      "id": "berrechid_5",
       "name": "Pharmacie El Iraqui",
       "name_ar": "Pharmacie El Iraqui",
       "address": "267, rue dakhla Berrechid",
@@ -7341,13 +6781,13 @@
       "is_open": true,
       "latitude": 33.270647,
       "longitude": -7.588574,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
-      "id": "berrechid_6",
+      "id": "berrechid_5",
       "name": "Pharmacie des Familles",
       "name_ar": "Pharmacie des Familles",
-      "address": "229 bd Abdellah Echafchaouni bloc \"F\" hay Hassani, Berrechid",
+      "address": "229, bd Abdellah Echafchaouni , bloc \"F\", hay Hassani Berrechid",
       "address_ar": "229 bd Abdellah Echafchaouni bloc \"F\" hay Hassani, Berrechid",
       "phone": "+212522325823",
       "city": "Berrechid",
@@ -7361,7 +6801,7 @@
       "is_open": true,
       "latitude": 33.274339,
       "longitude": -7.571734,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "khemisset_1",
@@ -7381,7 +6821,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "khemisset_2",
@@ -7401,7 +6841,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "laayoune_1",
@@ -7421,7 +6861,7 @@
       "is_open": true,
       "latitude": 27.1326621,
       "longitude": -13.1665195,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "laayoune_2",
@@ -7441,7 +6881,7 @@
       "is_open": true,
       "latitude": 27.1490819,
       "longitude": -13.1839803,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "laayoune_3",
@@ -7461,7 +6901,7 @@
       "is_open": true,
       "latitude": 27.13427215593757,
       "longitude": -13.17471300284536,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "laayoune_4",
@@ -7481,7 +6921,7 @@
       "is_open": true,
       "latitude": 27.15322322756732,
       "longitude": -13.20787410511759,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "dakhla_1",
@@ -7521,7 +6961,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "guelmim_2",
@@ -7541,7 +6981,7 @@
       "is_open": true,
       "latitude": 28.9811264,
       "longitude": -10.0479375,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "guelmim_3",
@@ -7561,7 +7001,7 @@
       "is_open": true,
       "latitude": 28.9999533,
       "longitude": -10.0450688,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "guelmim_4",
@@ -7581,7 +7021,7 @@
       "is_open": true,
       "latitude": 29.00239,
       "longitude": -10.05624,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "taza_1",
@@ -7601,7 +7041,7 @@
       "is_open": true,
       "latitude": 34.227437,
       "longitude": -3.993605,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "taza_2",
@@ -7621,7 +7061,7 @@
       "is_open": true,
       "latitude": null,
       "longitude": null,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "taza_3",
@@ -7641,7 +7081,7 @@
       "is_open": true,
       "latitude": 34.220862,
       "longitude": -4.090819,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "errachidia_1",
@@ -7661,7 +7101,7 @@
       "is_open": true,
       "latitude": 31.9284772,
       "longitude": -4.424267,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "errachidia_2",
@@ -7681,7 +7121,7 @@
       "is_open": true,
       "latitude": 31.91029635824862,
       "longitude": -4.453611086504638,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "errachidia_3",
@@ -7701,7 +7141,7 @@
       "is_open": true,
       "latitude": 31.91823,
       "longitude": -4.42926,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "errachidia_4",
@@ -7721,7 +7161,7 @@
       "is_open": true,
       "latitude": 31.936016,
       "longitude": -4.44768,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "ouarzazate_1",
@@ -7741,7 +7181,7 @@
       "is_open": true,
       "latitude": 30.923728,
       "longitude": -6.9231754,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "ouarzazate_2",
@@ -7761,7 +7201,7 @@
       "is_open": true,
       "latitude": 30.9335436,
       "longitude": -6.937016,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "ouarzazate_3",
@@ -7781,7 +7221,7 @@
       "is_open": true,
       "latitude": 30.92535,
       "longitude": -6.892351,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "essaouira_1",
@@ -7801,13 +7241,13 @@
       "is_open": true,
       "latitude": 31.511745,
       "longitude": -9.757592,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "al-hoceima_1",
       "name": "Pharmacie Al Hilal",
       "name_ar": "Pharmacie Al Hilal",
-      "address": "105 av Sidi Abid, Al Hoceima",
+      "address": "105 av Sidi Abid Al hoceima",
       "address_ar": "105 av Sidi Abid, Al Hoceima",
       "phone": "+212539980033",
       "city": "Al Hoceïma",
@@ -7821,13 +7261,13 @@
       "is_open": true,
       "latitude": 35.25202224209329,
       "longitude": -3.934262155819706,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "al-hoceima_2",
       "name": "Pharmacie ElMoustachfa",
       "name_ar": "Pharmacie ElMoustachfa",
-      "address": "89 av. AlIskandaria, Al Hoceima",
+      "address": "89 av. AlIskandaria Al hoceima",
       "address_ar": "89 av. AlIskandaria, Al Hoceima",
       "phone": "+212539981131",
       "city": "Al Hoceïma",
@@ -7841,7 +7281,7 @@
       "is_open": true,
       "latitude": 35.240833,
       "longitude": -3.9382,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "al-hoceima_3",
@@ -7861,13 +7301,13 @@
       "is_open": true,
       "latitude": 35.2390945,
       "longitude": -3.927457,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "berkane_1",
       "name": "Pharmacie El Majd",
       "name_ar": "Pharmacie El Majd",
-      "address": "57 lot El Majd Rte de Saidia, Berkane",
+      "address": "57 lot El Majd Rte de Saidia Berkane",
       "address_ar": "57 lot El Majd Rte de Saidia, Berkane",
       "phone": "+212536617118",
       "city": "Berkane",
@@ -7881,13 +7321,13 @@
       "is_open": true,
       "latitude": 34.935917,
       "longitude": -2.323367,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "berkane_2",
       "name": "Pharmacie Populaire",
       "name_ar": "Pharmacie Populaire",
-      "address": "220 bd Hassan II, Berkane",
+      "address": "220 bd Hassan II Berkane",
       "address_ar": "220 bd Hassan II, Berkane",
       "phone": "+212536613638",
       "city": "Berkane",
@@ -7901,7 +7341,7 @@
       "is_open": true,
       "latitude": 34.920683,
       "longitude": -2.328183,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-kacem_1",
@@ -7921,7 +7361,7 @@
       "is_open": true,
       "latitude": 34.235668,
       "longitude": -5.732099,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-kacem_2",
@@ -7941,7 +7381,7 @@
       "is_open": true,
       "latitude": 34.234065,
       "longitude": -5.726314,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_1",
@@ -7961,7 +7401,7 @@
       "is_open": true,
       "latitude": 34.262117,
       "longitude": -5.926033,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_2",
@@ -7981,7 +7421,7 @@
       "is_open": true,
       "latitude": 34.25645,
       "longitude": -5.921817,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_3",
@@ -8001,7 +7441,7 @@
       "is_open": true,
       "latitude": 34.254361,
       "longitude": -5.923949,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_4",
@@ -8021,7 +7461,7 @@
       "is_open": true,
       "latitude": 34.228695,
       "longitude": -6.054667,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_5",
@@ -8041,7 +7481,7 @@
       "is_open": true,
       "latitude": 34.259878,
       "longitude": -5.927253,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_6",
@@ -8061,7 +7501,7 @@
       "is_open": true,
       "latitude": 34.259166,
       "longitude": -5.929592,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_7",
@@ -8081,7 +7521,7 @@
       "is_open": true,
       "latitude": 34.259251,
       "longitude": -5.931036,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_8",
@@ -8101,7 +7541,7 @@
       "is_open": true,
       "latitude": 34.2622961,
       "longitude": -5.9239749,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_9",
@@ -8121,7 +7561,7 @@
       "is_open": true,
       "latitude": 34.26012871274004,
       "longitude": -5.914620553814757,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_10",
@@ -8141,7 +7581,7 @@
       "is_open": true,
       "latitude": 34.251813,
       "longitude": -5.927786,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_11",
@@ -8161,7 +7601,7 @@
       "is_open": true,
       "latitude": 34.2583752,
       "longitude": -5.9149736,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_12",
@@ -8181,7 +7621,7 @@
       "is_open": true,
       "latitude": 34.259459,
       "longitude": -5.93849,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_13",
@@ -8201,7 +7641,7 @@
       "is_open": true,
       "latitude": 34.256175,
       "longitude": -5.932583,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_14",
@@ -8221,7 +7661,7 @@
       "is_open": true,
       "latitude": 34.25948791133145,
       "longitude": -5.906881373009275,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_15",
@@ -8241,7 +7681,7 @@
       "is_open": true,
       "latitude": 34.2675,
       "longitude": -5.919917,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_16",
@@ -8261,7 +7701,7 @@
       "is_open": true,
       "latitude": 34.250112,
       "longitude": -5.944446,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_17",
@@ -8281,7 +7721,7 @@
       "is_open": true,
       "latitude": 34.2522987,
       "longitude": -5.9285332,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_18",
@@ -8301,7 +7741,7 @@
       "is_open": true,
       "latitude": 34.26755,
       "longitude": -5.91935,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_19",
@@ -8321,7 +7761,7 @@
       "is_open": true,
       "latitude": 34.259878,
       "longitude": -5.927253,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_20",
@@ -8341,7 +7781,7 @@
       "is_open": true,
       "latitude": 34.2590735,
       "longitude": -5.9350268,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_21",
@@ -8361,7 +7801,7 @@
       "is_open": true,
       "latitude": 34.254187,
       "longitude": -5.927312,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     },
     {
       "id": "sidi-slimane_22",
@@ -8381,7 +7821,7 @@
       "is_open": true,
       "latitude": 34.268686,
       "longitude": -5.933615,
-      "verified_at": "2026-11-10 16:31"
+      "verified_at": "2026-11-11 00:12"
     }
   ]
 }
